@@ -31,7 +31,7 @@
         {% endif %}
 
         {% if site.logo %}
-        <p class="view"><a href="{{site.cv}}">My CV (PDF)</a></p>
+        <p class="view"><a href="{{site.cv | relative_url}}">My CV (PDF)</a></p>
         {% endif %}
         
         {% if site.show_downloads %}
