@@ -9,9 +9,4 @@ level. He has previously published in the journal South Asia and is a Contributi
 the journal Cultural Anthropology. He runs an interdisciplinary seminar series on
 Development at University of Toronto.
 * * *
-<ul class="downloads">
-          <li> <a href="https://skishchampi.github.io/assets/files/Aakash_Solanki_CV.pdf"><strong>CV </strong></a></li>
-          <li> <a href="https://in.linkedin.com/in/solankiaakash"><strong>LinkedIn</strong></a></li>
-          <li> <a href="https://utoronto.academia.edu/AakashSolanki"><strong>Academia</strong></a></li>            
-        </ul>
-        
+
