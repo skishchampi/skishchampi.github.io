@@ -14,6 +14,6 @@ the journal Cultural Anthropology. He runs an interdisciplinary seminar series o
 Development at University of Toronto.
 * * *
 
-***
+* * *
 Test material
-***
+* * *
