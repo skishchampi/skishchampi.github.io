@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**About**
+
 * * *
 Aakash Solanki a PhD candidate in Anthropology and South Asian studies at the University of
 Toronto. He is broadly interested in the genealogical study of states, statistics (stats), and
