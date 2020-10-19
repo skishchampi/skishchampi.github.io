@@ -4,3 +4,4 @@ logo: /assets/img/logo.jpg
 theme: jekyll-theme-minimal
 cv: /assets/files/Aakash_Solanki_CV.pdf
 permalink: /blog/:year/:month/:day/:title
+font: /assets/font/Noto-Sans-regular
