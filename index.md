@@ -12,8 +12,8 @@ information and its politics in colonial India. In addition to prior training in
 science, he has worked in government agencies both in the US and India, on data science
 projects in education , health, and skill development at the city, state, as well as the federal
 level. He has previously published in the journal South Asia and is a Contributing Editor to
-the journal Cultural Anthropology. He runs an interdisciplinary seminar series on
-Development at University of Toronto.
+the journal Cultural Anthropology. He runs an interdisciplinary [seminar series on
+Development](https://utdevsem.wordpress.com) at University of Toronto.
 * * *
 
 
