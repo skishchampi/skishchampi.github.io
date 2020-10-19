@@ -19,6 +19,14 @@ Development at University of Toronto.
 **Writing**
 * * *
 
+[Management of Performance and Performance of Management: Getting to Work on Time in the Indian Bureaucracy](https://doi.org/10.1080/00856401.2019.1603262), South Asia: Journal of South Asian Studies, 42:3, 588-605
+
+> This paper departs from the analytic lens of citizen versus the state and brings to attention intra-bureaucratic interactions in the wake of Aadhaar by focusing on the ongoing implementation of an Aadhaar Enabled Biometric Attendance System (AEBAS). Based on ethnographic research in a North Indian state, I show how AEBAS’ goals of performance evaluation and management were partially, and unintentionally, circumvented by staff members, in part owing to the socio-technical design of the system. I argue that an unintended consequence of projects using digital media technologies to quantify and manage performance is their tendency to produce a performance of management, and that scholars and activists must pay attention to such disjunctures inherent in projects of command and control.
+
+Keywords: Aadhaar, accountability, audit, bureaucracy, dashboard, efficiency, fingerprint, India, infrastructure, management, new media, state, surveillance, transparency
+
 ["Suddenly, Statistics?."](https://culanth.org/fieldsights/suddenly-statistics) Member Voices, Fieldsights, May 18. 
+
 > A piece I contributed to the [Academic Precarity in American Anthropology: A Forum](https://culanth.org/fieldsights/series/academic-precarity-in-american-anthropology-a-forum) by [Cultural Anthropology](https://culanth.org) where I wonder about the dissonance between anthropology's general suspicion of numbers and a sudden push for statistics in addressing the problem of precarity in american anthropology.
+
 * * *
