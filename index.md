@@ -14,6 +14,12 @@ the journal Cultural Anthropology. He runs an interdisciplinary seminar series o
 Development at University of Toronto.
 * * *
 
+
+
+Writing
 * * *
-Test material
+"Suddenly, Statistics?." Member Voices, Fieldsights, May 18. https://culanth.org/ﬁeldsights/suddenly-statistics
+ A piece I contributed to the Academic Precarity in American Anthropology: A Forum
+ by Cultural Anthropology where I wonder about the dissonance between anthropology's general suspicion of numbers and a sudden push for statistics in addressing the problem of precarity in american anthropology.
+
 * * *
