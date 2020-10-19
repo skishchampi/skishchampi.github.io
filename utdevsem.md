@@ -4,6 +4,8 @@ layout: default
 
 **Development Seminar**
 
+*Note* I ran the development seminar series at the University of Toronto between 2017 and 2019 alongwith Anthropologist Tania Li, and Geographer Katherine Rankin. What follows is a concept note on the seminar for 2018-2019.
+
 The Development Seminar is an interdisciplinary initiative at the University of Toronto which convenes to critically examine issues of global inequality, postcolonial politics, and power in the Global South. Guest speakers bring their innovative research to investigate issues including migration, infrastructure, livelihoods, gender, and politics.
 
 In the 2017-2018 academic year, we hosted development studies scholars, working on issues at the intersection of gender and foreign aid with emphasis on aid-giving institutions in the Global North, such as CIDA in Canada, and USAID in the US.  
@@ -15,3 +17,5 @@ There is clearly a very long history of use of computational techniques in devel
 What do we make of this ‘Smartness Mandate’ (Orit Halpern, forthcoming) within development? Does focus on audit practices of—say the Bill Gates Foundation— help us understand how calculative/computer aided practices shapes what development does, is, and becomes? The ‘Will to Improve’ that Tania Li (2007) theorised a decade ago, is now increasingly a human-computer assemblage of datasets being mined by data scientists using (un)sophisticated machine learning algorithms. Conversations in STS, information science, and more recently geography, anthropology, and environmental history have taken on ‘infrastructure’ as a matter of concern whereas STS, and more recently anthropology’s focus on multiple ontologies opens new avenues to approach older concerns in development studies. 
 
 With these reflections in mind, the theme for the 2018-2019 year is ‘Development Infrastructures’.  We plan to invite a set of scholars ranging from information science, history of science, anthropology, geography, and STS to reflect on ‘smartness’, data driven development, design in development, data and global health, data and state welfare, among others.
+
+For more, please see the [seminar website](https://utdevsem.wordpress.com)
