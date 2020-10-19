@@ -16,10 +16,10 @@ Development at University of Toronto.
 
 
 
-Writing
+**Writing**
 * * *
-"Suddenly, Statistics?." Member Voices, Fieldsights, May 18. https://culanth.org/ﬁeldsights/suddenly-statistics
- A piece I contributed to the Academic Precarity in American Anthropology: A Forum
- by Cultural Anthropology where I wonder about the dissonance between anthropology's general suspicion of numbers and a sudden push for statistics in addressing the problem of precarity in american anthropology.
+
+["Suddenly, Statistics?."](https://culanth.org/ﬁeldsights/suddenly-statistics) Member Voices, Fieldsights, May 18. 
+> A piece I contributed to the Academic Precarity in American Anthropology: A Forum by Cultural Anthropology where I wonder about the dissonance between anthropology's general suspicion of numbers and a sudden push for statistics in addressing the problem of precarity in american anthropology.
 
 * * *
