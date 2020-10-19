@@ -4,7 +4,7 @@ layout: default
 
 **Development Seminar**
 
-*Note* I ran the development seminar series at the University of Toronto between 2017 and 2019 alongwith Anthropologist Tania Li, and Geographer Katherine Rankin. What follows is a concept note on the seminar for 2018-2019.
+*Note*: I ran the development seminar series at the University of Toronto between 2017 and 2019 alongwith Anthropologist Tania Li, and Geographer Katherine Rankin. What follows is a concept note on the seminar for 2018-2019.
 
 The Development Seminar is an interdisciplinary initiative at the University of Toronto which convenes to critically examine issues of global inequality, postcolonial politics, and power in the Global South. Guest speakers bring their innovative research to investigate issues including migration, infrastructure, livelihoods, gender, and politics.
 
