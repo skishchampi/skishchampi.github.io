@@ -2,7 +2,7 @@
 layout: post
 title: "Aakash Solanki, lazy student, Launches Site"
 date: 2020-01-05
-tags: test post
+tags: ["test","post"]
 author: aakash
 ---
 
