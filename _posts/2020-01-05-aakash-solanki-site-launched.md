@@ -8,14 +8,19 @@ author: aakash
 
 Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
 
-<div class="post-tags">
-  {% if post %}
-    {% assign tags = post.tags %}
-  {% else %}
-    {% assign tags = page.tags %}
-  {% endif %}
-  {% for tag in tags %}
-  <a href="{{site.baseurl}}/tag/#{{tag|slugize}}">{{tag}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>{{page.title}}</title>
+  </head>
+  <body>
+    <h1>{{page.title}}</h1>
+    {{content}}
+    <p>
+      Tagged 
+      {% for tag in page.tags %}
+      <a class="post" href="/tag/{{tag}}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    </p>
+  </body>
+</html>
