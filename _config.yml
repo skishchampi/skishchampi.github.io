@@ -3,5 +3,4 @@ description: PhD Candidate in Anthropology and South Asian Studies at University
 logo: /assets/img/logo.jpg
 theme: jekyll-theme-minimal 
 cv: /assets/files/Aakash_Solanki_CV.pdf
-permalink: /blog/:year/:month/:day/:title
-permalink: /:tags/:title/
+permalink: /blog/:year/:month/:day/:title 
