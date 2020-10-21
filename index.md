@@ -22,6 +22,10 @@ Aakash Solanki a [PhD candidate](https://anthropology.utoronto.ca/people/graduat
 
 > This paper departs from the analytic lens of citizen versus the state and brings to attention intra-bureaucratic interactions in the wake of Aadhaar by focusing on the ongoing implementation of an Aadhaar Enabled Biometric Attendance System (AEBAS). Based on ethnographic research in a North Indian state, I show how AEBAS’ goals of performance evaluation and management were partially, and unintentionally, circumvented by staff members, in part owing to the socio-technical design of the system. I argue that an unintended consequence of projects using digital media technologies to quantify and manage performance is their tendency to produce a performance of management, and that scholars and activists must pay attention to such disjunctures inherent in projects of command and control.
 
+w/Tewari.S, [Going  Ethno  in  the  Indian  Bureaucracy](https://doi.org/10.1111/1559-8918.2016.01107), Ethnographic Praxis inIndustry Conference Proceedings 2016(1): 501–21.
+
+> A case study contributed to the Ethnographic Praxis in Industry conference on how to assess and improve digital literacy, and state capacity in government agencies in India using anthropological research on state, governance, and bureaucracy.
+
 
 ["Suddenly, Statistics?."](https://culanth.org/fieldsights/suddenly-statistics) Member Voices, Fieldsights, May 18. 
 
