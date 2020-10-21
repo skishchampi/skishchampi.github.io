@@ -13,6 +13,11 @@ Aakash Solanki a [PhD candidate](https://anthropology.utoronto.ca/people/graduat
 **Writing**
 * * *
 
+(Forthcoming) "Untidy Data: Spreadsheet Practices in the Indian Bureaucracy.” In Lives of Data: Essays on Computational Culture from India, edited by Sandeep Mertia. Amsterdam: Institute of Network Cultures, 2020.
+
+> A small book chapter I contributed to a vibrant and multi-disciplinary volume on data cultures from India. The volume brings together pracitioners and researchers working on data science projects in India, both contemporaneous as well as historical. My piece talks about the work of spreadsheet processing in an India bureaucracy from the lens of statistical data processing, as well as media technologies, and how media technologies --old and new-- intertwine to produce work practices in bureaucracies.
+
+
 [Management of Performance and Performance of Management: Getting to Work on Time in the Indian Bureaucracy](https://doi.org/10.1080/00856401.2019.1603262), South Asia: Journal of South Asian Studies, 42:3, 588-605
 
 > This paper departs from the analytic lens of citizen versus the state and brings to attention intra-bureaucratic interactions in the wake of Aadhaar by focusing on the ongoing implementation of an Aadhaar Enabled Biometric Attendance System (AEBAS). Based on ethnographic research in a North Indian state, I show how AEBAS’ goals of performance evaluation and management were partially, and unintentionally, circumvented by staff members, in part owing to the socio-technical design of the system. I argue that an unintended consequence of projects using digital media technologies to quantify and manage performance is their tendency to produce a performance of management, and that scholars and activists must pay attention to such disjunctures inherent in projects of command and control.
