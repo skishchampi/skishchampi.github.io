@@ -13,7 +13,7 @@ Aakash Solanki a [PhD candidate](https://anthropology.utoronto.ca/people/graduat
 **Writing**
 * * *
 
-[“Untidy Data: Spreadsheet Practices in the Indian Bureaucracy.” In Lives of Data: Essays on Computational Cultures from India, edited by Sandeep Mertia. Theory on Demand 39. Amsterdam: Institute of Network Cultures.](https://networkcultures.org/blog/publication/lives-of-data-essays-on-computational-cultures-from-india/)
+[“Untidy Data: Spreadsheet Practices in the Indian Bureaucracy.”](https://networkcultures.org/blog/publication/lives-of-data-essays-on-computational-cultures-from-india/) In Lives of Data: Essays on Computational Cultures from India, edited by Sandeep Mertia. Theory on Demand 39. Amsterdam: Institute of Network Cultures.
 
 > A small book chapter I contributed to a vibrant and multi-disciplinary volume on data cultures from India. The volume brings together pracitioners and researchers working on data science projects in India, both contemporaneous as well as historical. My piece talks about the work of spreadsheet processing in an India bureaucracy from the lens of statistical data processing, as well as media technologies, and how media technologies --old and new-- intertwine to produce work practices in bureaucracies.
 
