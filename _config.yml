@@ -113,7 +113,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+   Email is m a i l without the spaces @ "website" dot net.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -200,12 +200,12 @@ collections:
     permalink: /:collection/:title/
 
 announcements:
-  enabled: true
+  enabled: false #true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false #true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -316,7 +316,7 @@ scholar:
   last_name: [Solanki]
   first_name: [Aakash]
 
-  style: apa #chicago
+  style: chicago #apa
   locale: en
 
   source: /_bibliography/
