@@ -18,27 +18,20 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Aakash Solanki is a [PhD candidate](https://www.anthropology.utoronto.ca/people/directories/graduate-students/aakash-solanki) in Anthropology and South Asian Studies at the University of Toronto. His scholarship follows a genealogical approach to states, statistics, and computing, tracing how data infrastructures shape governance and social life across South Asia.
+Aakash Solanki is a [PhD candidate](https://www.anthropology.utoronto.ca/people/directories/graduate-students/aakash-solanki) in Anthropology and South Asian Studies at the University of Toronto. He studies how bureaucratic infrastructures and classificatory regimes travel across colonial and postcolonial contexts, with a particular focus on South Asian data governance.
 
-His current projects examine the politics of information in colonial India alongside contemporary experiments with digital governance. This work builds on professional experience in government agencies across the United States and India, where he led data science initiatives in education, health, and workforce development.
+His dissertation, <em>The State's Ledgers</em>, follows the materials and methods that stitch together archival ledgers, punch-card systems, and contemporary databases in Indian bureaucracies. The project draws on multi-sited ethnography, collaborative digital humanities work, and extended archival research to trace how categories of welfare, labor, and citizenship are produced and contested.
 
-Research interests include:
+Before graduate school, Aakash led analytics and service-design initiatives for government partners in India and the United States. Those collaborations inform his current interest in how quantitative systems intersect with everyday administrative practices and the ethics of digital experimentation in public agencies.
 
-- Bureaucratic archives, enumeration, and classification
-- Digital statecraft and the ethics of data-driven decision-making
-- Collaborative, mixed-methods approaches for anthropological research
+Research areas include:
 
-His research program is supported by the International Development Research Centre (IDRC) and the Wenner-Gren Foundation for Anthropological Research. He has published in *South Asia* and serves as a Contributing Editor for *Cultural Anthropology*. Beyond the university, he convenes an interdisciplinary [Development Seminar Series](http://aakashsolanki.net/utdevsem.html) at the University of Toronto that links scholars, practitioners, and policymakers.
+- Colonial and postcolonial histories of statistics and statecraft
+- Design, deployment, and maintenance of data infrastructures
+- Mixed-method and collaborative approaches to studying governance technologies
 
-He keeps running reflections, archival finds, and teaching experiments on the [Fieldnotes blog](/blog/) and shares project updates, syllabi, and public writing there as they emerge. For a fuller overview of ongoing collaborations and service, see the refreshed [publications](/publications/) and [CV](/cv/) pages, or get in touch via the channels below.
+His fieldwork and writing are supported by the International Development Research Centre and the Wenner-Gren Foundation. He has published in *South Asia: Journal of South Asian Studies*, contributed to *Cultural Anthropology* Fieldsights, and co-led the University of Toronto's Development Seminar Series linking scholars, practitioners, and policymakers.
 
-
-<!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
-
--->
+Recent syllabi, project updates, and public writing live on the [Fieldnotes blog](/blog/). For a fuller overview of ongoing collaborations, awards, and teaching, explore the [publications](/publications/) and [CV](/cv/) pages or reach out through the links below.
 
 

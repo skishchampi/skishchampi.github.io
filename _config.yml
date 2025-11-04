@@ -2,22 +2,23 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Aakash Solanki # the website title (if blank, full name will be used instead)
 first_name: Aakash
-middle_name: 
+middle_name:
 last_name: Solanki
-email: # mail@aakashsolanki.net
+email: mail@aakashsolanki.net
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Anthropologist of data and the state researching how bureaucratic infrastructures, digital governance,
+  and classificatory systems shape social life across South Asia.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   
-keywords: # add your own keywords or leave empty jekyll, jekyll-theme, academic-website, portfolio-website # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+keywords: anthropology, digital governance, data infrastructures, colonial archives, South Asia
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://skishchampi.github.io # the base hostname & protocol for your site
+url: https://aakashsolanki.net # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -78,7 +79,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: # your GitHub user name
+github_username: AakashSolanki # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: # Inspire HEP author ID 1010907
@@ -87,10 +88,10 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name solankiaakash
+linkedin_username: solankiaakash # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: # your ORCID ID 0000-0002-4879-6998 
+orcid_id: 0000-0002-4879-6998 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
@@ -108,7 +109,7 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: https://utsc.utoronto.ca/anthropology/aakash-solanki # work page URL
-x_username: # your X handle theplaa
+x_username: theplaa # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 

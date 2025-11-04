@@ -1,14 +1,16 @@
 - title: General Information
   type: map
   contents:
-    - name: Name
-      value: Aakash Solanki
+    - name: Appointment
+      value: PhD Candidate, Anthropology & South Asian Studies, University of Toronto
     - name: Email
-      value: aakash.solanki@utoronto.ca
+      value: mail@aakashsolanki.net
     - name: Website
       value: https://aakashsolanki.net
+    - name: ORCID
+      value: 0000-0002-4879-6998
     - name: Research Areas
-      value: Anthropology of the state; digital governance; data infrastructures; critical data studies
+      value: Bureaucratic ethnography; colonial data infrastructures; digital governance; critical data studies
 
 - title: Education
   type: time_table
@@ -17,8 +19,8 @@
       institution: University of Toronto, Toronto, Canada
       year: 2019 – present
       description:
-        - Dissertation traces the colonial and postcolonial genealogies of statistical infrastructures in India.
-        - Methods span multi-sited ethnography, archival research, and collaborative digital humanities projects.
+        - Dissertation <em>The State's Ledgers</em> traces the archival and contemporary lives of statistical infrastructures in India.
+        - Methods span multi-sited ethnography, collaborative digital humanities work, and long-form archival research.
 
 - title: Research Projects
   type: time_table
@@ -27,39 +29,23 @@
       institution: University of Toronto
       year: 2022 – present
       description:
-        - Dissertation project following the material life of ledgers, punch cards, and databases in Indian bureaucracies.
-        - Documents how classificatory schemes migrate between colonial archives and contemporary digital governance pilots.
+        - Ethnographic and archival study of how ledgers, punch cards, and databases organize welfare and labour in Indian bureaucracies.
+        - Examines the afterlives of colonial classification systems inside contemporary digital governance pilots.
     - title: Civic Data Clinics
-      institution: Comparative analysis across U.S. and Indian public agencies
+      institution: Partnerships with public agencies in India and the United States
       year: 2016 – 2021
       description:
-        - Co-designed analytics toolkits to support equitable allocation decisions in education, health, and workforce programs.
-        - Built training modules that paired statistical modelling with qualitative stakeholder mapping for public servants.
+        - Co-designed analytics toolkits and participatory trainings to support equitable decision-making in education, health, and workforce programs.
+        - Built workflows that paired statistical models with qualitative field protocols for public servants.
 
-- title: Professional Experience
-  type: time_table
-  contents:
-    - title: Data & Evidence Consultant (Education Technology)
-      institution: Department of School Education, Government of Haryana, India
-      year: 2014 – 2016
-      description:
-        - Led ethnographic assessments that informed state-wide management information system deployments.
-        - Designed digital literacy workshops that increased adoption of new reporting workflows by frontline staff.
-    - title: Senior Data Scientist (Public Sector Innovation)
-      institution: Cross-jurisdictional government partnerships, United States & India
-      year: 2016 – 2019
-      description:
-        - Directed interdisciplinary teams delivering analytics products for municipal, state, and federal agencies.
-        - Embedded qualitative fieldwork protocols into predictive models to account for ethical and contextual risks.
-
-- title: Grants & Fellowships
+- title: Fellowships & Awards
   type: time_table
   contents:
     - title: Doctoral Research Award
       institution: International Development Research Centre (IDRC)
       year: 2023 – 2025
       description:
-        - Supports archival and ethnographic fieldwork on data infrastructures and social protection in India.
+        - Supports archival and ethnographic fieldwork on the social lives of state data infrastructures in India.
     - title: Dissertation Fieldwork Grant
       institution: Wenner-Gren Foundation for Anthropological Research
       year: 2022 – 2024
@@ -71,12 +57,28 @@
   contents:
     - title: Peer-reviewed scholarship
       items:
-        - '"Management of Performance and Performance of Management: Getting to Work On Time in the Indian bureaucracy," *South Asia: Journal of South Asian Studies* 42(3), 2019.'
-        - '"#GoingEthno in the Indian Bureaucracy," *Proceedings of Ethnographic Praxis in Industry Conference*, 2016 (with Sarvesh Tewari).'
-    - title: Public anthropology
+        - '“Management of Performance and Performance of Management: Getting to Work on Time in the Indian Bureaucracy,” <em>South Asia: Journal of South Asian Studies</em> 42(3), 2019.'
+        - '“#GoingEthno in the Indian Bureaucracy,” <em>Proceedings of the Ethnographic Praxis in Industry Conference</em>, 2016 (with Sarvesh Tewari).'
+    - title: Public anthropology & editorial work
       items:
-        - '"Suddenly, Statistics?" *Cultural Anthropology* Fieldsights, 2018.'
-        - '"Untidy Data: Spreadsheet practices in the Indian Bureaucracy," in *Lives of Data: Essays on Computational Cultures from India*, Institute of Network Cultures, 2020.'
+        - '“Suddenly, Statistics?” <em>Cultural Anthropology</em> Fieldsights, 2018.'
+        - '“Untidy Data: Spreadsheet practices in the Indian Bureaucracy,” in <em>Lives of Data: Essays on Computational Cultures from India</em>, Institute of Network Cultures, 2020.'
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Data & Evidence Consultant (Education Technology)
+      institution: Department of School Education, Government of Haryana, India
+      year: 2014 – 2016
+      description:
+        - Led ethnographic assessments that informed statewide management information system deployments.
+        - Designed digital literacy workshops that increased adoption of new reporting workflows by frontline staff.
+    - title: Senior Data Scientist (Public Sector Innovation)
+      institution: Cross-jurisdictional government partnerships, United States & India
+      year: 2016 – 2019
+      description:
+        - Directed interdisciplinary teams delivering analytics products for municipal, state, and federal agencies.
+        - Embedded qualitative fieldwork protocols into predictive models to account for ethical and contextual risks.
 
 - title: Teaching & Mentorship
   type: list
@@ -87,14 +89,14 @@
 - title: Service & Leadership
   type: list
   contents:
-    - Contributing Editor, *Cultural Anthropology* (Fieldsights).
+    - Contributing Editor, <em>Cultural Anthropology</em> (Fieldsights).
     - Convenor, Development Seminar Series, University of Toronto.
-    - Organizer, collaborative reading group on South Asian data infrastructures across UTSC and Munk School communities.
+    - Organizer of a collaborative reading group on South Asian data infrastructures across UTSC and the Munk School.
 
 - title: Research & Technical Skills
   type: list
   contents:
     - Archival research, oral history, and long-form ethnography.
     - Quantitative analysis in R, Python, and SQL with emphasis on transparent, reproducible workflows.
-    - Data visualization and storytelling for public sector audiences.
+    - Data visualization and narrative design for public sector audiences.
     - Languages: English, Hindi.
