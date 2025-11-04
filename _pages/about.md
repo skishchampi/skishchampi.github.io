@@ -18,7 +18,19 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Aakash Solanki a [PhD candidate](https://www.anthropology.utoronto.ca/people/directories/graduate-students/aakash-solanki) in Anthropology and South Asian studies at the University of Toronto. He is broadly interested in the genealogical study of states, statistics (stats), and computing. In the past, he has worked on the collection, classification, management of information and its politics in colonial India. In addition to prior training in computer science, he has worked in government agencies both in the US and India, on data science projects in education, health, and skill development at the city, state, as well as the federal level. His research is funded by the International Development Research Center (IDRC) and the Wenner-Gren Foundation for Anthropological Research. He has previously published in the journal South Asia and is a Contributing Editor to the journal Cultural Anthropology. He runs an interdisciplinary [seminar series on Development](http://aakashsolanki.net/utdevsem.html) at University of Toronto.
+Aakash Solanki is a [PhD candidate](https://www.anthropology.utoronto.ca/people/directories/graduate-students/aakash-solanki) in Anthropology and South Asian Studies at the University of Toronto. His scholarship follows a genealogical approach to states, statistics, and computing, tracing how data infrastructures shape governance and social life across South Asia.
+
+His current projects examine the politics of information in colonial India alongside contemporary experiments with digital governance. This work builds on professional experience in government agencies across the United States and India, where he led data science initiatives in education, health, and workforce development.
+
+Research interests include:
+
+- Bureaucratic archives, enumeration, and classification
+- Digital statecraft and the ethics of data-driven decision-making
+- Collaborative, mixed-methods approaches for anthropological research
+
+His research program is supported by the International Development Research Centre (IDRC) and the Wenner-Gren Foundation for Anthropological Research. He has published in *South Asia* and serves as a Contributing Editor for *Cultural Anthropology*. Beyond the university, he convenes an interdisciplinary [Development Seminar Series](http://aakashsolanki.net/utdevsem.html) at the University of Toronto that links scholars, practitioners, and policymakers.
+
+For a fuller overview of ongoing projects, see the [publications](/publications/) and [CV](/cv/) pages, or get in touch via the channels below.
 
 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
