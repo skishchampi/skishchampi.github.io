@@ -30,7 +30,7 @@ Research interests include:
 
 His research program is supported by the International Development Research Centre (IDRC) and the Wenner-Gren Foundation for Anthropological Research. He has published in *South Asia* and serves as a Contributing Editor for *Cultural Anthropology*. Beyond the university, he convenes an interdisciplinary [Development Seminar Series](http://aakashsolanki.net/utdevsem.html) at the University of Toronto that links scholars, practitioners, and policymakers.
 
-For a fuller overview of ongoing projects, see the [publications](/publications/) and [CV](/cv/) pages, or get in touch via the channels below.
+He keeps running reflections, archival finds, and teaching experiments on the [Fieldnotes blog](/blog/) and shares project updates, syllabi, and public writing there as they emerge. For a fuller overview of ongoing collaborations and service, see the refreshed [publications](/publications/) and [CV](/cv/) pages, or get in touch via the channels below.
 
 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
