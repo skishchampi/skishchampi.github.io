@@ -1,9 +1,13 @@
 title: Aakash Solanki
-description: PhD Candidate in Anthropology and South Asian Studies at University of Toronto
+description: >-
+  PhD candidate in Anthropology and South Asian Studies at the University of
+  Toronto, researching the genealogy of states, statistics, and computing.
+url: https://aakashsolanki.net
+author: Aakash Solanki
 logo: /assets/img/logo.jpg
-theme: jekyll-theme-minimal 
-cv: /assets/Aakash Solanki CV.pdf
-permalink: /blog/:year/:month/:day/:title 
+theme: jekyll-theme-minimal
+orcid: https://orcid.org/0000-0002-4879-6998
+permalink: /blog/:year/:month/:day/:title
 collections:
   tags:
     output: true
