@@ -26,8 +26,28 @@ Aakash Solanki a PhD candidate in Anthropology and South Asian studies at the Un
 
 <ul class="news-list">
   <li>
-    <span class="news-date">01 Oct 2024</span>
-    <span>Delivering a talk at the Center for Ethnography, University of Toronto Scarborough Campus: "Politics and Poetics of a Formula: Digital Data Infrastructures and the Mediation of Development," October 16, 2024.</span>
+    <span class="news-date">Oct 2025</span>
+    <span>Talk at the International Federation for Library Associations and Institutions Webinar: "Caste, Libraries, and Public Finance."</span>
+  </li>
+  <li>
+    <span class="news-date">Aug 2025</span>
+    <span>Invited talk at Symposium on Digital Inequalities and the Global South, IIIT-Delhi: "Infrastructures of IntraStatecraft: Digital Public Finance and the Mediation of Fiscal Federal Relations in India."</span>
+  </li>
+  <li>
+    <span class="news-date">Apr 2025</span>
+    <span>Talk at Center for South Asian Studies, University of Toronto Scarborough: "Rethinking the emergence of the Poverty Line: The 1961 Census and technopolitics of governmentality in India."</span>
+  </li>
+  <li>
+    <span class="news-date">Oct 2024</span>
+    <span>Talk at Center for Ethnography, University of Toronto Scarborough: "Digital Infrastructures and the Mediation of Development."</span>
+  </li>
+  <li>
+    <span class="news-date">Apr 2024</span>
+    <span>Talk at Cultures of Data Workshop, University of Pennsylvania: "Can we really do it? The promise of a guerrilla data practice."</span>
+  </li>
+  <li>
+    <span class="news-date">Feb 2024</span>
+    <span>Invited talk at Cornell University: "Politics and Poetics of a Formula."</span>
   </li>
 </ul>
 
@@ -37,7 +57,9 @@ Aakash Solanki a PhD candidate in Anthropology and South Asian studies at the Un
 
 * * *
 
-["Untidy Data: Spreadsheet Practices in the Indian Bureaucracy."](https://networkcultures.org/blog/publication/lives-of-data-essays-on-computational-cultures-from-india/) In *Lives of Data: Essays on Computational Cultures from India*, edited by Sandeep Mertia. Theory on Demand 39. Amsterdam: Institute of Network Cultures.
+with Mertia, S., ["India's start-ups are not lacking innovation but imagination."](https://indianexpress.com/article/opinion/columns/india-start-ups-not-lacking-innovation-imagination-9974148/) *The Indian Express*, 2025.
+
+["Untidy Data: Spreadsheet Practices in the Indian Bureaucracy."](https://networkcultures.org/blog/publication/lives-of-data-essays-on-computational-cultures-from-india/) In *Lives of Data: Essays on Computational Cultures from India*, edited by Sandeep Mertia. Theory on Demand 39. Amsterdam: Institute of Network Cultures. 2020.
 
 > A book chapter contributed to a multi-disciplinary volume on data cultures from India. The volume brings together practitioners and researchers working on data science projects in India, both contemporaneous and historical. The piece examines spreadsheet processing in an Indian bureaucracy through the lens of statistical data processing and media technologies, and how media technologies — old and new — intertwine to produce work practices in bureaucracies.
 
@@ -54,3 +76,25 @@ with Tewari, S., [Going Ethno in the Indian Bureaucracy](https://doi.org/10.1111
 > A piece contributed to the [Academic Precarity in American Anthropology: A Forum](https://culanth.org/fieldsights/series/academic-precarity-in-american-anthropology-a-forum) by [*Cultural Anthropology*](https://culanth.org) on the dissonance between anthropology's general suspicion of numbers and a sudden push for statistics in addressing the problem of precarity in American anthropology.
 
 * * *
+
+## Teaching
+
+* * *
+
+<ul class="news-list">
+  <li>
+    <span class="news-date">Fall 2025</span>
+    <span>CAS390H1F: Development and Technology in Asia, University of Toronto.</span>
+  </li>
+  <li>
+    <span class="news-date">Winter 2024</span>
+    <span>SAH200H5S: Being Human in South Asia, University of Toronto.</span>
+  </li>
+  <li>
+    <span class="news-date">Fall 2023</span>
+    <span>ANT374H1F: Rethinking Development, University of Toronto.</span>
+  </li>
+</ul>
+
+* * *
+
