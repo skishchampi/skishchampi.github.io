@@ -63,6 +63,8 @@ with Mertia, S., ["India's start-ups are not lacking innovation but imagination.
 
 > A book chapter contributed to a multi-disciplinary volume on data cultures from India. The volume brings together practitioners and researchers working on data science projects in India, both contemporaneous and historical. The piece examines spreadsheet processing in an Indian bureaucracy through the lens of statistical data processing and media technologies, and how media technologies — old and new — intertwine to produce work practices in bureaucracies.
 
+[Listen: New Books in Technology podcast on *Lives of Data*](https://player.fm/series/new-books-in-technology-2421470/sandeep-mertia-lives-of-data-essays-on-computational-cultures-from-india-institute-of-networked-cultures-2020)
+
 [Management of Performance and Performance of Management: Getting to Work on Time in the Indian Bureaucracy](https://doi.org/10.1080/00856401.2019.1603262), *South Asia: Journal of South Asian Studies*, 42:3, 588–605. 2019.
 
 > This paper departs from the analytic lens of citizen versus the state and brings to attention intra-bureaucratic interactions in the wake of Aadhaar by focusing on the ongoing implementation of an Aadhaar Enabled Biometric Attendance System (AEBAS). Based on ethnographic research in a North Indian state, it shows how AEBAS' goals of performance evaluation and management were partially, and unintentionally, circumvented by staff members, in part owing to the socio-technical design of the system. An unintended consequence of projects using digital media technologies to quantify and manage performance is their tendency to produce a performance of management.
