@@ -6,11 +6,7 @@ layout: default
 
 * * *
 
-Aakash Solanki is a [PhD candidate](https://www.anthropology.utoronto.ca/people/directories/graduate-students/aakash-solanki) in Anthropology and South Asian Studies at the University of Toronto. He studies how bureaucratic infrastructures and classificatory regimes travel across colonial and postcolonial contexts, with a particular focus on South Asian data governance.
-
-His dissertation, *The State's Ledgers*, follows the materials and methods that stitch together archival ledgers, punch-card systems, and contemporary databases in Indian bureaucracies. The project draws on multi-sited ethnography, collaborative digital humanities work, and extended archival research to trace how categories of welfare, labor, and citizenship are produced and contested.
-
-Before graduate school, Aakash led analytics and service-design initiatives for government partners in India and the United States. His research is funded by the International Development Research Center (IDRC) and the Wenner-Gren Foundation for Anthropological Research. He is a Contributing Editor to the journal *Cultural Anthropology* and has previously published in *South Asia*. He runs an interdisciplinary [seminar series on Development](http://aakashsolanki.net/utdevsem.html) at the University of Toronto.
+Aakash Solanki a PhD candidate in Anthropology and South Asian studies at the University of Toronto. He is broadly interested in the genealogical study of states, statistics (stats), and computing. In the past, he has worked on the collection, classification, management of information and its politics in colonial India. In addition to prior training in computer science, he has worked in government agencies both in the US and India, on data science projects in education, health, and skill development at the city, state, as well as the federal level. His research is funded by the International Development Research Center (IDRC) and the Wenner-Gren Foundation for Anthropological Research. He has previously published in the journal South Asia and is a Contributing Editor to the journal Cultural Anthropology. He runs an interdisciplinary seminar series on Development at University of Toronto.
 
 * * *
 
