@@ -1,20 +1,31 @@
 ---
 layout: default
 title: Blog
+description: "Short essays and notes, mostly on fieldwork, methods, and the small grammars of bureaucratic life."
 ---
 
-## Blog
-
-* * *
+<header class="pagehead">
+  <div>
+    <div class="kicker">Folio · Notebook</div>
+    <h1>Notebook.</h1>
+    <p class="standfirst">Short essays and notes, mostly on fieldwork, methods, and the small grammars of bureaucratic life. Cadence: occasional.</p>
+  </div>
+  <div class="meta">
+    <dl>
+      <dt>Posts</dt><dd>{{ site.posts.size }}</dd>
+      <dt>RSS</dt><dd><a href="{{ '/feed.xml' | relative_url }}">/feed.xml</a></dd>
+    </dl>
+  </div>
+</header>
 
 {% if site.posts.size > 0 %}
   {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for year in postsByYear %}
-  <h3>{{ year.name }}</h3>
+  <h2 class="sect"><span class="n">{{ year.name }}</span>Year {{ year.name }}</h2>
   <ul class="posts">
     {% for post in year.items %}
     <li>
-      <span class="post-date">{{ post.date | date: "%-d %B" }}</span>
+      <span class="post-date">{{ post.date | date: "%-d %b" }}</span>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
     {% endfor %}
@@ -23,3 +34,5 @@ title: Blog
 {% else %}
   <p class="posts-empty">No posts yet — check back soon.</p>
 {% endif %}
+
+<p class="back"><a href="/stuff/">← Back to Stuff</a></p>

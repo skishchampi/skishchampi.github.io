@@ -2,26 +2,33 @@
 layout: default
 title: Development Seminar
 permalink: /utdevsem/
+description: "Concept note for the 2018-2019 Development Seminar series at the University of Toronto."
 ---
 
-**Development Seminar**
+<header class="pagehead">
+  <div>
+    <div class="kicker">Archive · 2017–2019</div>
+    <h1>Development Seminar.</h1>
+    <p class="standfirst">An interdisciplinary initiative at the University of Toronto, convening to critically examine global inequality, postcolonial politics, and power in the Global South. Coordinated with Tania Li (Anthropology) and Katherine Rankin (Geography).</p>
+  </div>
+  <div class="meta">
+    <dl>
+      <dt>Years</dt><dd>2017–2019</dd>
+      <dt>Host</dt><dd>U of Toronto</dd>
+    </dl>
+  </div>
+</header>
 
-*Note*: I ran the development seminar series at the University of Toronto between 2017 and 2019 along with Anthropologist Tania Li, and Geographer Katherine Rankin. What follows is a concept note on the seminar for 2018-2019.
+<div class="block">
+  <div class="label">Concept note · 2018–2019</div>
+  <div class="body">
+    <p>Guest speakers bring innovative research investigating migration, infrastructure, livelihoods, gender, and politics. In the 2017–2018 academic year, we hosted development studies scholars working at the intersection of gender and foreign aid, with emphasis on aid-giving institutions in the Global North — CIDA in Canada, USAID in the US.</p>
+    <p>The 2018–2019 series takes off from where we left in March: the politics of numbers behind development. Numbers — or to use a more current term, data (usually connoting numerical data) — are ubiquitous. Business organisations have talked for years about &ldquo;data as the new oil&rdquo;; governments, transnational aid agencies, Bretton Woods organisations, and others have turned to carefully exploring &ldquo;data&rdquo; as the new twenty-first century asset. The focus on numerical data — Big Data, machine learning, artificial intelligence — as the bedrock of informed policy and business decision-making is instrumental to understanding emerging changes in development practice.</p>
+    <p>There is a long history of computational techniques in development aid work. But with new media technologies, machine-readable data sets, and large-scale digital infrastructures, much of what USAID, CIDA, UKAID, Gates, MSDF, Omidyar, and others do is changing with particular data analytics and computing practices. This new &ldquo;data&rdquo; moment joins relatively older debates in ICTD, in mass media for development, and in internet for development. Microfinance now depends on cell phone data to predict financial behaviour; development projects are increasingly monitored on impact investment metrics; development impact bonds proliferate; public health work involves technology partners with the &ldquo;best&rdquo; data collection applications for malaria and TB interventions; insurance companies scramble for the &ldquo;best&rdquo; data on prospective clients.</p>
+    <p>What do we make of this &ldquo;Smartness Mandate&rdquo; (Orit Halpern, forthcoming) within development? Does attention to audit practices — say, of the Bill Gates Foundation — help us understand how calculative, computer-aided practices shape what development does, is, and becomes? The &ldquo;Will to Improve&rdquo; that Tania Li (2007) theorised a decade ago is now increasingly a human–computer assemblage of datasets being mined with (un)sophisticated machine learning. STS, information science, geography, anthropology, and environmental history have taken &ldquo;infrastructure&rdquo; as a matter of concern; STS and anthropology&rsquo;s focus on multiple ontologies opens new avenues for older concerns in development studies.</p>
+    <p>With these reflections in mind, the theme for 2018–2019 is <em>Development Infrastructures</em>. We invite scholars from information science, history of science, anthropology, geography, and STS to reflect on smartness, data-driven development, design in development, data and global health, data and state welfare.</p>
+    <p>For more, please see the <a href="https://utdevsem.wordpress.com" rel="noopener">seminar website</a>.</p>
+  </div>
+</div>
 
-The Development Seminar is an interdisciplinary initiative at the University of Toronto which convenes to critically examine issues of global inequality, postcolonial politics, and power in the Global South. Guest speakers bring their innovative research to investigate issues including migration, infrastructure, livelihoods, gender, and politics.
-
-In the 2017-2018 academic year, we hosted development studies scholars, working on issues at the intersection of gender and foreign aid with emphasis on aid-giving institutions in the Global North, such as CIDA in Canada, and USAID in the US.  
-
-The 2018-2019 development seminar series will take off from where we left in March on politics of numbers behind development. Numbers, or to use a more current term, data (usually connoting numerical data), are ubiquitous. Business organisations have already been talking about how ‘data is new oil’ whereas governments, transnational aid agencies, and Bretton woods organisations and others have also turned to carefully exploring ‘data’ as the new twenty-first century asset. The focus on numerical data—Big Data, and machine learning and artificial intelligence—as the bedrock of informed policy and business decision making is instrumental to understand the emerging changes in development practices. We see the influence of these newer infrastructures of knowledge, and development being invoked in the proposed smart city in Toronto, and the many AI strategy papers being put out by various governments within the last year.
-
-There is clearly a very long history of use of computational techniques in development aid work. However, with new media technologies, creation and availability of machine readable data sets, and the building of large scale digital infrastructures, much of the work that USAID, CIDA, UKAID, Gates, MSDF, Omidyar Network, and others do is changing with particular data analytics and computing practices. This new ‘data’ moment joins the relatively older debates in ICTD, mass media such as TV, radio for development, internet for development (Facebook’s infamous efforts in Myanmar or Google Internet Balloons in Africa). Much of micro finance work now depends on fetching people’s cell phone use data to predict their financial behaviour and credit ratings—whether in Bangladesh or Kenya—using mobile money and mobile wallets to promise  brick and mortar less banking in places where banks haven’t been able to reach. Development projects are increasingly monitored and evaluated based on impact investment metrics, while development impact bonds (DIB) are proliferating. Public Health work is increasingly relying on involving technology partners with the best data collection applications so that programs for malaria, and TB interventions can be monitored appropriately, while insurance companies scramble for the ‘best' data on prospective clients. 
-
-What do we make of this ‘Smartness Mandate’ (Orit Halpern, forthcoming) within development? Does focus on audit practices of—say the Bill Gates Foundation— help us understand how calculative/computer aided practices shapes what development does, is, and becomes? The ‘Will to Improve’ that Tania Li (2007) theorised a decade ago, is now increasingly a human-computer assemblage of datasets being mined by data scientists using (un)sophisticated machine learning algorithms. Conversations in STS, information science, and more recently geography, anthropology, and environmental history have taken on ‘infrastructure’ as a matter of concern whereas STS, and more recently anthropology’s focus on multiple ontologies opens new avenues to approach older concerns in development studies. 
-
-With these reflections in mind, the theme for the 2018-2019 year is ‘Development Infrastructures’.  We plan to invite a set of scholars ranging from information science, history of science, anthropology, geography, and STS to reflect on ‘smartness’, data driven development, design in development, data and global health, data and state welfare, among others.
-
-For more, please see the [seminar website](https://utdevsem.wordpress.com)
-
-* * *
-
-[← Back to About](/)
+<p class="back"><a href="/">← Back to About</a></p>

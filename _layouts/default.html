@@ -1,50 +1,112 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}" data-theme="light">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Set theme before CSS loads to prevent flash -->
+
     <script>
       (function () {
-        var stored = localStorage.getItem('theme');
-        var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        var stored;
+        try { stored = localStorage.getItem('theme'); } catch (e) {}
+        var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
         document.documentElement.setAttribute('data-theme', stored || (prefersDark ? 'dark' : 'light'));
       })();
     </script>
-{% seo %}
+
+    {% seo %}
+
+    {%- assign title = page.title | default: site.title -%}
+    <meta name="description" content="{{ page.description | default: site.description | strip_newlines }}">
+    <meta name="author" content="{{ site.author }}">
+    <meta name="keywords" content="Aakash Solanki, anthropology, South Asian studies, ethnography, bureaucracy, India, statistics, computing, University of Toronto, STS, digital infrastructures, caste, technoscience">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <meta name="robots" content="index,follow,max-image-preview:large">
+    <meta name="theme-color" content="#f7f2e8" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#2a251f" media="(prefers-color-scheme: dark)">
+
+    <meta name="citation_author" content="Solanki, Aakash">
+    <meta name="citation_author_institution" content="University of Toronto">
+    <meta name="citation_author_orcid" content="{{ site.orcid }}">
+    <meta name="DC.title" content="{{ title }} — {{ site.author }}">
+    <meta name="DC.creator" content="{{ site.author }}">
+    <meta name="DC.subject" content="Anthropology; Science and Technology Studies; South Asian Studies">
+    <meta name="DC.type" content="Text.Homepage.Personal">
+    <meta name="DC.language" content="en">
+
+    <meta property="og:type" content="profile">
+    <meta property="og:site_name" content="{{ site.author }}">
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:description" content="{{ page.description | default: site.description | strip_newlines }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:locale" content="en_US">
+    <meta property="profile:first_name" content="Aakash">
+    <meta property="profile:last_name" content="Solanki">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ title }}">
+    <meta name="twitter:description" content="{{ page.description | default: site.description | strip_newlines }}">
+
+    {% if page.url == '/' %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "{{ site.author }}",
+      "url": "{{ site.url }}",
+      "jobTitle": "PhD Candidate",
+      "affiliation": {
+        "@type": "CollegeOrUniversity",
+        "name": "University of Toronto",
+        "department": "Department of Anthropology; Centre for South Asian Studies"
+      },
+      "alumniOf": ["University of Toronto", "University of Chicago"],
+      "sameAs": ["{{ site.orcid }}", "https://scholar.google.com/citations?user=Y0LLLUMAAAAJ"],
+      "identifier": "{{ site.orcid }}",
+      "knowsAbout": [
+        "Anthropology of the state",
+        "Science and technology studies",
+        "History of statistics and computing",
+        "Ethnography of bureaucracy",
+        "South Asia",
+        "Caste and technoscience"
+      ]
+    }
+    </script>
+    {% endif %}
+
     <link rel="icon" href="{{ '/assets/img/favicon.svg' | relative_url }}" type="image/svg+xml">
-    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <link rel="preconnect" href="https://fonts.bunny.net" crossorigin>
+    <link rel="stylesheet" href="https://fonts.bunny.net/css?family=newsreader:400,400i,500,500i,600|inter:400,500,600|jetbrains-mono:400,500&display=swap">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
   <body>
+    <a href="#main" class="skip-link">Skip to content</a>
+
     <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
-        {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" />
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        <nav aria-label="Main">
-          <ul class="downloads">
-            <li><a href="{{ '/' | relative_url }}"><strong>About</strong></a></li>
-            <li><a href="{{ '/stuff/' | relative_url }}"><strong>Stuff</strong></a></li>
-            <li><a href="{{ '/contact/' | relative_url }}"><strong>Contact</strong></a></li>
-          </ul>
+      <header class="mast" role="banner">
+        <h1 class="mast-title">
+          <a href="{{ '/' | relative_url }}">{{ site.author }}</a>
+          <span class="sub">Toronto</span>
+        </h1>
+        <nav class="mast-nav" aria-label="Primary">
+          {%- assign here = page.url -%}
+          <a href="{{ '/' | relative_url }}"{% if here == '/' %} class="active" aria-current="page"{% endif %}>About</a>
+          <a href="{{ '/stuff/' | relative_url }}"{% if here contains '/stuff' %} class="active" aria-current="page"{% endif %}>Stuff</a>
+          <a href="{{ '/contact/' | relative_url }}"{% if here contains '/contact' %} class="active" aria-current="page"{% endif %}>Contact</a>
+          <button id="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">Dark</button>
         </nav>
-
-        <button id="theme-toggle" aria-label="Toggle dark mode" title="Toggle dark mode"></button>
       </header>
-      <section>
 
-      {{ content }}
+      <main id="main">
+        {{ content }}
+      </main>
 
-      </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      <footer class="site">
+        <span>© {{ site.time | date: '%Y' }} {{ site.author }} · Set in Newsreader &amp; Inter</span>
+        <span><a href="{{ site.orcid }}" rel="noopener">ORCID</a> · <a href="{{ '/feed.xml' | relative_url }}">RSS</a></span>
       </footer>
     </div>
-    <script src="{{ "/assets/js/theme.js" | relative_url }}"></script>
+
+    <script src="{{ '/assets/js/theme.js' | relative_url }}" defer></script>
   </body>
 </html>

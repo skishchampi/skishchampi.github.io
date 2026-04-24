@@ -2,61 +2,89 @@
 layout: default
 title: Talks
 permalink: /talks/
+description: "Recent talks, workshops, and invited presentations by Aakash Solanki."
 ---
 
-## Talks
+<header class="pagehead">
+  <div>
+    <div class="kicker">Folio · Talks</div>
+    <h1>Lectures &amp; panels.</h1>
+    <p class="standfirst">Recent invited lectures, conference presentations, and workshop talks. Slides and recordings available on request for most.</p>
+  </div>
+  <div class="meta">
+    <dl>
+      <dt>Since</dt><dd>2021</dd>
+      <dt>Recent</dt><dd>IFLA · IIIT-Delhi</dd>
+      <dt>Travel from</dt><dd>Toronto</dd>
+      <dt>Language</dt><dd>English · Hindi</dd>
+    </dl>
+  </div>
+</header>
 
-* * *
+<div class="talk">
+  <span class="dt">Oct 2025</span>
+  <span class="ttl">&ldquo;Caste, Libraries, and Public Finance&rdquo;</span>
+  <span class="at">IFLA webinar</span>
+</div>
 
-Recent talks, workshops, and invited presentations.
+<div class="talk">
+  <span class="dt">Aug 2025</span>
+  <span class="ttl">&ldquo;Infrastructures of IntraStatecraft: Digital Public Finance and the Mediation of Fiscal Federal Relations in India&rdquo;</span>
+  <span class="at">IIIT-Delhi (invited)</span>
+</div>
 
-<ul class="news-list">
-  <li>
-    <span class="news-date">Oct 2025</span>
-    <span>"Caste, Libraries, and Public Finance." Webinar, <em>Introduction to Caste for Librarians</em>, International Federation for Library Associations and Institutions.</span>
-  </li>
-  <li>
-    <span class="news-date">Aug 2025</span>
-    <span>"Infrastructures of IntraStatecraft: Digital Public Finance and the Mediation of Fiscal Federal Relations in India." Invited talk, Symposium on Digital Inequalities and the Global South, IIIT-Delhi.</span>
-  </li>
-  <li>
-    <span class="news-date">Apr 2025</span>
-    <span>"Rethinking the Emergence of the Poverty Line: The 1961 Census and Technopolitics of Governmentality in India." Center for South Asian Studies, University of Toronto Scarborough.</span>
-  </li>
-  <li>
-    <span class="news-date">Oct 2024</span>
-    <span>"Digital Infrastructures and the Mediation of Development." Center for Ethnography, University of Toronto Scarborough.</span>
-  </li>
-  <li>
-    <span class="news-date">Apr 2024</span>
-    <span>"'Can We Really Do It?' The Promise of a Guerrilla Data Practice." Cultures of Data Workshop, University of Pennsylvania.</span>
-  </li>
-  <li>
-    <span class="news-date">Feb 2024</span>
-    <span>"Politics and Poetics of a Formula." Invited talk, Cornell University.</span>
-  </li>
-  <li>
-    <span class="news-date">Jun 2023</span>
-    <span>"Maximum Data, Minimum Insights: Indian Bureaucracy's Tryst with Digital India." Invited presentation, University of Lucerne.</span>
-  </li>
-  <li>
-    <span class="news-date">Apr 2023</span>
-    <span>"Participant-Observation Tactics for Studying Up Among Elites." Guest lecture, Flame University, Pune.</span>
-  </li>
-  <li>
-    <span class="news-date">Dec 2022</span>
-    <span>"'Can You WhatsApp It to Me?' Mobile Data Dashboards and Evidence-Based Policy." Panel presentation, 4S Conference, Cholula.</span>
-  </li>
-  <li>
-    <span class="news-date">Jul 2021</span>
-    <span>"Surveying the MISes: Building Infrastructures to Monitor 'Outcomes' in India." Invited workshop, New Sciences New States Collective.</span>
-  </li>
-  <li>
-    <span class="news-date">Mar 2021</span>
-    <span>"Shoveling Data? Monitoring Outcomes in the Indian Public Sector." Invited workshop, Data and Society Institute, New York.</span>
-  </li>
-</ul>
+<div class="talk">
+  <span class="dt">Apr 2025</span>
+  <span class="ttl">&ldquo;Rethinking the Emergence of the Poverty Line: The 1961 Census and Technopolitics of Governmentality in India&rdquo;</span>
+  <span class="at">CSAS, U of Toronto Scarborough</span>
+</div>
 
-* * *
+<div class="talk">
+  <span class="dt">Oct 2024</span>
+  <span class="ttl">&ldquo;Digital Infrastructures and the Mediation of Development&rdquo;</span>
+  <span class="at">Center for Ethnography, UTSC</span>
+</div>
 
-[← Back to Stuff](/stuff/)
+<div class="talk">
+  <span class="dt">Apr 2024</span>
+  <span class="ttl">&ldquo;&lsquo;Can We Really Do It?&rsquo; The Promise of a Guerrilla Data Practice&rdquo;</span>
+  <span class="at">Cultures of Data Workshop, Penn</span>
+</div>
+
+<div class="talk">
+  <span class="dt">Feb 2024</span>
+  <span class="ttl">&ldquo;Politics and Poetics of a Formula&rdquo;</span>
+  <span class="at">Cornell University (invited)</span>
+</div>
+
+<div class="talk">
+  <span class="dt">Jun 2023</span>
+  <span class="ttl">&ldquo;Maximum Data, Minimum Insights: Indian Bureaucracy&rsquo;s Tryst with Digital India&rdquo;</span>
+  <span class="at">University of Lucerne (invited)</span>
+</div>
+
+<div class="talk">
+  <span class="dt">Apr 2023</span>
+  <span class="ttl">&ldquo;Participant-Observation Tactics for Studying Up Among Elites&rdquo;</span>
+  <span class="at">Flame University, Pune (guest)</span>
+</div>
+
+<div class="talk">
+  <span class="dt">Dec 2022</span>
+  <span class="ttl">&ldquo;&lsquo;Can You WhatsApp It to Me?&rsquo; Mobile Data Dashboards and Evidence-Based Policy&rdquo;</span>
+  <span class="at">4S Conference, Cholula</span>
+</div>
+
+<div class="talk">
+  <span class="dt">Jul 2021</span>
+  <span class="ttl">&ldquo;Surveying the MISes: Building Infrastructures to Monitor &lsquo;Outcomes&rsquo; in India&rdquo;</span>
+  <span class="at">New Sciences New States Collective</span>
+</div>
+
+<div class="talk">
+  <span class="dt">Mar 2021</span>
+  <span class="ttl">&ldquo;Shoveling Data? Monitoring Outcomes in the Indian Public Sector&rdquo;</span>
+  <span class="at">Data &amp; Society Institute, NY</span>
+</div>
+
+<p class="back"><a href="/stuff/">← Back to Stuff</a></p>

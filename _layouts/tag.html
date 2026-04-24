@@ -2,19 +2,23 @@
 layout: default
 ---
 
-## #{{ page.tag }}
-
-* * *
+<header class="pagehead">
+  <div>
+    <div class="kicker">Tag</div>
+    <h1>#{{ page.tag }}</h1>
+    <p class="standfirst">Posts tagged <em>{{ page.tag }}</em>.</p>
+  </div>
+</header>
 
 <ul class="posts">
   {% for post in site.posts %}
-  {% if post.tags contains page.tag %}
-  <li>
-    <span class="post-date">{{ post.date | date: "%-d %B %Y" }}</span>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-  </li>
-  {% endif %}
+    {% if post.tags contains page.tag %}
+    <li>
+      <span class="post-date">{{ post.date | date: "%-d %b %Y" }}</span>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+    {% endif %}
   {% endfor %}
 </ul>
 
-<p class="post-back"><a href="{{ '/blog' | relative_url }}">← All posts</a></p>
+<p class="back"><a href="{{ '/blog/' | relative_url }}">← All posts</a></p>
