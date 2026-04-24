@@ -5,8 +5,7 @@ description: "Aakash Solanki is a PhD candidate in Anthropology and South Asian 
 
 <section class="lede" aria-labelledby="home-hd">
   <div>
-    <div class="kicker">Aakash Solanki · Spring 2026</div>
-    <p class="hd" id="home-hd">An anthropology of <em>states, statistics,</em> and the machines that count them.</p>
+    <p class="hd" id="home-hd">An anthropology of <em>states, statistics,</em> and <em>computing</em>.</p>
     <p class="standfirst">PhD candidate in Anthropology and South Asian Studies at the University of Toronto. Research on bureaucracy, data infrastructures, and the technopolitics of the Indian state.</p>
   </div>
   <div>
