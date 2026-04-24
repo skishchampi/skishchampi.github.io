@@ -24,4 +24,10 @@ An interactive dashboard tracking public library spending across Indian states (
 
 * * *
 
+### Critical Caste and Technology Studies Syllabus
+
+Supported Dr. Murali Shanmugavelan's Critical Caste and Technology Studies (CCTS) syllabus — a first-of-its-kind open resource organizing anti-caste scholarship around communicative practices, media, and internet technology studies. The syllabus offers a cross-disciplinary starting point for students and scholars examining caste as it is remanifested in everyday digital cultures.
+
+* * *
+
 [← Back to Stuff](/stuff/)
