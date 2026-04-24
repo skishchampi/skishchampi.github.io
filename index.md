@@ -10,7 +10,7 @@ Aakash Solanki is a PhD candidate in Anthropology and South Asian Studies at the
 
 His dissertation, *Governing Indeterminately: An Ethnography of Technopopulism from India*, draws on long-term fieldwork in Indian state and central bureaucracies to examine how digital infrastructures mediate development, statecraft, and fiscal federal relations. The research is funded by the International Development Research Centre (IDRC) and the Wenner-Gren Foundation for Anthropological Research.
 
-He has previously published in *South Asia: Journal of South Asian Studies* and is a former Student Editor at *Cultural Anthropology*. He convened the interdisciplinary Development Seminar at the University of Toronto.
+He has previously published in *South Asia: Journal of South Asian Studies* and is a former Student Editor at *Cultural Anthropology*. He convened the interdisciplinary [Development Seminar](/utdevsem/) at the University of Toronto.
 
 * * *
 

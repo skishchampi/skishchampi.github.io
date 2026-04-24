@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Development Seminar
+permalink: /utdevsem/
 ---
 
 **Development Seminar**
