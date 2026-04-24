@@ -58,3 +58,5 @@ Recent talks, workshops, and invited presentations.
 </ul>
 
 * * *
+
+[← Back to Stuff](/stuff/)
