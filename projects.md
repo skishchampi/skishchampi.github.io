@@ -23,3 +23,5 @@ A collaborative project with Dr. Palashi Vaghela (Canada Research Chair, Simon F
 An interactive dashboard tracking public library spending across Indian states (2014–21), benchmarked against international peers. Examines the paradox of library legislation without library funding, the concentration of central grants, and the slow return of libraries to parliamentary attention. Developed as part of ongoing advocacy and research with the Free Libraries Network, India and South Asia.
 
 * * *
+
+[← Back to Stuff](/stuff/)

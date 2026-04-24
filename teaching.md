@@ -35,3 +35,5 @@ An interdisciplinary introduction to the study of South Asia, drawing on anthrop
 An undergraduate course tracing development — deliberate intervention to improve the lives of those deemed "left behind" — as concept and practice over the past century. Drawing on historical and ethnographic studies, the course engages global inequality, postcolonial politics, and the role of science and technology in the Global South. The 2023 iteration placed special emphasis on information, computation, and design: data-driven development, algorithmic decision-making for marginalized populations, and the promises and perils of artificial intelligence for "social good."
 
 * * *
+
+[← Back to Stuff](/stuff/)

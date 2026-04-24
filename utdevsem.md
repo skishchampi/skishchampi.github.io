@@ -21,3 +21,7 @@ What do we make of this ‘Smartness Mandate’ (Orit Halpern, forthcoming) with
 With these reflections in mind, the theme for the 2018-2019 year is ‘Development Infrastructures’.  We plan to invite a set of scholars ranging from information science, history of science, anthropology, geography, and STS to reflect on ‘smartness’, data driven development, design in development, data and global health, data and state welfare, among others.
 
 For more, please see the [seminar website](https://utdevsem.wordpress.com)
+
+* * *
+
+[← Back to About](/)

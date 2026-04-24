@@ -15,3 +15,5 @@ permalink: /stuff/
 - [Blog](/blog/)
 
 * * *
+
+[← Back to About](/)

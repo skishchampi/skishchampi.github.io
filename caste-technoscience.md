@@ -29,3 +29,5 @@ This project asks: what happens when we reframe the study of caste *as* a study 
 **Forthcoming — *Caste as/of Technoscience III*.** The next convening continues the trajectory of the series. More soon.
 
 * * *
+
+[← Back to Projects](/projects/)
