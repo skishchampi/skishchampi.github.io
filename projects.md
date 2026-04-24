@@ -2,32 +2,38 @@
 layout: default
 title: Projects
 permalink: /projects/
+description: "Ongoing intellectual and public-facing projects by Aakash Solanki, sitting alongside the dissertation."
 ---
 
-## Projects
+<header class="pagehead">
+  <div>
+    <div class="kicker">Folio · Projects</div>
+    <h1>Alongside the dissertation.</h1>
+    <p class="standfirst">Ongoing intellectual and public-facing projects: sustained conversations, data work, and collaborations that run in parallel with the dissertation.</p>
+  </div>
+  <div class="meta">
+    <dl>
+      <dt>Active</dt><dd>3 projects</dd>
+      <dt>Since</dt><dd>2021</dd>
+      <dt>Geographies</dt><dd>India · Global</dd>
+      <dt>Mode</dt><dd>Collaborative</dd>
+    </dl>
+  </div>
+</header>
 
-* * *
+<article class="project">
+  <h2><a href="/caste-technoscience/">Caste as/of Technoscience</a></h2>
+  <p>A collaborative project with Dr. Palashi Vaghela (Canada Research Chair, Simon Fraser University) convening interdisciplinary conversations at the Society for Social Studies of Science (4S) since 2021. The project reframes caste not as an identity category layered onto technoscience but as a sociotechnical formation in its own right.</p>
+</article>
 
-Ongoing intellectual and public-facing projects, sitting alongside the dissertation.
+<article class="project">
+  <h2><a href="/freelibraries4all/">India Library Spend Tracker</a></h2>
+  <p>An interactive dashboard tracking public library spending across Indian states (2014–21), benchmarked against international peers. Examines the paradox of library legislation without library funding, the concentration of central grants, and the slow return of libraries to parliamentary attention. Developed as part of ongoing advocacy and research with the Free Libraries Network, India and South Asia.</p>
+</article>
 
-* * *
+<article class="project">
+  <h2>Critical Caste and Technology Studies Syllabus</h2>
+  <p>Supported Dr. Murali Shanmugavelan&rsquo;s Critical Caste and Technology Studies (CCTS) syllabus — a first-of-its-kind open resource organizing anti-caste scholarship around communicative practices, media, and internet technology studies. The syllabus offers a cross-disciplinary starting point for students and scholars examining caste as it is remanifested in everyday digital cultures.</p>
+</article>
 
-### [Caste as/of Technoscience](/caste-technoscience/)
-
-A collaborative project with Dr. Palashi Vaghela (Canada Research Chair, Simon Fraser University) convening interdisciplinary conversations at the Society for Social Studies of Science (4S) since 2021. The project reframes caste not as an identity category layered onto technoscience but as a sociotechnical formation in its own right.
-
-* * *
-
-### [India Library Spend Tracker](/freelibraries4all/)
-
-An interactive dashboard tracking public library spending across Indian states (2014–21), benchmarked against international peers. Examines the paradox of library legislation without library funding, the concentration of central grants, and the slow return of libraries to parliamentary attention. Developed as part of ongoing advocacy and research with the Free Libraries Network, India and South Asia.
-
-* * *
-
-### Critical Caste and Technology Studies Syllabus
-
-Supported Dr. Murali Shanmugavelan's Critical Caste and Technology Studies (CCTS) syllabus — a first-of-its-kind open resource organizing anti-caste scholarship around communicative practices, media, and internet technology studies. The syllabus offers a cross-disciplinary starting point for students and scholars examining caste as it is remanifested in everyday digital cultures.
-
-* * *
-
-[← Back to Stuff](/stuff/)
+<p class="back"><a href="/stuff/">← Back to Stuff</a></p>
