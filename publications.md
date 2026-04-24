@@ -26,11 +26,11 @@ Forthcoming. "'Is it really possible?' Women public policy professionals and the
 
 * * *
 
-### Peer-reviewed conference proceedings
+### Interdisciplinary scholarly output
 
-Forthcoming 2026. With co-authors. "'Studying Up' through Digital Ethnography: The Politics of Reactionary Caste Enclaves." ACM SIGCHI Conference on Human Factors in Computing Systems (CHI).
+With Thuppilikkat, A. A., and Chandra, P. ["'Studying Up' through Digital Ethnography: The Case of Conservative Caste Enclaves."](https://doi.org/10.1145/3772318.3791530) *Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems.* ACM, 2026.
 
-With co-authors. "Everyday Data Science: Notes from the Public Sector in India." ACM SIGCHI Conference on Computer-Supported Cooperative Work and Social Computing (CSCW). *Revise and resubmit.*
+With co-authors. "Everyday Data Science: Notes from the Public Sector in India." ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW). *Revise and resubmit.*
 
 With Tewari, S. ["Going Ethno in the Indian Bureaucracy."](https://doi.org/10.1111/1559-8918.2016.01107) *Ethnographic Praxis in Industry Conference Proceedings* 2016(1): 501–521.
 
