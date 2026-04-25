@@ -99,6 +99,14 @@ description: "An ethnography of governance after planning — regional inequalit
   <figcaption>An infrastructure under construction.</figcaption>
 </figure>
 
+<div class="block">
+  <div class="label">Earlier work</div>
+  <div class="body">
+    <p>Two strands precede the dissertation. A Master&rsquo;s thesis at the University of Chicago (2014, advised by John D. Kelly) on the Criminal Tribes Act and police practice in British India, 1871&ndash;1927, argued against scholarship that read the Act as a uniform homogenising apparatus, drawing on police manuals to show classification at the level of practice as variable, multidimensional, and uneven. The thesis pre-empts contemporary debates on AI-driven facial recognition, carcerality, and predictive policing &mdash; tracing how nineteenth-century apparatuses already operated through racialised, hereditary classification of populations marked for surveillance.</p>
+    <p>A stint on the City of Chicago&rsquo;s Smart Cities team (2014&ndash;15) contributed to a <a target="_blank" rel="noopener noreferrer" href="https://chicago.github.io/food-inspections-evaluation/">predictive model for food inspections</a> used by the city&rsquo;s Department of Public Health. The dissertation inherits both threads &mdash; the suspicion of homogenising classifications and a working knowledge of what predictive systems actually do inside a state apparatus.</p>
+  </div>
+</div>
+
 <div class="stupa-coda" role="presentation"></div>
 
 <p class="back"><a href="/work/">← Back to Work</a></p>
