@@ -16,7 +16,7 @@ description: "An ethnography of governance after planning — regional inequalit
       <dt>Fieldwork</dt><dd>2019–2023</dd>
       <dt>Sites</dt><dd>National capital · state capitals · districts</dd>
       <dt>Archive</dt><dd>1950–present</dd>
-      <dt>Funded by</dt><dd>IDRC · Wenner-Gren</dd>
+      <dt>Funded by</dt><dd>IDRC · <a target="_blank" rel="noopener noreferrer" href="https://wennergren.org/grantee/aakash-solanki/">Wenner-Gren</a></dd>
     </dl>
   </div>
 </header>
