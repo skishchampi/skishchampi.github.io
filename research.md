@@ -22,7 +22,7 @@ description: "An ethnography of governance after planning — regional inequalit
 </header>
 
 <figure class="research-hero">
-  <img src="/assets/img/research/landscape.jpg" alt="A forested cliff overlooking a wide valley with a small green-roofed pavilion on the rock edge." loading="lazy">
+  <img src="/assets/img/research/landscape.jpeg" alt="A forested cliff overlooking a wide valley with a small green-roofed pavilion on the rock edge." loading="lazy">
   <figcaption>From a field site, 2021.</figcaption>
 </figure>
 
@@ -31,6 +31,7 @@ description: "An ethnography of governance after planning — regional inequalit
   <div class="body">
     <p>For most of the twentieth century, the developmental authority of postcolonial states rested on a particular epistemic claim — that the state could know, through statistics, surveys, and resource assessments, the social and economic processes it sought to govern. By the early twenty-first century, that claim no longer holds steady. National statistical infrastructures have lost authority and coverage; new digital infrastructures have not yet consolidated reliability.</p>
     <p>The dissertation pursues what it means to govern through this interregnum. Drawing on three years of fieldwork and archival research reaching back to the postcolonial planning institutions of the 1950s, it argues that contemporary modes of governing do not retreat from technical infrastructure when its epistemic ground gives way. Instead, they redeploy it for other purposes — to generate political rhythm, competitive community, and the spectacular performance of governance improvement.</p>
+    <p>The state is not the only actor in this story. The work also tracks the cast that has come to populate the conditions of national governance: transnational funding agencies, philanthrocapitalist foundations, multinational technology corporations, and financial experiments such as development impact bonds — whose tools, money, instruments, and expertise reshape what the state is able to do, and what it is asked to do, by those it governs.</p>
   </div>
 </div>
 
@@ -42,17 +43,17 @@ description: "An ethnography of governance after planning — regional inequalit
     <p>The postcolonial state has long been concerned with the geography of disadvantage — the historical distinction between regions deemed &ldquo;backward&rdquo; and those deemed advanced. That concern is being reorganised through new vocabularies of aspiration, competition, and ranked performance. The work traces how the political and administrative labour once done by redistributive planning is now being done by other means.</p>
   </div>
   <figure class="thread-img">
-    <img src="/assets/img/research/path.jpg" alt="Several people walking on a dirt path across a clearing under broken cloud, towards a large tree." loading="lazy">
+    <img src="/assets/img/research/path.JPG" alt="Several people walking on a dirt path across a clearing under broken cloud, towards a large tree." loading="lazy">
   </figure>
 </section>
 
 <section class="thread">
   <figure class="thread-img">
-    <img src="/assets/img/research/chamber.jpg" alt="An empty institutional meeting hall, two long rows of leather chairs facing a central table with conference microphones." loading="lazy">
+    <img src="/assets/img/research/chamber.jpeg" alt="An empty institutional meeting hall, two long rows of leather chairs facing a central table with conference microphones." loading="lazy">
   </figure>
   <div class="thread-text">
     <h3>II. Digital infrastructures</h3>
-    <p>Dashboards, real-time data portals, and ranking systems have become central to how the contemporary state addresses developmental questions. These are not merely tools of measurement but a medium through which the state constitutes itself as an object of public attention. The work reads the technical apparatus ethnographically — attending to how it is built, maintained, and inhabited by frontline workers, bureaucrats, and consultants — and to the gap between what such systems are supposed to know and what they actually do.</p>
+    <p>Dashboards, real-time data portals, ranking systems, machine learning algorithms, and automated decision systems have become central to how the contemporary state addresses developmental questions. These are not merely tools of measurement but a medium through which the state constitutes itself as an object of public attention. The work reads the technical apparatus ethnographically — attending to how it is built, maintained, and inhabited by frontline workers, bureaucrats, consultants, and the multinational technology corporations whose platforms increasingly underwrite governance — and to the gap between what such systems are supposed to know and what they actually do.</p>
   </div>
 </section>
 
@@ -94,7 +95,7 @@ description: "An ethnography of governance after planning — regional inequalit
 </div>
 
 <figure class="research-coda">
-  <img src="/assets/img/research/silos.jpg" alt="A row of large white industrial silos with visible weld lines, beside blue-flanged pipes and a concrete yard." loading="lazy">
+  <img src="/assets/img/research/silos.jpeg" alt="A row of large white industrial silos with visible weld lines, beside blue-flanged pipes and a concrete yard." loading="lazy">
   <figcaption>An infrastructure under construction.</figcaption>
 </figure>
 
