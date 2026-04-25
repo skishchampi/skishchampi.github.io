@@ -9,6 +9,7 @@
   --rule:     oklch(0.85  0.010 75);
   --accent:   oklch(0.52  0.11  55);
   --accent-2: oklch(0.72  0.09  55);
+  --accent-blue: oklch(0.42 0.14 252);
   --highlight:oklch(0.94  0.06  92);
 
   --serif: "Newsreader", Georgia, serif;
@@ -32,6 +33,7 @@
   --rule:     oklch(0.32 0.010 60);
   --accent:   oklch(0.72 0.12 60);
   --accent-2: oklch(0.62 0.10 60);
+  --accent-blue: oklch(0.68 0.13 250);
   --highlight:oklch(0.32 0.05 80);
 }
 
@@ -114,7 +116,7 @@ a { color: var(--ink); }
 .mast-nav a.active::after {
   content: ''; position: absolute;
   left: 0; right: 0; bottom: -19px;
-  height: 2px; background: var(--accent);
+  height: 2px; background: var(--accent-blue);
 }
 
 #theme-toggle {
@@ -675,11 +677,23 @@ footer.site {
   color: var(--ink-3);
   display: flex;
   justify-content: space-between;
+  align-items: center;
   gap: 24px;
   flex-wrap: wrap;
 }
 footer.site a { color: var(--ink-3); text-decoration: none; }
 footer.site a:hover { color: var(--accent); }
+footer.site .ornament {
+  width: 18px;
+  height: 18px;
+  color: var(--accent-blue);
+  opacity: 0.85;
+  flex-shrink: 0;
+  display: inline-flex;
+}
+footer.site .ornament svg {
+  width: 100%; height: 100%;
+}
 
 /* ── Research page ────────────────────────────────────────── */
 .research-hero,
