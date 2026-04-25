@@ -13,13 +13,14 @@ description: "Index of Aakash Solanki's publications, teaching, talks, projects,
   </div>
   <div class="meta">
     <dl>
-      <dt>Sections</dt><dd>5</dd>
+      <dt>Sections</dt><dd>6</dd>
       <dt>Updated</dt><dd>{{ site.time | date: '%b %Y' }}</dd>
     </dl>
   </div>
 </header>
 
 <ul class="work-list">
+  <li><a href="/research/">Research</a></li>
   <li><a href="/publications/">Publications</a></li>
   <li><a href="/teaching/">Teaching</a></li>
   <li><a href="/talks/">Talks</a></li>
