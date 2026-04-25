@@ -21,12 +21,14 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
   </div>
 </header>
 
+<p class="pub-note"><em>Behind a paywall? Please <a href="/contact/">write to me</a> — I'm happy to share a copy.</em></p>
+
 <h2 class="sect"><span class="n">§ 01</span>Public scholarship</h2>
 
 <div class="pub">
   <span class="yr">2025</span>
   <div class="main">
-    <p class="title"><a href="https://indianexpress.com/article/opinion/columns/india-start-ups-not-lacking-innovation-imagination-9974148/">India&rsquo;s start-ups are not lacking innovation but imagination</a></p>
+    <p class="title"><a target="_blank" rel="noopener noreferrer" href="https://indianexpress.com/article/opinion/columns/india-start-ups-not-lacking-innovation-imagination-9974148/">India&rsquo;s start-ups are not lacking innovation but imagination</a></p>
     <p class="venue">The Indian Express.</p>
     <p class="note">With Mertia, S.</p>
   </div>
@@ -36,7 +38,7 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
 <div class="pub">
   <span class="yr">2018</span>
   <div class="main">
-    <p class="title"><a href="https://culanth.org/fieldsights/suddenly-statistics">Suddenly, Statistics?</a></p>
+    <p class="title"><a target="_blank" rel="noopener noreferrer" href="https://culanth.org/fieldsights/suddenly-statistics">Suddenly, Statistics?</a></p>
     <p class="venue">Member Voices, Fieldsights.</p>
   </div>
   <span class="tags">Essay</span>
@@ -47,7 +49,7 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
 <div class="pub">
   <span class="yr">2026</span>
   <div class="main">
-    <p class="title"><a href="https://doi.org/10.1145/3772318.3791530">&ldquo;Studying Up&rdquo; through Digital Ethnography: The Case of Conservative Caste Enclaves</a></p>
+    <p class="title"><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1145/3772318.3791530">&ldquo;Studying Up&rdquo; through Digital Ethnography: The Case of Conservative Caste Enclaves</a></p>
     <p class="venue">Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems. ACM.</p>
     <p class="note">With Ashique Ali Thuppilikkat and Priyank Chandra.</p>
   </div>
@@ -66,7 +68,7 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
 <div class="pub">
   <span class="yr">2016</span>
   <div class="main">
-    <p class="title"><a href="https://doi.org/10.1111/1559-8918.2016.01107">Going Ethno in the Indian Bureaucracy</a></p>
+    <p class="title"><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1111/1559-8918.2016.01107">Going Ethno in the Indian Bureaucracy</a></p>
     <p class="venue">Ethnographic Praxis in Industry Conference Proceedings 2016(1): 501–521.</p>
     <p class="note">With Tewari, S.</p>
   </div>
@@ -78,7 +80,7 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
 <div class="pub">
   <span class="yr">2019</span>
   <div class="main">
-    <p class="title"><a href="https://doi.org/10.1080/00856401.2019.1603262">Management of Performance and Performance of Management: Getting to Work on Time in the Indian Bureaucracy</a></p>
+    <p class="title"><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1080/00856401.2019.1603262">Management of Performance and Performance of Management: Getting to Work on Time in the Indian Bureaucracy</a></p>
     <p class="venue">South Asia: Journal of South Asian Studies, 42(3): 588–605.</p>
   </div>
   <span class="tags">Article</span>
@@ -106,9 +108,9 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
 <div class="pub">
   <span class="yr">2020</span>
   <div class="main">
-    <p class="title"><a href="https://networkcultures.org/blog/publication/lives-of-data-essays-on-computational-cultures-from-india/">Untidy Data: Spreadsheet Practices in the Indian Bureaucracy</a></p>
+    <p class="title"><a target="_blank" rel="noopener noreferrer" href="https://networkcultures.org/blog/publication/lives-of-data-essays-on-computational-cultures-from-india/">Untidy Data: Spreadsheet Practices in the Indian Bureaucracy</a></p>
     <p class="venue">In Lives of Data: Essays on Computational Cultures from India, ed. Sandeep Mertia. Theory on Demand 39. Amsterdam: Institute of Network Cultures.</p>
-    <p class="note"><a href="https://player.fm/series/new-books-in-technology-2421470/sandeep-mertia-lives-of-data-essays-on-computational-cultures-from-india-institute-of-networked-cultures-2020">→ Podcast discussion</a></p>
+    <p class="note"><a target="_blank" rel="noopener noreferrer" href="https://player.fm/series/new-books-in-technology-2421470/sandeep-mertia-lives-of-data-essays-on-computational-cultures-from-india-institute-of-networked-cultures-2020">→ Podcast discussion</a></p>
   </div>
   <span class="tags">Chapter</span>
 </div>
