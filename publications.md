@@ -21,8 +21,6 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
   </div>
 </header>
 
-<p class="pub-note"><em>Behind a paywall? Please <a href="/contact/">write to me</a> — I'm happy to share a copy.</em></p>
-
 <h2 class="sect"><span class="n">§ 01</span>Public scholarship</h2>
 
 <div class="pub">
