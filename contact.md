@@ -14,7 +14,6 @@ description: "Get in touch with Aakash Solanki — email, ORCID, Google Scholar.
   <div class="meta">
     <dl>
       <dt>Based in</dt><dd>Toronto</dd>
-      <dt>Response</dt><dd>A few days</dd>
     </dl>
   </div>
 </header>

@@ -5,17 +5,11 @@ permalink: /work/
 description: "Index of Aakash Solanki's publications, teaching, talks, projects, and blog."
 ---
 
-<header class="pagehead">
+<header class="pagehead pagehead--single">
   <div>
     <div class="kicker">Index</div>
     <h1>Work.</h1>
     <p class="standfirst">Writings, courses, lectures, projects, notes.</p>
-  </div>
-  <div class="meta">
-    <dl>
-      <dt>Sections</dt><dd>6</dd>
-      <dt>Updated</dt><dd>{{ site.time | date: '%b %Y' }}</dd>
-    </dl>
   </div>
 </header>
 
