@@ -688,6 +688,22 @@ footer.site a:hover { color: var(--accent); }
   background: var(--paper-3);
   display: block;
 }
+
+/* ── Sketches (vector line art, theme-aware) ──────────────── */
+.sketch {
+  display: block;
+  width: 100%;
+  background-color: var(--ink);
+  -webkit-mask: var(--sketch-src) no-repeat center / contain;
+  mask: var(--sketch-src) no-repeat center / contain;
+  border-radius: 2px;
+  transition: background-color 0.25s var(--ease);
+}
+.sketch--hero,
+.sketch--camp,
+.sketch--diagram,
+.sketch--archive { aspect-ratio: 1000 / 750; }
+.sketch--road { aspect-ratio: 1000 / 563; }
 .research-hero figcaption,
 .research-coda figcaption,
 .research-map figcaption,
