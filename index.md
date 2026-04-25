@@ -38,18 +38,7 @@ description: "Aakash Solanki is a PhD candidate in Anthropology and South Asian 
 </div>
 
 <div class="block">
-  <div class="label">III. Awards &amp; grants</div>
-  <div class="body">
-    <ul class="bullets">
-      <li><span class="num">2024</span><span>Writing Fellowship, Center for Ethnography, University of Toronto Scarborough</span></li>
-      <li><span class="num">2021</span><span>Dissertation Fieldwork Grant, Wenner-Gren Foundation for Anthropological Research</span></li>
-      <li><span class="num">2019</span><span>Doctoral Research Fellowship, International Development Research Centre (IDRC), Canada</span></li>
-    </ul>
-  </div>
-</div>
-
-<div class="block">
-  <div class="label">IV. Recent news</div>
+  <div class="label">III. Recent news</div>
   <div class="body">
     <ul class="bullets news">
       <li><span class="num">Oct 2025</span><span>Talk at the International Federation for Library Associations and Institutions webinar: &ldquo;Caste, Libraries, and Public Finance.&rdquo;</span></li>
