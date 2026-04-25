@@ -95,7 +95,7 @@ description: "An ethnography of governance after planning — regional inequalit
 </div>
 
 <figure class="research-coda">
-  <img src="/assets/img/research/silos.jpeg" alt="A row of large white industrial silos with visible weld lines, beside blue-flanged pipes and a concrete yard." loading="lazy">
+  <img src="/assets/img/research/silos.jpg" alt="A row of large white industrial silos with visible weld lines, beside blue-flanged pipes and a concrete yard." loading="lazy">
   <figcaption>An infrastructure under construction.</figcaption>
 </figure>
 
