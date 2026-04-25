@@ -99,4 +99,6 @@ description: "An ethnography of governance after planning — regional inequalit
   <figcaption>An infrastructure under construction.</figcaption>
 </figure>
 
+<div class="stupa-coda" role="presentation"></div>
+
 <p class="back"><a href="/work/">← Back to Work</a></p>

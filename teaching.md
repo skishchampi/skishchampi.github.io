@@ -57,4 +57,6 @@ description: "Undergraduate courses designed and taught as instructor of record 
   </div>
 </div>
 
+<div class="stupa-coda" role="presentation"></div>
+
 <p class="back"><a href="/work/">← Back to Work</a></p>
