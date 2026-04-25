@@ -653,6 +653,100 @@ footer.site {
 footer.site a { color: var(--ink-3); text-decoration: none; }
 footer.site a:hover { color: var(--accent); }
 
+/* ── Research page ────────────────────────────────────────── */
+.research-hero,
+.research-coda {
+  margin: 32px 0 8px;
+  max-width: 920px;
+}
+.research-hero img,
+.research-coda img {
+  width: 100%; height: auto;
+  border-radius: 2px;
+  background: var(--paper-3);
+  display: block;
+}
+.research-hero figcaption,
+.research-coda figcaption,
+.research-map figcaption,
+.thread-img figcaption {
+  font: 400 italic 0.8125rem/1.4 var(--serif);
+  color: var(--ink-3);
+  margin-top: 10px;
+  max-width: 56ch;
+}
+
+.thread {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: center;
+  margin: 32px 0;
+  padding: 32px 0;
+  border-top: 1px solid var(--rule);
+}
+.thread:last-of-type { border-bottom: 1px solid var(--rule); }
+.thread h3 {
+  font: 500 italic 1.5rem/1.25 var(--serif);
+  color: var(--ink);
+  margin: 0 0 16px;
+}
+.thread .thread-text p {
+  font: 400 1.0625rem/1.65 var(--serif);
+  color: var(--ink);
+  max-width: 50ch;
+  margin: 0;
+}
+.thread-img {
+  margin: 0;
+}
+.thread-img img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  border-radius: 2px;
+  background: var(--paper-3);
+  display: block;
+}
+@media (max-width: 820px) {
+  .thread { grid-template-columns: 1fr; gap: 24px; }
+  .thread .thread-img { order: 2; }
+  .thread .thread-text { order: 1; }
+}
+
+.research-map {
+  margin: 24px 0 8px;
+  display: grid;
+  grid-template-columns: minmax(0, 320px) 1fr;
+  gap: 48px;
+  align-items: start;
+}
+.india-map {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.india-outline {
+  fill: var(--paper-2);
+  stroke: var(--ink-2);
+  stroke-width: 1.25;
+  stroke-linejoin: round;
+}
+.india-sites circle {
+  fill: var(--accent);
+  stroke: var(--paper);
+  stroke-width: 1.5;
+  opacity: 0.9;
+}
+.india-sites circle.capital {
+  fill: var(--ink);
+}
+@media (max-width: 720px) {
+  .research-map { grid-template-columns: 1fr; gap: 16px; }
+  .india-map { max-width: 320px; }
+}
+
 /* ── Print ────────────────────────────────────────────────── */
 @media print {
   body { background: #fff; color: #000; font: 11pt/1.4 Georgia, serif; }
