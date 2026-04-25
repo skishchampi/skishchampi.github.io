@@ -23,7 +23,7 @@ description: "Index of Aakash Solanki's publications, teaching, talks, projects,
     <li><a href="/blog/">Blog</a></li>
   </ul>
   <figure class="work-figure">
-    <img src="/assets/img/research/gate.jpeg" alt="A government gate marked &lsquo;INDIA POPULATION PROJECT&rsquo;, a small red car parked outside, a heap of construction sand in the foreground." loading="lazy">
+    <img src="/assets/img/research/form-call.jpeg" alt="A printed form pressed under one hand while another hand holds a phone over a laptop screen showing a digital form interface — paper and digital co-existing on the same desk." loading="lazy">
   </figure>
 </div>
 
