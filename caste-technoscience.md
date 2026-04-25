@@ -39,7 +39,7 @@ description: "An ongoing collaborative project convening interdisciplinary conve
 </div>
 
 <figure class="page-figure">
-  <img src="/assets/img/research/screen.jpeg" alt="Two people leaning over a desktop screen in a cramped office, working through a form together." loading="lazy">
+  <img src="/assets/img/research/screen.jpeg" alt="Two people leaning over a desktop screen in a cramped office, working through a form together — seen from behind." loading="lazy">
 </figure>
 
 <div class="stupa-coda" role="presentation"></div>

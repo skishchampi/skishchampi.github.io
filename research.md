@@ -32,10 +32,6 @@ description: "An ethnography of governance after planning — regional inequalit
     <p>For most of the twentieth century, the developmental authority of postcolonial states rested on a particular epistemic claim — that the state could know, through statistics, surveys, and resource assessments, the social and economic processes it sought to govern. By the early twenty-first century, that claim no longer holds steady. National statistical infrastructures have lost authority and coverage; new digital infrastructures have not yet consolidated reliability.</p>
     <p>The dissertation pursues what it means to govern through this interregnum. Drawing on three years of fieldwork and archival research reaching back to the postcolonial planning institutions of the 1950s, it argues that contemporary modes of governing do not retreat from technical infrastructure when its epistemic ground gives way. Instead, they redeploy it for other purposes — to generate political rhythm, competitive community, and the spectacular performance of governance improvement.</p>
     <p>The state is not the only actor in this story. The work also tracks the cast that has come to populate the conditions of national governance: transnational funding agencies, philanthrocapitalist foundations, multinational technology corporations, and financial experiments such as development impact bonds — whose tools, money, instruments, and expertise reshape what the state is able to do, and what it is asked to do, by those it governs.</p>
-    <figure class="inline-figure">
-      <img src="/assets/img/research/pamphlets.jpeg" alt="A welfare counter labelled &lsquo;EC CORNER&rsquo; with stacks of bilingual pamphlets in Kannada and a wall chart explaining symptoms of low blood sugar." loading="lazy">
-      <figcaption>The materials of public-health communication, stacked at a counter.</figcaption>
-    </figure>
   </div>
 </div>
 
@@ -97,7 +93,7 @@ description: "An ethnography of governance after planning — regional inequalit
     <p>Ethnography in bureaucratic settings; archival work in national and state collections; participant-observation alongside policy consultants and frontline workers; document analysis across cabinet resolutions, programme guidelines, and digital portals. The project moves between offices and districts, between papers tabled in parliament and forms filled at the block level.</p>
     <figure class="inline-figure">
       <img src="/assets/img/research/instrument.jpeg" alt="A handheld haemoglobin-screening device held in a hand, with a smartphone visible on a desk in the background." loading="lazy">
-      <figcaption>An instrument of measure, in the field.</figcaption>
+      <figcaption>Anemia measurement.</figcaption>
     </figure>
   </div>
 </div>
