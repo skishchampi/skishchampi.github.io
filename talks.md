@@ -19,6 +19,8 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
   </div>
 </header>
 
+<h2 class="sect"><span class="n">2025</span>This year</h2>
+
 <div class="talk">
   <span class="dt">Oct 2025</span>
   <span class="ttl">&ldquo;Caste, Libraries, and Public Finance&rdquo;</span>
@@ -36,6 +38,8 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
   <span class="ttl">&ldquo;Rethinking the Emergence of the Poverty Line: The 1961 Census and Technopolitics of Governmentality in India&rdquo;</span>
   <span class="at">CSAS, U of Toronto Scarborough</span>
 </div>
+
+<h2 class="sect"><span class="n">2024</span>Previous year</h2>
 
 <div class="talk">
   <span class="dt">Oct 2024</span>
@@ -55,6 +59,8 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
   <span class="at">Cornell University (invited)</span>
 </div>
 
+<h2 class="sect"><span class="n">2023</span>Earlier</h2>
+
 <div class="talk">
   <span class="dt">Jun 2023</span>
   <span class="ttl">&ldquo;Maximum Data, Minimum Insights: Indian Bureaucracy&rsquo;s Tryst with Digital India&rdquo;</span>
@@ -67,11 +73,15 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
   <span class="at">Flame University, Pune (guest)</span>
 </div>
 
+<h2 class="sect"><span class="n">2022</span></h2>
+
 <div class="talk">
   <span class="dt">Dec 2022</span>
   <span class="ttl">&ldquo;&lsquo;Can You WhatsApp It to Me?&rsquo; Mobile Data Dashboards and Evidence-Based Policy&rdquo;</span>
   <span class="at">4S Conference, Cholula</span>
 </div>
+
+<h2 class="sect"><span class="n">2021</span></h2>
 
 <div class="talk">
   <span class="dt">Jul 2021</span>
