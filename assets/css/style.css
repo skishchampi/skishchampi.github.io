@@ -699,6 +699,46 @@ main pre code { background: none; padding: 0; }
   transform: translateX(4px);
 }
 
+/* ── Inline figures inside text blocks ────────────────────── */
+.inline-figure {
+  margin: 28px 0 4px;
+  max-width: 520px;
+}
+.inline-figure img {
+  width: 100%; height: auto;
+  display: block;
+  border-radius: 2px;
+  background: var(--paper-3);
+}
+.inline-figure figcaption {
+  font: 400 italic 0.8125rem/1.4 var(--serif);
+  color: var(--ink-3);
+  margin-top: 8px;
+  max-width: 56ch;
+}
+
+/* ── Field album grid ─────────────────────────────────────── */
+.album {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  margin: 24px 0 40px;
+}
+.album figure {
+  margin: 0;
+}
+.album figure img {
+  width: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  display: block;
+  border-radius: 2px;
+  background: var(--paper-3);
+}
+@media (max-width: 720px) {
+  .album { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+}
+
 /* ── Stupa coda (page closer) ─────────────────────────────── */
 .stupa-coda {
   display: block;
