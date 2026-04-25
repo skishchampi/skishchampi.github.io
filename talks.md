@@ -15,8 +15,6 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
     <dl>
       <dt>Since</dt><dd>2021</dd>
       <dt>Recent</dt><dd>IFLA · IIIT-Delhi</dd>
-      <dt>Travel from</dt><dd>Toronto</dd>
-      <dt>Language</dt><dd>English · Hindi</dd>
     </dl>
   </div>
 </header>

@@ -368,6 +368,10 @@ main pre code { background: none; padding: 0; }
   .pagehead { grid-template-columns: 1fr; gap: 24px; }
 }
 
+.pagehead--single {
+  grid-template-columns: 1fr;
+}
+
 /* ── Section heading within a sub-page ────────────────────── */
 .sect {
   font: 500 italic 1.625rem/1.2 var(--serif);
