@@ -15,9 +15,9 @@
   --sans:  "Inter", system-ui, -apple-system, sans-serif;
   --mono:  "JetBrains Mono", ui-monospace, Menlo, monospace;
 
-  --fs-display: clamp(44px, 6.5vw, 84px);
-  --fs-title:   clamp(32px, 4.5vw, 52px);
-  --fs-body:    17px;
+  --fs-display: clamp(2.75rem, 6.5vw, 5.25rem);
+  --fs-title:   clamp(2rem, 4.5vw, 3.25rem);
+  --fs-body:    1.0625rem;
 
   --ease: cubic-bezier(0.2, 0.6, 0.2, 1);
 }
@@ -37,7 +37,7 @@
 
 /* ── Reset ────────────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; }
-html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-size: 100%; }
 body {
   margin: 0;
   font: 400 var(--fs-body)/1.6 var(--sans);
@@ -166,16 +166,16 @@ main h2, main h3, main h4 {
   color: var(--ink);
 }
 main h2 {
-  font: 400 italic 28px/1.2 var(--serif);
+  font: 400 italic 1.75rem/1.2 var(--serif);
   margin: 48px 0 20px;
   letter-spacing: -0.01em;
 }
 main h3 {
-  font: 500 20px/1.3 var(--serif);
+  font: 500 1.25rem/1.3 var(--serif);
   margin: 32px 0 12px;
 }
 main h4 {
-  font: 500 16px/1.3 var(--serif);
+  font: 500 1rem/1.3 var(--serif);
   margin: 24px 0 8px;
 }
 
@@ -192,7 +192,7 @@ main blockquote {
   margin: 24px 0;
   padding: 4px 0 4px 20px;
   border-left: 2px solid var(--accent);
-  font: 400 italic 16px/1.6 var(--serif);
+  font: 400 italic 1rem/1.6 var(--serif);
   color: var(--ink-2);
   max-width: 60ch;
 }
@@ -241,7 +241,7 @@ main pre code { background: none; padding: 0; }
 }
 .lede .hd em { font-style: italic; color: var(--accent); }
 .lede .standfirst {
-  font: 400 21px/1.5 var(--serif);
+  font: 400 1.3125rem/1.5 var(--serif);
   color: var(--ink-2);
   text-wrap: pretty;
   max-width: 48ch;
@@ -294,7 +294,7 @@ main pre code { background: none; padding: 0; }
 /* ── Bullet lists (home research, awards, news) ───────────── */
 .bullets { list-style: none; padding: 0; margin: 0; }
 .bullets li {
-  font: 400 17px/1.6 var(--serif);
+  font: 400 1.0625rem/1.6 var(--serif);
   color: var(--ink);
   padding: 10px 0;
   border-bottom: 1px solid var(--rule);
@@ -341,7 +341,7 @@ main pre code { background: none; padding: 0; }
   text-wrap: balance;
 }
 .pagehead .standfirst {
-  font: 400 17px/1.55 var(--serif);
+  font: 400 1.0625rem/1.55 var(--serif);
   color: var(--ink-2);
   max-width: 52ch;
   margin: 0;
@@ -370,7 +370,7 @@ main pre code { background: none; padding: 0; }
 
 /* ── Section heading within a sub-page ────────────────────── */
 .sect {
-  font: 500 italic 26px/1.2 var(--serif);
+  font: 500 italic 1.625rem/1.2 var(--serif);
   color: var(--ink);
   margin: 56px 0 20px;
   padding-bottom: 12px;
@@ -403,7 +403,7 @@ main pre code { background: none; padding: 0; }
 }
 .pub .main { max-width: 60ch; }
 .pub .main .title {
-  font: 400 18px/1.4 var(--serif);
+  font: 400 1.125rem/1.4 var(--serif);
   color: var(--ink);
   text-wrap: pretty;
   margin: 0 0 4px;
@@ -447,12 +447,12 @@ main pre code { background: none; padding: 0; }
   color: var(--ink-3);
 }
 .course .title {
-  font: 500 19px/1.3 var(--serif);
+  font: 500 1.1875rem/1.3 var(--serif);
   color: var(--ink);
   margin: 0 0 8px;
 }
 .course .desc {
-  font: 400 15px/1.55 var(--serif);
+  font: 400 0.9375rem/1.55 var(--serif);
   color: var(--ink-2);
   margin: 0;
   max-width: 60ch;
@@ -488,7 +488,7 @@ main pre code { background: none; padding: 0; }
   letter-spacing: 0.04em; text-transform: uppercase;
 }
 .talk .ttl {
-  font: 400 italic 17px/1.4 var(--serif);
+  font: 400 italic 1.0625rem/1.4 var(--serif);
   color: var(--ink);
 }
 .talk .at {
@@ -508,13 +508,13 @@ main pre code { background: none; padding: 0; }
 }
 .project:last-of-type { border-bottom: 1px solid var(--rule); }
 .project h2 {
-  font: 500 italic 24px/1.25 var(--serif);
+  font: 500 italic 1.5rem/1.25 var(--serif);
   color: var(--ink);
   margin: 0 0 10px;
 }
 .project h2 a { color: inherit; }
 .project p {
-  font: 400 16px/1.6 var(--serif);
+  font: 400 1rem/1.6 var(--serif);
   color: var(--ink-2);
   margin: 0;
   max-width: 60ch;
@@ -538,7 +538,7 @@ main pre code { background: none; padding: 0; }
   color: var(--ink-3);
 }
 .posts li a {
-  font: 400 20px/1.3 var(--serif);
+  font: 400 1.25rem/1.3 var(--serif);
   color: var(--ink);
   text-decoration: none;
   letter-spacing: -0.01em;
@@ -546,7 +546,7 @@ main pre code { background: none; padding: 0; }
 .posts li a:hover { color: var(--accent); }
 
 .posts-empty {
-  font: 400 italic 16px/1.5 var(--serif);
+  font: 400 italic 1rem/1.5 var(--serif);
   color: var(--ink-3);
 }
 
@@ -567,15 +567,15 @@ main pre code { background: none; padding: 0; }
 .contact-links a { color: var(--ink); }
 
 /* ── Stuff list ───────────────────────────────────────────── */
-.stuff-list { list-style: none; padding: 0; margin: 24px 0; max-width: 520px; }
-.stuff-list li {
+.work-list { list-style: none; padding: 0; margin: 24px 0; max-width: 520px; }
+.work-list li {
   border-top: 1px solid var(--rule);
   padding: 18px 0;
   margin-bottom: 0;
 }
-.stuff-list li:last-child { border-bottom: 1px solid var(--rule); }
-.stuff-list a {
-  font: 400 22px/1.3 var(--serif);
+.work-list li:last-child { border-bottom: 1px solid var(--rule); }
+.work-list a {
+  font: 400 1.375rem/1.3 var(--serif);
   color: var(--ink);
   text-decoration: none;
   display: flex;
@@ -583,14 +583,15 @@ main pre code { background: none; padding: 0; }
   align-items: baseline;
   gap: 16px;
 }
-.stuff-list a:hover { color: var(--accent); }
-.stuff-list a::after {
+.work-list a:hover { color: var(--accent); }
+.work-list a::after {
   content: '→';
   color: var(--ink-3);
-  font: 400 18px/1 var(--sans);
+  font: 400 1.125rem/1 var(--sans);
   transition: color 0.15s var(--ease), transform 0.15s var(--ease);
+  speak: never;
 }
-.stuff-list a:hover::after {
+.work-list a:hover::after {
   color: var(--accent);
   transform: translateX(4px);
 }

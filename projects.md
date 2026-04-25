@@ -36,4 +36,4 @@ description: "Ongoing intellectual and public-facing projects by Aakash Solanki,
   <p>Supported Dr. Murali Shanmugavelan&rsquo;s Critical Caste and Technology Studies (CCTS) syllabus — a first-of-its-kind open resource organizing anti-caste scholarship around communicative practices, media, and internet technology studies. The syllabus offers a cross-disciplinary starting point for students and scholars examining caste as it is remanifested in everyday digital cultures.</p>
 </article>
 
-<p class="back"><a href="/stuff/">← Back to Stuff</a></p>
+<p class="back"><a href="/work/">← Back to Work</a></p>

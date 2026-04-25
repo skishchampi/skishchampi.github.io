@@ -84,15 +84,15 @@
 
     <div class="wrapper">
       <header class="mast" role="banner">
-        <h1 class="mast-title">
-          <a href="{{ '/' | relative_url }}">{{ site.author }}</a>
-        </h1>
+        <p class="mast-title">
+          <a href="{{ '/' | relative_url }}" rel="home">{{ site.author }}</a>
+        </p>
         <nav class="mast-nav" aria-label="Primary">
           {%- assign here = page.url -%}
           <a href="{{ '/' | relative_url }}"{% if here == '/' %} class="active" aria-current="page"{% endif %}>About</a>
-          <a href="{{ '/stuff/' | relative_url }}"{% if here contains '/stuff' %} class="active" aria-current="page"{% endif %}>Stuff</a>
+          <a href="{{ '/work/' | relative_url }}"{% if here contains '/work' %} class="active" aria-current="page"{% endif %}>Work</a>
           <a href="{{ '/contact/' | relative_url }}"{% if here contains '/contact' %} class="active" aria-current="page"{% endif %}>Contact</a>
-          <button id="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">Dark</button>
+          <button id="theme-toggle" type="button" aria-pressed="false" aria-label="Switch to dark mode">Dark</button>
         </nav>
       </header>
 
@@ -102,7 +102,7 @@
 
       <footer class="site">
         <span>© {{ site.time | date: '%Y' }} {{ site.author }} · Set in Newsreader &amp; Inter</span>
-        <span><a href="{{ site.orcid }}" rel="noopener">ORCID</a> · <a href="{{ '/feed.xml' | relative_url }}">RSS</a></span>
+        <span><a href="{{ site.orcid }}" rel="noopener">ORCID</a> · <a href="{{ '/feed.xml' | relative_url }}">RSS feed</a></span>
       </footer>
     </div>
 
