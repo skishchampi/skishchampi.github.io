@@ -22,7 +22,7 @@ description: "An ethnography of governance after planning — regional inequalit
 </header>
 
 <figure class="research-hero">
-  <img src="/assets/img/research/landscape.jpeg" alt="A forested cliff overlooking a wide valley with a small green-roofed pavilion on the rock edge." loading="lazy">
+  <div class="sketch sketch--hero" role="img" aria-label="Line-drawn sketch of a forested cliff overlooking a wide valley, with a small pavilion at the rock edge." style="--sketch-src: url('/assets/img/research/sketches/hero.svg');"></div>
   <figcaption>From a field site, 2021.</figcaption>
 </figure>
 
@@ -43,13 +43,13 @@ description: "An ethnography of governance after planning — regional inequalit
     <p>The postcolonial state has long been concerned with the geography of disadvantage — the historical distinction between regions deemed &ldquo;backward&rdquo; and those deemed advanced. That concern is being reorganised through new vocabularies of aspiration, competition, and ranked performance. The work traces how the political and administrative labour once done by redistributive planning is now being done by other means.</p>
   </div>
   <figure class="thread-img">
-    <img src="/assets/img/research/path.JPG" alt="Several people walking on a dirt path across a clearing under broken cloud, towards a large tree." loading="lazy">
+    <div class="sketch sketch--camp" role="img" aria-label="Line-drawn sketch of officials and frontline workers seated outdoors at a small table running a public-service event, with chairs, supplies and figures in masks." style="--sketch-src: url('/assets/img/research/sketches/camp.svg');"></div>
   </figure>
 </section>
 
 <section class="thread">
   <figure class="thread-img">
-    <img src="/assets/img/research/chamber.jpeg" alt="An empty institutional meeting hall, two long rows of leather chairs facing a central table with conference microphones." loading="lazy">
+    <div class="sketch sketch--diagram" role="img" aria-label="Line-drawn sketch of a vendor diagram comparing Infrastructure-, Platform-, and Software-as-a-Service, three vertical stacks of layered components labelled Applications, Data, Runtime, Middleware, OS, Virtualization, Servers, Storage, Networking." style="--sketch-src: url('/assets/img/research/sketches/diagram.svg');"></div>
   </figure>
   <div class="thread-text">
     <h3>II. Digital infrastructures</h3>
@@ -63,7 +63,7 @@ description: "An ethnography of governance after planning — regional inequalit
     <p>The relations between centre, states, and districts are reshaped each time a new mode of governing development is introduced. The work tracks how programmatic reform recomposes what it means for sub-national units to &ldquo;implement&rdquo; or to &ldquo;perform&rdquo; — and how the centre, in turn, performs its own reach across an uneven terrain.</p>
   </div>
   <figure class="thread-img">
-    <img src="/assets/img/research/cornfield.jpg" alt="A small red toy car balanced on a cement wall in front of a tall maize field under cloudy sky." loading="lazy">
+    <div class="sketch sketch--road" role="img" aria-label="Line-drawn sketch of a dirt road seen from inside a vehicle — figures and motorcycles alongside, dust-covered track lined by trees." style="--sketch-src: url('/assets/img/research/sketches/road.svg');"></div>
   </figure>
 </section>
 
@@ -95,8 +95,8 @@ description: "An ethnography of governance after planning — regional inequalit
 </div>
 
 <figure class="research-coda">
-  <img src="/assets/img/research/silos.jpg" alt="A row of large white industrial silos with visible weld lines, beside blue-flanged pipes and a concrete yard." loading="lazy">
-  <figcaption>An infrastructure under construction.</figcaption>
+  <div class="sketch sketch--archive" role="img" aria-label="Line-drawn sketch of a narrow corridor between tall shelves of bundled paper files, with a person seated at a desk in the middle aisle." style="--sketch-src: url('/assets/img/research/sketches/archive.svg');"></div>
+  <figcaption>The archive at work.</figcaption>
 </figure>
 
 <p class="back"><a href="/work/">← Back to Work</a></p>
