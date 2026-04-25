@@ -14,12 +14,20 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
   <div class="meta">
     <dl>
       <dt>Since</dt><dd>2021</dd>
-      <dt>Recent</dt><dd>IFLA · IIIT-Delhi</dd>
+      <dt>Recent</dt><dd>U of Toronto · IFLA · IIIT-Delhi</dd>
     </dl>
   </div>
 </header>
 
-<h2 class="sect"><span class="n">2025</span>This year</h2>
+<h2 class="sect"><span class="n">2026</span>This year</h2>
+
+<div class="talk">
+  <span class="dt">Apr 2026</span>
+  <span class="ttl">&ldquo;Constitutive Incompetence: Caste, Expertise, and the Indian State&rdquo;</span>
+  <span class="at">Graduate Workshop, Centre for South Asian Studies, U of Toronto</span>
+</div>
+
+<h2 class="sect"><span class="n">2025</span>Previous year</h2>
 
 <div class="talk">
   <span class="dt">Oct 2025</span>
@@ -39,7 +47,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
   <span class="at">CSAS, U of Toronto Scarborough</span>
 </div>
 
-<h2 class="sect"><span class="n">2024</span>Previous year</h2>
+<h2 class="sect"><span class="n">2024</span>Earlier</h2>
 
 <div class="talk">
   <span class="dt">Oct 2024</span>
@@ -59,7 +67,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
   <span class="at">Cornell University (invited)</span>
 </div>
 
-<h2 class="sect"><span class="n">2023</span>Earlier</h2>
+<h2 class="sect"><span class="n">2023</span></h2>
 
 <div class="talk">
   <span class="dt">Jun 2023</span>

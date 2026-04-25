@@ -41,9 +41,9 @@ description: "Aakash Solanki is a PhD candidate in Anthropology and South Asian 
   <div class="label">III. Recent news</div>
   <div class="body">
     <ul class="bullets news">
+      <li><span class="num">Apr 2026</span><span>Keynote at the Graduate Workshop, Centre for South Asian Studies, University of Toronto: &ldquo;Constitutive Incompetence: Caste, Expertise, and the Indian State.&rdquo;</span></li>
       <li><span class="num">Oct 2025</span><span>Talk at the International Federation for Library Associations and Institutions webinar: &ldquo;Caste, Libraries, and Public Finance.&rdquo;</span></li>
       <li><span class="num">Aug 2025</span><span>Invited talk at the Symposium on Digital Inequalities and the Global South, IIIT-Delhi.</span></li>
-      <li><span class="num">Apr 2025</span><span>Talk at the Center for South Asian Studies, University of Toronto Scarborough.</span></li>
     </ul>
     <p style="margin-top: 24px; font-size: 13px; font-family: var(--sans); color: var(--ink-3);">See all <a href="/talks/">talks</a> and <a href="/publications/">publications</a>.</p>
   </div>
