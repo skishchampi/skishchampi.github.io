@@ -57,6 +57,10 @@ description: "Undergraduate courses designed and taught as instructor of record 
   </div>
 </div>
 
+<figure class="page-figure">
+  <img src="/assets/img/research/pamphlets.jpeg" alt="A welfare counter labelled &lsquo;EC CORNER&rsquo; with stacks of bilingual pamphlets in Kannada and a wall chart explaining symptoms of low blood sugar." loading="lazy">
+</figure>
+
 <div class="stupa-coda" role="presentation"></div>
 
 <p class="back"><a href="/work/">← Back to Work</a></p>

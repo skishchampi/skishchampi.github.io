@@ -102,38 +102,6 @@ description: "An ethnography of governance after planning — regional inequalit
   </div>
 </div>
 
-<h2 class="sect"><span class="n">Field album</span>Other materials</h2>
-
-<div class="album">
-  <figure>
-    <img src="/assets/img/research/camp.jpeg" alt="An outdoor health camp under a tarpaulin, with frontline workers in masks seated at a small table covered in supplies and forms, several officials standing nearby." loading="lazy">
-  </figure>
-  <figure>
-    <img src="/assets/img/research/screen.jpeg" alt="Two people leaning over a desktop screen in a cramped office, working through a form together." loading="lazy">
-  </figure>
-  <figure>
-    <img src="/assets/img/research/meeting.jpeg" alt="A village outdoor meeting, women in colourful saris seated in rows along a row of plastic chairs against a wall." loading="lazy">
-  </figure>
-  <figure>
-    <img src="/assets/img/research/table.jpeg" alt="Two people seated at a small table strewn with notebooks, papers, and a few craft materials." loading="lazy">
-  </figure>
-  <figure>
-    <img src="/assets/img/research/form-call.jpeg" alt="A printed form pressed under one hand while another hand holds a phone over a laptop screen showing a digital form interface." loading="lazy">
-  </figure>
-  <figure>
-    <img src="/assets/img/research/reading.jpeg" alt="A person reading at a desk inside a small office or library, books and folders on shelves behind." loading="lazy">
-  </figure>
-  <figure>
-    <img src="/assets/img/research/meadow.jpeg" alt="Cattle grazing in a green meadow under tall trees, a single figure visible at distance." loading="lazy">
-  </figure>
-  <figure>
-    <img src="/assets/img/research/gate.jpeg" alt="A government gate marked &lsquo;INDIA POPULATION PROJECT&rsquo;, a small red car parked outside, a heap of construction sand in the foreground." loading="lazy">
-  </figure>
-  <figure>
-    <img src="/assets/img/research/diagram.jpg" alt="A diagram comparing Infrastructure-, Platform-, and Software-as-a-Service across three vertical stacks of components." loading="lazy">
-  </figure>
-</div>
-
 <figure class="research-coda">
   <img src="/assets/img/research/archive.jpeg" alt="A long aisle inside an archive between tall shelves of cloth-wrapped paper bundles, a person seated at a desk in the centre under a fluorescent light." loading="lazy">
   <figcaption>Inside the archive.</figcaption>

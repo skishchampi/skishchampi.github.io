@@ -24,4 +24,8 @@ description: "Get in touch with Aakash Solanki — email, ORCID, Google Scholar.
   <div class="row"><span class="k">Scholar</span> <a href="https://scholar.google.com/citations?user=Y0LLLUMAAAAJ" rel="noopener">Google Scholar</a></div>
 </div>
 
+<figure class="page-figure">
+  <img src="/assets/img/research/table.jpeg" alt="Two people seated at a small table strewn with notebooks, papers, and craft materials, working together." loading="lazy">
+</figure>
+
 <p class="back"><a href="/">← Back to About</a></p>
