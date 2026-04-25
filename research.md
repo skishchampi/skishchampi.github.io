@@ -95,10 +95,6 @@ description: "An ethnography of governance after planning — regional inequalit
   <div class="label">Method</div>
   <div class="body">
     <p>Ethnography in bureaucratic settings; archival work in national and state collections; participant-observation alongside policy consultants and frontline workers; document analysis across cabinet resolutions, programme guidelines, and digital portals. The project moves between offices and districts, between papers tabled in parliament and forms filled at the block level.</p>
-    <figure class="inline-figure">
-      <img src="/assets/img/diagrams/coverage.svg" alt="A grid of small square cells, each a unit-by-month observation, with varying tone. Some cells nearly paper-pale, others ochre, others dark — a pattern of uneven reporting density across time." loading="lazy">
-      <figcaption>Reporting density across units and months — illustrative. Tone stands for completeness, not value.</figcaption>
-    </figure>
   </div>
 </div>
 
