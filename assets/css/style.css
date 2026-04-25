@@ -669,6 +669,27 @@ main pre code { background: none; padding: 0; }
 }
 .contact-links a { color: var(--ink); }
 
+/* ── Work index layout ────────────────────────────────────── */
+.work-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 72px;
+  align-items: start;
+  margin: 32px 0 0;
+}
+.work-figure { margin: 0; }
+.work-figure img {
+  width: 100%; height: auto;
+  display: block;
+  border-radius: 2px;
+  background: var(--paper-3);
+  aspect-ratio: 4/3;
+  object-fit: cover;
+}
+@media (max-width: 720px) {
+  .work-layout { grid-template-columns: 1fr; gap: 24px; }
+}
+
 /* ── Stuff list ───────────────────────────────────────────── */
 .work-list { list-style: none; padding: 0; margin: 24px 0; max-width: 520px; }
 .work-list li {
