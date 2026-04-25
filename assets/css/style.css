@@ -441,6 +441,12 @@ main pre code { background: none; padding: 0; }
   color: var(--ink-3);
   margin: 4px 0 0;
 }
+.pub .main .blurb {
+  font: 400 italic 0.9375rem/1.55 var(--serif);
+  color: var(--ink-2);
+  margin: 6px 0 0;
+  max-width: 60ch;
+}
 .pub .tags {
   font: 400 11px/1 var(--sans);
   color: var(--ink-3);
