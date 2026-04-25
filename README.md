@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# aakashsolanki.net
 
-You can use the [editor on GitHub](https://github.com/skishchampi/skishchampi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Personal site for Aakash Solanki — PhD candidate in Anthropology and South
+Asian Studies at the University of Toronto.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Built with Jekyll. Custom layout (`_layouts/default.html`), custom CSS
+(`assets/css/style.css`), no third-party theme. Fonts via
+[Bunny Fonts](https://fonts.bunny.net) (open-source, privacy-friendly mirror
+of Google Fonts).
 
-### Markdown
+## Layout
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- `index.md` — About / home
+- `research.md` — Research
+- `publications.md`, `teaching.md`, `talks.md`, `projects.md` — Folio sub-pages
+- `caste-technoscience.md` — collaborative project page
+- `utdevsem.md` — archived Development Seminar concept note
+- `contact.md` — contact links and an open invitation
+- `work.md` — index of the Folio sub-pages
+- `blog/index.html` — blog post listing
+- `_posts/` — blog posts (filename: `YYYY-MM-DD-slug.md`)
+- `_drafts/` — unpublished drafts
+- `_layouts/` — page templates
+- `_plugins/tags.rb` — generates tag pages
 
-```markdown
-Syntax highlighted code block
+## Deploy
 
-# Header 1
-## Header 2
-### Header 3
+GitHub Pages builds from the `gh-pages` branch. After merging to `master`:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```sh
+git push origin origin/master:gh-pages
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Authoring a blog post
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skishchampi/skishchampi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Copy `_drafts/post-template.md` to `_posts/YYYY-MM-DD-slug.md`.
+2. Fill in `title`, `tags`, optional `excerpt`.
+3. Write in Markdown below the front matter.
+4. Commit, push, deploy.
