@@ -57,4 +57,4 @@ description: "Undergraduate courses designed and taught as instructor of record 
   </div>
 </div>
 
-<p class="back"><a href="/stuff/">← Back to Stuff</a></p>
+<p class="back"><a href="/work/">← Back to Work</a></p>

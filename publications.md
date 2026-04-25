@@ -113,4 +113,4 @@ description: "Publications by Aakash Solanki: peer-reviewed articles, book chapt
   <span class="tags">Essay</span>
 </div>
 
-<p class="back"><a href="/stuff/">← Back to Stuff</a></p>
+<p class="back"><a href="/work/">← Back to Work</a></p>

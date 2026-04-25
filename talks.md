@@ -87,4 +87,4 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
   <span class="at">Data &amp; Society Institute, NY</span>
 </div>
 
-<p class="back"><a href="/stuff/">← Back to Stuff</a></p>
+<p class="back"><a href="/work/">← Back to Work</a></p>
