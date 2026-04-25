@@ -23,7 +23,7 @@ description: "Ongoing intellectual and public-facing projects by Aakash Solanki,
 
 <article class="project">
   <h2><a href="/caste-technoscience/">Caste as/of Technoscience</a></h2>
-  <p>A collaborative project with Dr. Palashi Vaghela (Canada Research Chair, Simon Fraser University) convening interdisciplinary conversations at the Society for Social Studies of Science (4S) since 2021. The project reframes caste not as an identity category layered onto technoscience but as a sociotechnical formation in its own right.</p>
+  <p>A collaborative project with Dr. <a target="_blank" rel="noopener noreferrer" href="https://www.sfu.ca/siat/people/research-faculty/palashi-vaghela.html">Palashi Vaghela</a> (Canada Research Chair, Simon Fraser University) convening interdisciplinary conversations at the Society for Social Studies of Science (4S) since 2021. The project reframes caste not as an identity category layered onto technoscience but as a sociotechnical formation in its own right.</p>
 </article>
 
 <article class="project">
@@ -33,7 +33,7 @@ description: "Ongoing intellectual and public-facing projects by Aakash Solanki,
 
 <article class="project">
   <h2>Critical Caste and Technology Studies Syllabus</h2>
-  <p>Supported Dr. Murali Shanmugavelan&rsquo;s Critical Caste and Technology Studies (CCTS) syllabus — a first-of-its-kind open resource organizing anti-caste scholarship around communicative practices, media, and internet technology studies. The syllabus offers a cross-disciplinary starting point for students and scholars examining caste as it is remanifested in everyday digital cultures.</p>
+  <p>Supported Dr. <a target="_blank" rel="noopener noreferrer" href="https://www.oii.ox.ac.uk/people/profiles/murali-shanmugavelan/">Murali Shanmugavelan</a>&rsquo;s Critical Caste and Technology Studies (CCTS) syllabus — a first-of-its-kind open resource organizing anti-caste scholarship around communicative practices, media, and internet technology studies. The syllabus offers a cross-disciplinary starting point for students and scholars examining caste as it is remanifested in everyday digital cultures.</p>
 </article>
 
 <p class="back"><a href="/work/">← Back to Work</a></p>
