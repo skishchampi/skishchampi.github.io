@@ -119,4 +119,6 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
   <span class="tags">Chapter</span>
 </div>
 
+<div class="stupa-coda" role="presentation"></div>
+
 <p class="back"><a href="/work/">← Back to Work</a></p>

@@ -38,4 +38,6 @@ description: "An ongoing collaborative project convening interdisciplinary conve
   </div>
 </div>
 
+<div class="stupa-coda" role="presentation"></div>
+
 <p class="back"><a href="/projects/">← Back to Projects</a></p>
