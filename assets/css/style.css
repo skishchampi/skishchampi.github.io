@@ -699,6 +699,24 @@ main pre code { background: none; padding: 0; }
   transform: translateX(4px);
 }
 
+/* ── Page-bottom figure (Contact / Teaching / Caste etc.) ─── */
+.page-figure {
+  margin: 56px 0 8px;
+  max-width: 720px;
+}
+.page-figure img {
+  width: 100%; height: auto;
+  display: block;
+  border-radius: 2px;
+  background: var(--paper-3);
+}
+.page-figure figcaption {
+  font: 400 italic 0.8125rem/1.4 var(--serif);
+  color: var(--ink-3);
+  margin-top: 8px;
+  max-width: 56ch;
+}
+
 /* ── Inline figures inside text blocks ────────────────────── */
 .inline-figure {
   margin: 28px 0 4px;
