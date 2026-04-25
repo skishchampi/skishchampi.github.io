@@ -32,6 +32,10 @@ description: "An ethnography of governance after planning — regional inequalit
     <p>For most of the twentieth century, the developmental authority of postcolonial states rested on a particular epistemic claim — that the state could know, through statistics, surveys, and resource assessments, the social and economic processes it sought to govern. By the early twenty-first century, that claim no longer holds steady. National statistical infrastructures have lost authority and coverage; new digital infrastructures have not yet consolidated reliability.</p>
     <p>The dissertation pursues what it means to govern through this interregnum. Drawing on three years of fieldwork and archival research reaching back to the postcolonial planning institutions of the 1950s, it argues that contemporary modes of governing do not retreat from technical infrastructure when its epistemic ground gives way. Instead, they redeploy it for other purposes — to generate political rhythm, competitive community, and the spectacular performance of governance improvement.</p>
     <p>The state is not the only actor in this story. The work also tracks the cast that has come to populate the conditions of national governance: transnational funding agencies, philanthrocapitalist foundations, multinational technology corporations, and financial experiments such as development impact bonds — whose tools, money, instruments, and expertise reshape what the state is able to do, and what it is asked to do, by those it governs.</p>
+    <figure class="inline-figure">
+      <img src="/assets/img/research/pamphlets.jpeg" alt="A welfare counter labelled &lsquo;EC CORNER&rsquo; with stacks of bilingual pamphlets in Kannada and a wall chart explaining symptoms of low blood sugar." loading="lazy">
+      <figcaption>The materials of public-health communication, stacked at a counter.</figcaption>
+    </figure>
   </div>
 </div>
 
@@ -43,13 +47,13 @@ description: "An ethnography of governance after planning — regional inequalit
     <p>The postcolonial state has long been concerned with the geography of disadvantage — the historical distinction between regions deemed &ldquo;backward&rdquo; and those deemed advanced. That concern is being reorganised through new vocabularies of aspiration, competition, and ranked performance. The work traces how the political and administrative labour once done by redistributive planning is now being done by other means.</p>
   </div>
   <figure class="thread-img">
-    <img src="/assets/img/research/path.JPG" alt="Several people walking on a dirt path across a clearing under broken cloud, towards a large tree." loading="lazy">
+    <img src="/assets/img/research/register.jpeg" alt="A handwritten ledger headed &lsquo;Monthly Review Meeting 21 June to 20 July 21&rsquo; with columns for Total PW Reg, Estimated PW, Institutional Delivery, Home Delivery, and other district-level health indicators." loading="lazy">
   </figure>
 </section>
 
 <section class="thread">
   <figure class="thread-img">
-    <img src="/assets/img/research/chamber.jpeg" alt="An empty institutional meeting hall, two long rows of leather chairs facing a central table with conference microphones." loading="lazy">
+    <img src="/assets/img/research/office.jpeg" alt="Two officials in a yellow-walled government office working at desktop computers, an A4 form pinned between the windows." loading="lazy">
   </figure>
   <div class="thread-text">
     <h3>II. Digital infrastructures</h3>
@@ -63,7 +67,7 @@ description: "An ethnography of governance after planning — regional inequalit
     <p>The relations between centre, states, and districts are reshaped each time a new mode of governing development is introduced. The work tracks how programmatic reform recomposes what it means for sub-national units to &ldquo;implement&rdquo; or to &ldquo;perform&rdquo; — and how the centre, in turn, performs its own reach across an uneven terrain.</p>
   </div>
   <figure class="thread-img">
-    <img src="/assets/img/research/cornfield.jpg" alt="A small red toy car balanced on a cement wall in front of a tall maize field under cloudy sky." loading="lazy">
+    <img src="/assets/img/research/form.jpeg" alt="A bilingual Hindi-English maternal-care form filled in handwriting, with tickboxes, an ANM signature, and a partial official stamp visible at the corner." loading="lazy">
   </figure>
 </section>
 
@@ -91,12 +95,48 @@ description: "An ethnography of governance after planning — regional inequalit
   <div class="label">Method</div>
   <div class="body">
     <p>Ethnography in bureaucratic settings; archival work in national and state collections; participant-observation alongside policy consultants and frontline workers; document analysis across cabinet resolutions, programme guidelines, and digital portals. The project moves between offices and districts, between papers tabled in parliament and forms filled at the block level.</p>
+    <figure class="inline-figure">
+      <img src="/assets/img/research/instrument.jpeg" alt="A handheld haemoglobin-screening device held in a hand, with a smartphone visible on a desk in the background." loading="lazy">
+      <figcaption>An instrument of measure, in the field.</figcaption>
+    </figure>
   </div>
 </div>
 
+<h2 class="sect"><span class="n">Field album</span>Other materials</h2>
+
+<div class="album">
+  <figure>
+    <img src="/assets/img/research/camp.jpeg" alt="An outdoor health camp under a tarpaulin, with frontline workers in masks seated at a small table covered in supplies and forms, several officials standing nearby." loading="lazy">
+  </figure>
+  <figure>
+    <img src="/assets/img/research/screen.jpeg" alt="Two people leaning over a desktop screen in a cramped office, working through a form together." loading="lazy">
+  </figure>
+  <figure>
+    <img src="/assets/img/research/meeting.jpeg" alt="A village outdoor meeting, women in colourful saris seated in rows along a row of plastic chairs against a wall." loading="lazy">
+  </figure>
+  <figure>
+    <img src="/assets/img/research/table.jpeg" alt="Two people seated at a small table strewn with notebooks, papers, and a few craft materials." loading="lazy">
+  </figure>
+  <figure>
+    <img src="/assets/img/research/form-call.jpeg" alt="A printed form pressed under one hand while another hand holds a phone over a laptop screen showing a digital form interface." loading="lazy">
+  </figure>
+  <figure>
+    <img src="/assets/img/research/reading.jpeg" alt="A person reading at a desk inside a small office or library, books and folders on shelves behind." loading="lazy">
+  </figure>
+  <figure>
+    <img src="/assets/img/research/meadow.jpeg" alt="Cattle grazing in a green meadow under tall trees, a single figure visible at distance." loading="lazy">
+  </figure>
+  <figure>
+    <img src="/assets/img/research/gate.jpeg" alt="A government gate marked &lsquo;INDIA POPULATION PROJECT&rsquo;, a small red car parked outside, a heap of construction sand in the foreground." loading="lazy">
+  </figure>
+  <figure>
+    <img src="/assets/img/research/diagram.jpg" alt="A diagram comparing Infrastructure-, Platform-, and Software-as-a-Service across three vertical stacks of components." loading="lazy">
+  </figure>
+</div>
+
 <figure class="research-coda">
-  <img src="/assets/img/research/silos.jpg" alt="A row of large white industrial silos with visible weld lines, beside blue-flanged pipes and a concrete yard." loading="lazy">
-  <figcaption>An infrastructure under construction.</figcaption>
+  <img src="/assets/img/research/archive.jpeg" alt="A long aisle inside an archive between tall shelves of cloth-wrapped paper bundles, a person seated at a desk in the centre under a fluorescent light." loading="lazy">
+  <figcaption>Inside the archive.</figcaption>
 </figure>
 
 <div class="block">
@@ -104,6 +144,10 @@ description: "An ethnography of governance after planning — regional inequalit
   <div class="body">
     <p>Two strands precede the dissertation. A Master&rsquo;s thesis at the University of Chicago (2014, advised by John D. Kelly) on the Criminal Tribes Act and police practice in British India, 1871&ndash;1927, argued against scholarship that read the Act as a uniform homogenising apparatus, drawing on police manuals to show classification at the level of practice as variable, multidimensional, and uneven. The thesis pre-empts contemporary debates on AI-driven facial recognition, carcerality, and predictive policing &mdash; tracing how nineteenth-century apparatuses already operated through racialised, hereditary classification of populations marked for surveillance.</p>
     <p>A stint on the City of Chicago&rsquo;s Smart Cities team (2014&ndash;15) contributed to a <a target="_blank" rel="noopener noreferrer" href="https://chicago.github.io/food-inspections-evaluation/">predictive model for food inspections</a> used by the city&rsquo;s Department of Public Health. The dissertation inherits both threads &mdash; the suspicion of homogenising classifications and a working knowledge of what predictive systems actually do inside a state apparatus.</p>
+    <figure class="inline-figure">
+      <img src="/assets/img/research/ledger.jpeg" alt="A page from a paper ledger labelled &lsquo;May-2022&rsquo;, headed NEW / OLD / IPD / IVD with handwritten dates and small numbers in red and blue." loading="lazy">
+      <figcaption>A page from a register.</figcaption>
+    </figure>
   </div>
 </div>
 
