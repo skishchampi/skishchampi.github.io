@@ -74,7 +74,7 @@
     </script>
     {% endif %}
 
-    <link rel="icon" href="{{ '/assets/img/favicon.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="icon" href="{{ '/assets/img/bodhi.svg' | relative_url }}" type="image/svg+xml">
     <link rel="preconnect" href="https://fonts.bunny.net" crossorigin>
     <link rel="stylesheet" href="https://fonts.bunny.net/css?family=newsreader:400,400i,500,500i,600|inter:400,500,600|jetbrains-mono:400,500&display=swap">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -102,6 +102,16 @@
 
       <footer class="site">
         <span>© {{ site.time | date: '%Y' }} {{ site.author }} · Set in Newsreader &amp; Inter</span>
+        <span class="ornament" aria-hidden="true">
+          <svg viewBox="0 0 130 130" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M 65 110 C 45 112 27 98 25 75 C 23 48 41 25 65 15 C 89 25 107 48 105 75 C 103 98 85 112 65 110 Z"/>
+            <path d="M 65 15 L 65 110"/>
+            <path d="M 65 110 L 65 122"/>
+            <path d="M 65 38 Q 53 46 40 53"/><path d="M 65 38 Q 77 46 90 53"/>
+            <path d="M 65 60 Q 51 68 36 75"/><path d="M 65 60 Q 79 68 94 75"/>
+            <path d="M 65 82 Q 54 90 47 96"/><path d="M 65 82 Q 76 90 83 96"/>
+          </svg>
+        </span>
         <span><a href="{{ site.orcid }}" rel="noopener">ORCID</a> · <a href="{{ '/feed.xml' | relative_url }}">RSS feed</a></span>
       </footer>
     </div>
