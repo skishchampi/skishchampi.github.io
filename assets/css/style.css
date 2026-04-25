@@ -765,6 +765,31 @@ main pre code { background: none; padding: 0; }
   max-width: 56ch;
 }
 
+/* ── Diptych (two photos side by side) ────────────────────── */
+.diptych {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  margin: 48px 0;
+}
+.diptych > div { margin: 0; }
+.diptych img {
+  width: 100%;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  display: block;
+  border-radius: 2px;
+  background: var(--paper-3);
+}
+.diptych figcaption {
+  font: 400 italic 0.8125rem/1.4 var(--serif);
+  color: var(--ink-3);
+  margin-top: 8px;
+}
+@media (max-width: 720px) {
+  .diptych { grid-template-columns: 1fr; gap: 16px; }
+}
+
 /* ── Field album grid ─────────────────────────────────────── */
 .album {
   display: grid;

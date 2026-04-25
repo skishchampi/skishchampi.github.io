@@ -91,16 +91,18 @@ description: "An ethnography of governance after planning — regional inequalit
   <div class="label">Method</div>
   <div class="body">
     <p>Ethnography in bureaucratic settings; archival work in national and state collections; participant-observation alongside policy consultants and frontline workers; document analysis across cabinet resolutions, programme guidelines, and digital portals. The project moves between offices and districts, between papers tabled in parliament and forms filled at the block level.</p>
-    <figure class="inline-figure">
-      <img src="/assets/img/research/instrument.jpeg" alt="A handheld haemoglobin-screening device held in a hand, with a smartphone visible on a desk in the background." loading="lazy">
-      <figcaption>Anemia measurement.</figcaption>
-    </figure>
   </div>
 </div>
 
-<figure class="research-coda">
-  <img src="/assets/img/research/archive.jpeg" alt="A long aisle inside an archive between tall shelves of cloth-wrapped paper bundles, a person seated at a desk in the centre under a fluorescent light." loading="lazy">
-  <figcaption>Inside the archive.</figcaption>
+<figure class="diptych">
+  <div>
+    <img src="/assets/img/research/instrument.jpeg" alt="A handheld haemoglobin-screening device held in a hand, with a smartphone visible on a desk in the background." loading="lazy">
+    <figcaption>Anemia measurement.</figcaption>
+  </div>
+  <div>
+    <img src="/assets/img/research/archive.jpeg" alt="A long aisle inside an archive between tall shelves of cloth-wrapped paper bundles, a person seated at a desk in the centre under a fluorescent light." loading="lazy">
+    <figcaption>Inside the archive.</figcaption>
+  </div>
 </figure>
 
 <div class="block">
