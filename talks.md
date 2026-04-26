@@ -24,7 +24,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
 <div class="talk">
   <span class="dt">Apr 2026</span>
   <span class="ttl">&ldquo;Constitutive Incompetence: Caste, Expertise, and the Indian State&rdquo;</span>
-  <span class="at">Graduate Workshop, Centre for South Asian Studies, U of Toronto</span>
+  <span class="at">Graduate Workshop, University of Toronto</span>
 </div>
 
 <h2 class="sect"><span class="n">2025</span>Previous year</h2>
