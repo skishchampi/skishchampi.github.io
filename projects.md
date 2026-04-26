@@ -13,7 +13,7 @@ description: "Ongoing intellectual and public-facing projects by Aakash Solanki,
   </div>
   <div class="meta">
     <dl>
-      <dt>Active</dt><dd>4 projects</dd>
+      <dt>Active</dt><dd>5 projects</dd>
       <dt>Since</dt><dd>2021</dd>
       <dt>Geographies</dt><dd>India · Global</dd>
       <dt>Mode</dt><dd>Collaborative</dd>
@@ -24,6 +24,11 @@ description: "Ongoing intellectual and public-facing projects by Aakash Solanki,
 <article class="project">
   <h2><a href="/caste-technoscience/">Caste as/of Technoscience</a></h2>
   <p>A collaborative project with Dr. <a target="_blank" rel="noopener noreferrer" href="https://www.sfu.ca/siat/people/research-faculty/palashi-vaghela.html">Palashi Vaghela</a> (Canada Research Chair, Simon Fraser University) convening interdisciplinary conversations at the Society for Social Studies of Science (4S) since 2021. The project reframes caste not as an identity category layered onto technoscience but as a sociotechnical formation in its own right.</p>
+</article>
+
+<article class="project">
+  <h2><a href="/states-startups-capital/">States, Startups, and Capital</a></h2>
+  <p>A joint inquiry with <a target="_blank" rel="noopener noreferrer" href="https://www.stevens.edu/profile/smertia">Sandeep Mertia</a> and <a target="_blank" rel="noopener noreferrer" href="https://www.uva.nl/en/profile/h/a/n.a.hasan/n.a.hasan.html">Nafis Hasan</a> into mobile applications, state power, and the digital economy &mdash; how apps emerge and circulate not just as products of the digital economy but as the form of the technological state.</p>
 </article>
 
 <article class="project">

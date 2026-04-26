@@ -58,7 +58,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
 <div class="talk">
   <span class="dt">Apr 2024</span>
   <span class="ttl">&ldquo;&lsquo;Can We Really Do It?&rsquo; The Promise of a Guerrilla Data Practice&rdquo;</span>
-  <span class="at">Cultures of Data Workshop, Penn</span>
+  <span class="at"><a target="_blank" rel="noopener noreferrer" href="https://wolfhumanities.upenn.edu/events/cultures-datafication-and-across-south-asia">Cultures of Data Workshop, Penn</a></span>
 </div>
 
 <div class="talk">
