@@ -32,7 +32,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
 <div class="talk">
   <span class="dt">Oct 2025</span>
   <span class="ttl">&ldquo;Caste, Libraries, and Public Finance&rdquo;</span>
-  <span class="at">IFLA webinar</span>
+  <span class="at"><a target="_blank" rel="noopener noreferrer" href="https://www.ifla.org/events/caste-discrimination-an-introduction-for-librarians/">IFLA webinar</a></span>
 </div>
 
 <div class="talk">
