@@ -130,7 +130,7 @@ a { color: var(--ink); }
 #theme-toggle .flame {
   fill: var(--accent-blue);
   opacity: 0;
-  transform-origin: 12px 9px;
+  transform-origin: 4px 8px;
   transition: opacity 0.25s var(--ease);
 }
 html[data-theme="dark"] #theme-toggle .flame { opacity: 1; }
