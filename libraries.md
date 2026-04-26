@@ -13,7 +13,8 @@ description: "An inquiry into libraries as sites of democratic encounter, anchor
   </div>
   <div class="meta">
     <dl>
-      <dt>Period</dt><dd>2014&ndash;21</dd>
+      <dt>Period</dt><dd>2023&ndash;continuing</dd>
+      <dt>Spend data</dt><dd>2014&ndash;21</dd>
       <dt>Geography</dt><dd>31 Indian states</dd>
       <dt>Partner</dt><dd>Free Libraries Network</dd>
       <dt>Tracker</dt><dd><a href="/freelibraries4all/">View dashboard &rarr;</a></dd>
