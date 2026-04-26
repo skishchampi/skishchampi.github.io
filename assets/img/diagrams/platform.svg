@@ -1,0 +1,27 @@
+<svg viewBox="0 0 700 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="500" fill="#f7f2e8" stroke="#444" stroke-width="0.75"/>
+
+  <text x="28" y="40" font-family="Georgia, serif" font-style="italic" font-weight="500" font-size="22" fill="#2a3680">The platform stack</text>
+  <text x="672" y="40" font-family="Menlo, monospace" font-size="10" fill="#888" text-anchor="end">SCHEMATIC</text>
+  <line x1="28" y1="54" x2="672" y2="54" stroke="#aaa" stroke-width="0.6"/>
+
+  <!-- Layer 1: Vendor platform -->
+  <rect x="28" y="78" width="644" height="118" fill="none" stroke="#888" stroke-width="0.75"/>
+  <text x="44" y="100" font-family="Menlo, monospace" font-size="10" fill="#2a3680" letter-spacing="2.5">L1 · VENDOR PLATFORM</text>
+  <text x="44" y="138" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#222">Compute, storage, network.</text>
+  <text x="44" y="166" font-family="Georgia, serif" font-size="14" fill="#666">Provided as a service. Multinational tech corporations, cloud regions, service-level agreements, lock-in.</text>
+
+  <!-- Layer 2: State integration -->
+  <rect x="28" y="208" width="644" height="118" fill="none" stroke="#888" stroke-width="0.75"/>
+  <text x="44" y="230" font-family="Menlo, monospace" font-size="10" fill="#2a3680" letter-spacing="2.5">L2 · STATE INTEGRATION</text>
+  <text x="44" y="268" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#222">Pipelines, APIs, middleware.</text>
+  <text x="44" y="296" font-family="Georgia, serif" font-size="14" fill="#666">Built inside ministries by contracted IT vendors. Where state agency meets the platform.</text>
+
+  <!-- Layer 3: Frontline use -->
+  <rect x="28" y="338" width="644" height="118" fill="none" stroke="#888" stroke-width="0.75"/>
+  <text x="44" y="360" font-family="Menlo, monospace" font-size="10" fill="#2a3680" letter-spacing="2.5">L3 · FRONTLINE USE</text>
+  <text x="44" y="398" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#222">Apps, dashboards, registers.</text>
+  <text x="44" y="426" font-family="Georgia, serif" font-size="14" fill="#666">Inhabited by frontline workers, district officers, citizens. Where the platform meets practice.</text>
+
+  <text x="28" y="482" font-family="Georgia, serif" font-style="italic" font-size="11" fill="#888">Schematic. Layers and labels are illustrative.</text>
+</svg>
