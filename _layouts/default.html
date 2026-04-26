@@ -39,12 +39,18 @@
     <meta property="og:description" content="{{ page.description | default: site.description | strip_newlines }}">
     <meta property="og:url" content="{{ page.url | absolute_url }}">
     <meta property="og:locale" content="en_US">
+    <meta property="og:image" content="{{ '/assets/img/og-card.png' | absolute_url }}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:alt" content="Aakash Solanki — An anthropology of states, statistics, and computing.">
     <meta property="profile:first_name" content="Aakash">
     <meta property="profile:last_name" content="Solanki">
 
-    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ title }}">
     <meta name="twitter:description" content="{{ page.description | default: site.description | strip_newlines }}">
+    <meta name="twitter:image" content="{{ '/assets/img/og-card.png' | absolute_url }}">
+    <meta name="twitter:image:alt" content="Aakash Solanki — An anthropology of states, statistics, and computing.">
 
     {% if page.url == '/' %}
     <script type="application/ld+json">
