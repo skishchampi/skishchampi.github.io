@@ -21,11 +21,6 @@ description: "An ethnography of governance after planning — regional inequalit
   </div>
 </header>
 
-<figure class="research-hero">
-  <img src="/assets/img/research/form-call.jpeg" alt="A printed government register held over a lap, with a tablet propped beside it showing a digital data-collection form — paper and digital co-existing on the same desk." loading="lazy">
-  <figcaption>Old and new media of the state, on the same lap.</figcaption>
-</figure>
-
 <div class="block">
   <div class="label">The question</div>
   <div class="body">
