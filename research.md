@@ -53,6 +53,10 @@ description: "An ethnography of governance after planning — regional inequalit
   <div class="thread-text">
     <h3>II. Digital infrastructures</h3>
     <p>Dashboards, real-time data portals, ranking systems, machine learning algorithms, and automated decision systems have become central to how the contemporary state addresses developmental questions. These are not merely tools of measurement but a medium through which the state constitutes itself as an object of public attention. The work reads the technical apparatus ethnographically — attending to how it is built, maintained, and inhabited by frontline workers, bureaucrats, consultants, and the multinational technology corporations whose platforms increasingly underwrite governance — and to the gap between what such systems are supposed to know and what they actually do.</p>
+    <figure class="inline-figure">
+      <img src="/assets/img/diagrams/platform.svg" alt="A schematic three-layer stack diagram. Top layer: 'Vendor platform — compute, storage, network.' Middle layer: 'State integration — pipelines, APIs, middleware.' Bottom layer: 'Frontline use — apps, dashboards, registers.' Each layer carries a short caption indicating what it is and who inhabits it." loading="lazy">
+      <figcaption>The platform stack as it presses into government IT — schematic, illustrative.</figcaption>
+    </figure>
   </div>
 </section>
 
@@ -90,6 +94,10 @@ description: "An ethnography of governance after planning — regional inequalit
   <div class="label">Method</div>
   <div class="body">
     <p>Ethnography in bureaucratic settings; archival work in national and state collections; participant-observation alongside policy consultants and frontline workers; document analysis across cabinet resolutions, programme guidelines, and digital portals. The project moves between offices and districts, between papers tabled in parliament and forms filled at the block level.</p>
+    <figure class="inline-figure">
+      <img src="/assets/img/diagrams/coverage.svg" alt="A grid of small square cells, each a unit-by-month observation, with varying tone. Some cells nearly paper-pale, others ochre, others dark — a pattern of uneven reporting density across time." loading="lazy">
+      <figcaption>Reporting density across units and months — illustrative. Tone stands for completeness, not value.</figcaption>
+    </figure>
   </div>
 </div>
 
