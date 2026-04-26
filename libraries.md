@@ -30,11 +30,9 @@ description: "A brief on public library spending in India, with an interactive s
 </div>
 
 <div class="block">
-  <div class="label">What the data shows</div>
+  <div class="label">Where the data comes from</div>
   <div class="body">
-    <p><strong>Per-capita spend.</strong> India&rsquo;s public-library expenditure works out to about &#8377;15.30 per person per year (2020&ndash;21). That is roughly 232 times less than the United States in nominal terms, and around 80 times less than Finland after adjusting for purchasing power. Goa, the highest-spending Indian state, reaches about &#8377;140 per capita &mdash; still well below UK levels.</p>
-    <p><strong>Library acts without library money.</strong> Of the fourteen Indian states with library legislation, ten spend below the national average. Legislation alone does not guarantee funding.</p>
-    <p><strong>Concentration of central grants.</strong> The Raja Rammohun Roy Library Foundation (RRRLF) saw a 3.7&times; jump in funding after the National Mission on Libraries was launched in 2012. But distribution is concentrated: in 2023&ndash;24, four states absorbed roughly 70 percent of releases, while eighteen states received zero.</p>
+    <p>The figures the tracker reflects are drawn from publicly available work on the financing of public libraries in India &mdash; including reporting by IndiaSpend, the Vidhi Centre for Legal Policy&rsquo;s analyses of state library legislation, and the Indian Institute for Human Settlements&rsquo; research on urban public libraries. The tracker brings these threads together with state-budget and central-ministry data to make the picture state-by-state legible in one place.</p>
   </div>
 </div>
 
