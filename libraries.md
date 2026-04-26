@@ -39,13 +39,6 @@ description: "A brief on public library spending in India, with an interactive s
 </div>
 
 <div class="block">
-  <div class="label">Parliament returns to libraries</div>
-  <div class="body">
-    <p>For years, public libraries received little parliamentary scrutiny. The July&ndash;August 2025 budget session marked a small shift: questions on library equity and regional funding gaps appeared more frequently than in any recent session. In September 2025, the Free Libraries Network presented its first deposition before a Parliamentary Standing Committee, articulating the gap in policy attention to libraries and tabling a set of asks across the Ministry of Education, Ministry of Culture, and Ministry of Women and Child Development. The tracker logs these questions alongside the spending data, so that legislative attention and fiscal practice can be read together.</p>
-  </div>
-</div>
-
-<div class="block">
   <div class="label">A people&rsquo;s policy</div>
   <div class="body">
     <p>The Free Libraries Network has drafted a <em>People&rsquo;s National Library Policy 2024</em> &mdash; an independent civil-society policy framework calling for a right to read, free public libraries with books and trained librarians, integration of school and public libraries, and a financial-instrument architecture at the state level. The policy has been endorsed by the International Federation of Library Associations and Institutions (IFLA), the Dalit Bahujan Resource Centre, the National Campaign on Dalit Human Rights, and HarperCollins India, among others.</p>
