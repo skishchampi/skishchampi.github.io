@@ -3,6 +3,7 @@ description: >-
   PhD candidate in Anthropology and South Asian Studies at the University of
   Toronto, researching the genealogy of states, statistics, and computing.
 url: https://aakashsolanki.net
+baseurl: ""
 author: Aakash Solanki
 logo: /assets/img/logo.jpg
 orcid: https://orcid.org/0000-0002-4879-6998
