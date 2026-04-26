@@ -120,22 +120,23 @@ a { color: var(--ink); }
 #theme-toggle {
   background: none;
   border: 1px solid var(--rule);
-  color: var(--ink-3);
-  padding: 4px 6px; border-radius: 3px;
+  color: var(--accent);
+  padding: 4px; border-radius: 3px;
   display: inline-flex; align-items: center; justify-content: center;
+  line-height: 0; font-size: 0;
   cursor: pointer;
   transition: color 0.15s var(--ease), border-color 0.15s var(--ease);
 }
 #theme-toggle svg { display: block; }
-#theme-toggle .bowl { fill: var(--accent-blue); }
+#theme-toggle .bowl { fill: currentColor; }
 #theme-toggle .flame {
-  fill: var(--accent-blue);
+  fill: currentColor;
   opacity: 0;
   transform-origin: 12px 8px;
   transition: opacity 0.25s var(--ease);
 }
 html[data-theme="dark"] #theme-toggle .flame { opacity: 1; }
-#theme-toggle:hover { color: var(--ink); border-color: var(--ink); }
+#theme-toggle:hover { border-color: var(--accent); }
 
 /* ── Main ─────────────────────────────────────────────────── */
 main {
