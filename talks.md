@@ -44,7 +44,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
 <div class="talk">
   <span class="dt">Apr 2025</span>
   <span class="ttl">&ldquo;Rethinking the Emergence of the Poverty Line: The 1961 Census and Technopolitics of Governmentality in India&rdquo;</span>
-  <span class="at">CSAS, U of Toronto Scarborough</span>
+  <span class="at"><a target="_blank" rel="noopener noreferrer" href="https://munkschool.utoronto.ca/ai/centre-south-asian-studies">Centre for South Asian Studies, University of Toronto</a></span>
 </div>
 
 <h2 class="sect"><span class="n">2024</span>Earlier</h2>
