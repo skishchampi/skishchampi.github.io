@@ -29,5 +29,6 @@ jobs:
         run: gem install html-proofer
 
       - name: Run htmlproofer
-        run: htmlproofer ./_site --disable-external --ignore-empty-alt --no-enforce-https
+        run: htmlproofer ./_site --disable-external --ignore-empty-alt --no-enforce-https --ignore-urls "/^\/freelibraries4all/"
+        # /freelibraries4all/ is served from a separate repo at the same domain — not built here
         # --disable-external avoids flaky third-party 404s; flip on later if you want external link checking
