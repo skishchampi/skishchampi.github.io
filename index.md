@@ -12,6 +12,7 @@ description: "Aakash Solanki is a PhD candidate in Anthropology and South Asian 
     <div class="portrait">
       {% if site.logo %}<img src="{{ site.logo | relative_url }}" alt="Portrait of Aakash Solanki" loading="lazy">{% endif %}
     </div>
+    <p class="portrait-cap">In Montreal w/ <a target="_blank" rel="noopener noreferrer" href="https://www.concordia.ca/faculty/ishitatiwary.html">Ishita Tiwary</a>.</p>
   </div>
 </section>
 
