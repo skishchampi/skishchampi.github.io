@@ -30,7 +30,6 @@ description: "An ethnography of governance after planning — regional inequalit
     <p>The state is not the only actor in this story. The work also tracks the cast that has come to populate the conditions of national governance: transnational funding agencies, philanthrocapitalist foundations, multinational technology corporations, and financial experiments such as development impact bonds — whose tools, money, instruments, and expertise reshape what the state is able to do, and what it is asked to do, by those it governs.</p>
     <figure class="inline-figure">
       <img src="/assets/img/diagrams/dashboard.svg" alt="A schematic dashboard showing a score, a list of ranked indicators, and a twelve-month upward-trending line. Labelled illustrative." loading="lazy">
-      <figcaption>The form contemporary governing takes — schematic, illustrative.</figcaption>
     </figure>
   </div>
 </div>
@@ -56,7 +55,6 @@ description: "An ethnography of governance after planning — regional inequalit
     <p>Dashboards, real-time data portals, ranking systems, machine learning algorithms, and automated decision systems have become central to how the contemporary state addresses developmental questions. These are not merely tools of measurement but a medium through which the state constitutes itself as an object of public attention. The work reads the technical apparatus ethnographically — attending to how it is built, maintained, and inhabited by frontline workers, bureaucrats, consultants, and the multinational technology corporations whose platforms increasingly underwrite governance — and to the gap between what such systems are supposed to know and what they actually do.</p>
     <figure class="inline-figure">
       <img src="/assets/img/diagrams/platform.svg" alt="A schematic three-layer stack diagram. Top layer: 'Vendor platform — compute, storage, network.' Middle layer: 'State integration — pipelines, APIs, middleware.' Bottom layer: 'Frontline use — apps, dashboards, registers.' Each layer carries a short caption indicating what it is and who inhabits it." loading="lazy">
-      <figcaption>The platform stack as it presses into government IT — schematic, illustrative.</figcaption>
     </figure>
   </div>
 </section>
@@ -80,12 +78,12 @@ description: "An ethnography of governance after planning — regional inequalit
     <path class="india-outline" d="M 100 30 Q 140 22 200 35 Q 270 46 358 78 L 380 118 Q 362 154 322 174 L 296 200 Q 308 246 302 288 Q 288 338 252 378 L 200 448 Q 176 430 148 380 Q 118 320 98 252 Q 84 204 70 178 Q 34 178 26 148 Q 50 102 70 82 Q 82 52 100 30 Z" />
     <g class="india-sites">
       <circle cx="175" cy="110" r="6" class="capital"><title>National capital</title></circle>
-      <circle cx="215" cy="138" r="5"><title>Field site</title></circle>
-      <circle cx="252" cy="180" r="5"><title>Field site</title></circle>
-      <circle cx="222" cy="222" r="5"><title>Field site</title></circle>
-      <circle cx="206" cy="282" r="5"><title>Field site</title></circle>
-      <circle cx="240" cy="298" r="5"><title>Field site</title></circle>
-      <circle cx="170" cy="378" r="5"><title>Field site</title></circle>
+      <circle cx="218" cy="138" r="5"><title>Field site — north</title></circle>
+      <circle cx="100" cy="232" r="5"><title>Field site — west</title></circle>
+      <circle cx="258" cy="190" r="5"><title>Field site — east</title></circle>
+      <circle cx="346" cy="148" r="5"><title>Field site — northeast</title></circle>
+      <circle cx="218" cy="248" r="5"><title>Field site — central</title></circle>
+      <circle cx="178" cy="378" r="5"><title>Field site — south</title></circle>
     </g>
   </svg>
   <figcaption>The geographic spread is in service of the focus: fieldwork tracked Indian policy elites &mdash; central officials, state-cadre bureaucrats, district magistrates, and the consultants and technical staff who circulate among them &mdash; across offices in the national capital, state secretariats, and selected districts. Conducted in person and through phone and video, 2019&ndash;2023.</figcaption>
@@ -97,7 +95,6 @@ description: "An ethnography of governance after planning — regional inequalit
     <p>An ethnography of elites &mdash; bureaucratic offices, vendor meetings, consultant deliverables, internal review forums &mdash; rather than of those subjected to them. Participant-observation alongside policy consultants and the technical staff who build governance dashboards; long-form interviews with central- and state-cadre officials; document analysis across cabinet resolutions, programme guidelines, and digital portals; archival work in national and state collections. The project moves between offices and districts, between papers tabled in parliament and forms filled at the block level &mdash; but the analytic centre stays with the people writing, monitoring, and reviewing policy.</p>
     <figure class="inline-figure">
       <img src="/assets/img/diagrams/coverage.svg" alt="A grid of small square cells, each a unit-by-month observation, with varying tone. Some cells nearly paper-pale, others ochre, others dark — a pattern of uneven reporting density across time." loading="lazy">
-      <figcaption>Reporting density across units and months — illustrative.</figcaption>
     </figure>
   </div>
 </div>
@@ -105,11 +102,9 @@ description: "An ethnography of governance after planning — regional inequalit
 <figure class="diptych">
   <div>
     <img src="/assets/img/research/instrument.jpeg" alt="A handheld haemoglobin-screening device held in a hand, with a smartphone visible on a desk in the background." loading="lazy">
-    <figcaption>Anemia measurement.</figcaption>
   </div>
   <div>
     <img src="/assets/img/research/archive.jpeg" alt="A long aisle inside an archive between tall shelves of cloth-wrapped paper bundles, a person seated at a desk in the centre under a fluorescent light." loading="lazy">
-    <figcaption>Inside the archive.</figcaption>
   </div>
 </figure>
 
