@@ -239,6 +239,7 @@ main pre code { background: none; padding: 0; }
 }
 .lede > :nth-child(2) {
   display: flex;
+  flex-direction: column;
   align-items: stretch;
 }
 .lede::before {
