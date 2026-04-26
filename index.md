@@ -1,6 +1,5 @@
 ---
 layout: default
-description: "Aakash Solanki is a PhD candidate in Anthropology and South Asian Studies at the University of Toronto. His research sits at the intersection of the anthropology of the state, science and technology studies, and the historical study of statistics and computing."
 ---
 
 <section class="lede" aria-labelledby="home-hd">
@@ -12,7 +11,7 @@ description: "Aakash Solanki is a PhD candidate in Anthropology and South Asian 
     <div class="portrait">
       {% if site.logo %}<img src="{{ site.logo | relative_url }}" alt="Portrait of Aakash Solanki" loading="lazy">{% endif %}
     </div>
-    <p class="portrait-cap">In Montreal w/ Dr.&nbsp;<a target="_blank" rel="noopener noreferrer" href="https://www.concordia.ca/faculty/ishitatiwary.html">Ishita Tiwary</a>.</p>
+    <p class="portrait-cap">In Montreal w/ <a target="_blank" rel="noopener noreferrer" href="https://www.concordia.ca/faculty/ishitatiwary.html">Dr.&nbsp;Ishita Tiwary</a>.</p>
   </div>
 </section>
 
