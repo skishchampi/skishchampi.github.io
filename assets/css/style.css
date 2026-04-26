@@ -761,6 +761,20 @@ main pre code { background: none; padding: 0; }
   opacity: 0.7;
 }
 
+/* ── CTA link (used on project pages) ─────────────────────── */
+.cta {
+  display: inline-block;
+  font: 500 14px/1 var(--sans);
+  letter-spacing: 0.04em;
+  color: var(--paper);
+  background: var(--accent-blue);
+  padding: 12px 18px;
+  border-radius: 3px;
+  text-decoration: none;
+  transition: background-color 0.15s var(--ease);
+}
+.cta:hover { background: var(--ink); color: var(--paper); }
+
 /* ── Back link ────────────────────────────────────────────── */
 .back {
   margin: 64px 0 0;
