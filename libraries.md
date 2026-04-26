@@ -23,7 +23,6 @@ description: "A brief on public library spending in India, with an interactive s
 
 <figure class="research-hero">
   <img src="/assets/img/research/bookmobile.jpeg" alt="A vintage state-run mobile library — a converted vehicle with Hindi signage reading rajkiya bhramansheel pustakalaya, Santal Pargana, Dumka — parked under a red-roofed shelter alongside bicycles." loading="lazy">
-  <figcaption>A state-run mobile library in the field.</figcaption>
 </figure>
 
 <div class="block">
@@ -53,7 +52,6 @@ description: "A brief on public library spending in India, with an interactive s
 
 <figure class="research-coda">
   <img src="/assets/img/research/study.jpeg" alt="A young man in a blue hoodie sits at a low table in a worn-down library room, books open in front of him, glass-fronted cabinets of books on one wall and metal shelves of stacked, ageing newspapers on the other. Walls show patches of peeling teal paint." loading="lazy">
-  <figcaption>A reader at a state library.</figcaption>
 </figure>
 
 <div class="block">
