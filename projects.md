@@ -27,13 +27,13 @@ description: "Ongoing intellectual and public-facing projects by Aakash Solanki,
 </article>
 
 <article class="project">
-  <h2><a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/events/series/digital-rights-activism-dialogues">Digital Rights Activism Dialogues</a></h2>
-  <p>An online dialogue series co-curated with Dr. <a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/people/tarangini-sriraman">Tarangini Sriraman</a> at King&rsquo;s College London, hosted by the KCL History Department in collaboration with the Labor Tech Network, King&rsquo;s India Institute, Africa Leadership Centre, Brazil Institute, and Menzies Australia Institute. Each conversation pairs activists and activism-adjacent academics across regional geographies of the Global South &mdash; labour, health, food, policing, identification, housing, archiving &mdash; to steer the digital-rights conversation away from corporation-dominated discourse toward transnational activist energies. Themes include digital rights in social media and cyber security, social services, financial inclusion, and counter-forensics.</p>
+  <h2><a href="/digital-rights-activism-dialogues/">Digital Rights Activism Dialogues</a></h2>
+  <p>An online dialogue series at King&rsquo;s College London co-curated with Dr. <a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/people/tarangini-sriraman">Tarangini Sriraman</a>. Each conversation pairs activists and activism-adjacent academics across regional geographies of the Global South to steer the digital-rights conversation away from corporation-dominated discourse toward transnational activist energies.</p>
 </article>
 
 <article class="project">
-  <h2><a href="/freelibraries4all/">India Library Spend Tracker</a></h2>
-  <p>An interactive dashboard tracking public library spending across Indian states (2014–21), benchmarked against international peers. Examines the paradox of library legislation without library funding, the concentration of central grants, and the slow return of libraries to parliamentary attention. Developed as part of ongoing advocacy and research with the Free Libraries Network, India and South Asia.</p>
+  <h2><a href="/libraries/">India Library Spend Tracker</a></h2>
+  <p>A primer on what India spends on its public libraries, with an interactive state-by-state dashboard. Examines the paradox of library legislation without library funding, the concentration of central grants, and the slow return of libraries to parliamentary attention. Developed alongside ongoing advocacy and research with the Free Libraries Network, India and South Asia.</p>
 </article>
 
 <article class="project">
