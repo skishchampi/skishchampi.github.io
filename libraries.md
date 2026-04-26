@@ -1,15 +1,15 @@
 ---
 layout: default
-title: India Library Spend Tracker
+title: Democracies and Libraries
 permalink: /libraries/
-description: "A brief on public library spending in India, with an interactive state-by-state dashboard, developed alongside the Free Libraries Network."
+description: "An inquiry into libraries as sites of democratic encounter, anchored in a brief on public-library spending across Indian states, developed alongside the Free Libraries Network."
 ---
 
 <header class="pagehead">
   <div>
     <div class="kicker">Project</div>
-    <h1>What India spends on its public libraries.</h1>
-    <p class="standfirst">A brief on public library spending across Indian states, with an interactive state-by-state dashboard. The work sits alongside ongoing advocacy and research with the Free Libraries Network, India and South Asia.</p>
+    <h1>Democracies and libraries.</h1>
+    <p class="standfirst">An ongoing inquiry into libraries as sites of democratic encounter &mdash; anchored in a brief on public-library spending across Indian states, and in research and advocacy with the Free Libraries Network, India and South Asia.</p>
   </div>
   <div class="meta">
     <dl>
@@ -24,6 +24,15 @@ description: "A brief on public library spending in India, with an interactive s
 <figure class="research-hero">
   <img src="/assets/img/research/bookmobile.jpeg" alt="A vintage state-run mobile library — a converted vehicle with Hindi signage reading rajkiya bhramansheel pustakalaya, Santal Pargana, Dumka — parked under a red-roofed shelter alongside bicycles." loading="lazy">
 </figure>
+
+<div class="block">
+  <div class="label">Why libraries</div>
+  <div class="body">
+    <p>Public-library spending is, on the surface, an accounting question. Beneath it sits a political one. John Dewey understood democracy not as voting procedures but as <em>associated living</em> &mdash; the cultivation of shared experience, cooperative inquiry, and communication across difference. B.&nbsp;R.&nbsp;Ambedkar, deeply influenced by Dewey, insisted democracy required not just political equality but social transformation: a mode of associated living, of conjoint communicated experience. Ambedkar was clear-eyed that without fraternity &mdash; which he reconceived through the Buddhist principle of <em>maitri</em>, loving-kindness or universal friendship &mdash; liberty and equality remain hollow, and democracy slides into majoritarianism.</p>
+    <p>Libraries are one of the few public institutions where associated living must be enacted bodily: who sits where, who touches which books, whose literacies are recognised as knowledge, who serves whom, who feels welcome to stay. They are flashpoints &mdash; sites where caste hierarchy, gender exclusion, capital&rsquo;s infrastructural power, and majoritarian control materialise and collide with the democratic aspiration of the public good. To ask what the Indian state spends on its libraries is therefore to ask what its democracy is willing to underwrite &mdash; whether the conditions for <em>maitri</em> are being financed at all.</p>
+    <p>This page collects the empirical and conceptual threads of that inquiry. The spend tracker below is its working face; a forthcoming symposium with practitioners and scholars across South Asia is another. Both proceed from the same wager: that libraries are not neutral repositories but flashpoints of democratic struggle, and that the people who manage, build, and study them have to think together about what comes next.</p>
+  </div>
+</div>
 
 <div class="block">
   <div class="label">The question</div>
