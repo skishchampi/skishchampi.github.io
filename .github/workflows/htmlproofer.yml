@@ -1,0 +1,38 @@
+name: HTML proofing
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  proof:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+
+      - name: Install htmlproofer
+        run: gem install html-proofer
+
+      - name: Run htmlproofer
+        run: |
+          htmlproofer ./_site \
+            --disable-external \
+            --check-html \
+            --check-img-http \
+            --allow-missing-href \
+            --ignore-empty-alt
+        # --disable-external avoids flaky third-party 404s; flip on later if you want external link checking

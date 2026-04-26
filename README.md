@@ -25,10 +25,10 @@ of Google Fonts).
 
 ## Deploy
 
-GitHub Pages builds from the `gh-pages` branch. After merging to `master`:
+GitHub Pages builds from `main`. Every push to `main` deploys.
 
 ```sh
-git push origin origin/master:gh-pages
+git push
 ```
 
 ## Authoring a blog post
