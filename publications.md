@@ -38,7 +38,7 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
   <span class="yr">2018</span>
   <div class="main">
     <p class="title"><a target="_blank" rel="noopener noreferrer" href="https://culanth.org/fieldsights/suddenly-statistics">Suddenly, Statistics?</a></p>
-    <p class="venue">Member Voices, Fieldsights.</p>
+    <p class="venue">Cultural Anthropology Forum on Academic Precarity.</p>
     <p class="blurb">On the dissonance between anthropology&rsquo;s general suspicion of numbers and the discipline&rsquo;s sudden turn to statistics in confronting its own precarity.</p>
   </div>
   <span class="tags">Essay</span>

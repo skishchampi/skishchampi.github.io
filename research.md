@@ -22,8 +22,8 @@ description: "An ethnography of governance after planning — regional inequalit
 </header>
 
 <figure class="research-hero">
-  <img src="/assets/img/research/landscape.jpeg" alt="A forested cliff overlooking a wide valley with a small green-roofed pavilion on the rock edge." loading="lazy">
-  <figcaption>From a field site, 2021.</figcaption>
+  <img src="/assets/img/research/form-call.jpeg" alt="A printed government register held over a lap, with a tablet propped beside it showing a digital data-collection form — paper and digital co-existing on the same desk." loading="lazy">
+  <figcaption>Old and new media of the state, on the same lap.</figcaption>
 </figure>
 
 <div class="block">
