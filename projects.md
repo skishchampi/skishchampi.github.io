@@ -37,8 +37,8 @@ description: "Ongoing intellectual and public-facing projects by Aakash Solanki,
 </article>
 
 <article class="project">
-  <h2><a href="/libraries/">India Library Spend Tracker</a></h2>
-  <p>A primer on what India spends on its public libraries, with an interactive state-by-state dashboard. Examines the paradox of library legislation without library funding, the concentration of central grants, and the slow return of libraries to parliamentary attention. Developed alongside ongoing advocacy and research with the Free Libraries Network, India and South Asia.</p>
+  <h2><a href="/libraries/">Democracies and Libraries</a></h2>
+  <p>An ongoing inquiry into libraries as sites of democratic encounter — anchored empirically in a primer on what India spends on its public libraries, with an interactive state-by-state dashboard, and conceptually in a Dewey&ndash;Ambedkar frame of democracy as <em>associated living</em>. Developed alongside research and advocacy with the Free Libraries Network, India and South Asia.</p>
 </article>
 
 <article class="project">
