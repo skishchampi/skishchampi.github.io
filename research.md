@@ -97,7 +97,7 @@ description: "An ethnography of governance after planning — regional inequalit
     <p>An ethnography of elites &mdash; bureaucratic offices, vendor meetings, consultant deliverables, internal review forums &mdash; rather than of those subjected to them. Participant-observation alongside policy consultants and the technical staff who build governance dashboards; long-form interviews with central- and state-cadre officials; document analysis across cabinet resolutions, programme guidelines, and digital portals; archival work in national and state collections. The project moves between offices and districts, between papers tabled in parliament and forms filled at the block level &mdash; but the analytic centre stays with the people writing, monitoring, and reviewing policy.</p>
     <figure class="inline-figure">
       <img src="/assets/img/diagrams/coverage.svg" alt="A grid of small square cells, each a unit-by-month observation, with varying tone. Some cells nearly paper-pale, others ochre, others dark — a pattern of uneven reporting density across time." loading="lazy">
-      <figcaption>Reporting density across units and months — illustrative. Tone stands for completeness, not value.</figcaption>
+      <figcaption>Reporting density across units and months — illustrative.</figcaption>
     </figure>
   </div>
 </div>
