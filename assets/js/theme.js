@@ -4,7 +4,6 @@
     var isDark = theme === 'dark';
     btn.setAttribute('aria-pressed', isDark ? 'true' : 'false');
     btn.setAttribute('aria-label', isDark ? 'Switch to light mode' : 'Switch to dark mode');
-    btn.textContent = isDark ? 'Light' : 'Dark';
   }
 
   document.addEventListener('DOMContentLoaded', function () {

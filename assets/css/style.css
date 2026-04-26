@@ -121,12 +121,19 @@ a { color: var(--ink); }
   background: none;
   border: 1px solid var(--rule);
   color: var(--ink-3);
-  padding: 5px 10px; border-radius: 3px;
-  font: 500 0.625rem/1 var(--sans);
-  letter-spacing: 0.1em; text-transform: uppercase;
+  padding: 4px 6px; border-radius: 3px;
+  display: inline-flex; align-items: center; justify-content: center;
   cursor: pointer;
   transition: color 0.15s var(--ease), border-color 0.15s var(--ease);
 }
+#theme-toggle svg { display: block; }
+#theme-toggle .flame {
+  fill: var(--accent-blue);
+  opacity: 0;
+  transform-origin: 12px 9px;
+  transition: opacity 0.25s var(--ease);
+}
+html[data-theme="dark"] #theme-toggle .flame { opacity: 1; }
 #theme-toggle:hover { color: var(--ink); border-color: var(--ink); }
 
 /* ── Main ─────────────────────────────────────────────────── */
