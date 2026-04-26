@@ -28,8 +28,13 @@ description: "An ethnography of governance after planning — regional inequalit
     <p>The dissertation pursues what it means to govern through this interregnum. Drawing on three years of fieldwork and archival research reaching back to the postcolonial planning institutions of the 1950s, it argues that contemporary modes of governing do not retreat from technical infrastructure when its epistemic ground gives way. Instead, they redeploy it for other purposes — to generate political rhythm, competitive community, and the spectacular performance of governance improvement.</p>
     <p>The work belongs to a tradition of ethnographic <em>studying up</em>. Where most ethnography of governance has worked from the receiving end of policy, this project pursues its subjects at the desks where policy is written, the screens where it is monitored, and the meetings where it is reviewed. The protagonists are policy elites — central-government bureaucrats, state-cadre officers in capitals, the consultants and technical staff who populate the spaces between them, and the IT vendors and philanthropic actors who circulate among them. The aim is to understand the technopopulist governing form not from below but from inside the apparatus that produces it.</p>
     <p>The state is not the only actor in this story. The work also tracks the cast that has come to populate the conditions of national governance: transnational funding agencies, philanthrocapitalist foundations, multinational technology corporations, and financial experiments such as development impact bonds — whose tools, money, instruments, and expertise reshape what the state is able to do, and what it is asked to do, by those it governs.</p>
-    <figure class="inline-figure">
-      <img src="/assets/img/diagrams/dashboard.svg" alt="A schematic dashboard showing a score, a list of ranked indicators, and a twelve-month upward-trending line. Labelled illustrative." loading="lazy">
+    <figure class="diptych diptych--svg">
+      <div>
+        <img src="/assets/img/diagrams/dashboard.svg" alt="A schematic dashboard showing a score, a list of ranked indicators, and a twelve-month upward-trending line. Labelled illustrative.">
+      </div>
+      <div>
+        <img src="/assets/img/diagrams/coverage.svg" alt="A grid of small square cells, each a unit-by-month observation, with varying tone. Some cells nearly paper-pale, others ochre, others dark — a pattern of uneven reporting density across time.">
+      </div>
     </figure>
   </div>
 </div>
@@ -93,9 +98,6 @@ description: "An ethnography of governance after planning — regional inequalit
   <div class="label">Method</div>
   <div class="body">
     <p>An ethnography of elites &mdash; bureaucratic offices, vendor meetings, consultant deliverables, internal review forums &mdash; rather than of those subjected to them. Participant-observation alongside policy consultants and the technical staff who build governance dashboards; long-form interviews with central- and state-cadre officials; document analysis across cabinet resolutions, programme guidelines, and digital portals; archival work in national and state collections. The project moves between offices and districts, between papers tabled in parliament and forms filled at the block level &mdash; but the analytic centre stays with the people writing, monitoring, and reviewing policy.</p>
-    <figure class="inline-figure">
-      <img src="/assets/img/diagrams/coverage.svg" alt="A grid of small square cells, each a unit-by-month observation, with varying tone. Some cells nearly paper-pale, others ochre, others dark — a pattern of uneven reporting density across time." loading="lazy">
-    </figure>
   </div>
 </div>
 
