@@ -290,7 +290,7 @@ main pre code { background: none; padding: 0; }
 }
 .lede .portrait {
   width: 100%;
-  flex: 1;
+  flex: 0 0 auto;
   background: var(--paper-3);
   overflow: hidden;
   border-radius: 2px;
