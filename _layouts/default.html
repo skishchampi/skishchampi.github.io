@@ -80,7 +80,8 @@
     </script>
     {% endif %}
 
-    <link rel="icon" href="{{ '/assets/img/bodhi.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="icon" href="{{ '/assets/img/bodhi.svg' | relative_url }}" type="image/svg+xml" media="(prefers-color-scheme: light)">
+    <link rel="icon" href="{{ '/assets/img/bodhi-dark.svg' | relative_url }}" type="image/svg+xml" media="(prefers-color-scheme: dark)">
     <link rel="preconnect" href="https://fonts.bunny.net" crossorigin>
     <link rel="stylesheet" href="https://fonts.bunny.net/css?family=newsreader:400,400i,500,500i,600|inter:400,500,600|jetbrains-mono:400,500&display=swap">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
