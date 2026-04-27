@@ -52,7 +52,7 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
     <p class="title"><a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1145/3772318.3791530">&ldquo;Studying Up&rdquo; through Digital Ethnography: The Case of Conservative Caste Enclaves</a></p>
     <p class="venue">Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems. ACM.</p>
     <p class="blurb">Methodological reflections on digitally ethnographing online communities organised around caste, and the ethics of studying upward.</p>
-    <p class="note">With <a target="_blank" rel="noopener noreferrer" href="https://ischool.utoronto.ca/student-profile/ashique-ali-thuppilikkat/">Ashique Ali Thuppilikkat</a> and Priyank Chandra.</p>
+    <p class="note">With <a target="_blank" rel="noopener noreferrer" href="https://ischool.utoronto.ca/student-profile/ashique-ali-thuppilikkat/">Ashique Ali Thuppilikkat</a> and <a target="_blank" rel="noopener noreferrer" href="https://ischool.utoronto.ca/faculty-profile/priyank-chandra/">Priyank Chandra</a> (both at <a target="_blank" rel="noopener noreferrer" href="https://www.streetlab.tech/">Street Lab</a>).</p>
   </div>
   <span class="tags">CHI</span>
 </div>
