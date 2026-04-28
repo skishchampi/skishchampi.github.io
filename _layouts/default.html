@@ -95,7 +95,6 @@
         </p>
         <nav class="mast-nav" aria-label="Primary">
           {%- assign here = page.url -%}
-          <a href="{{ '/' | relative_url }}"{% if here == '/' %} class="active" aria-current="page"{% endif %}>About</a>
           <a href="{{ '/work/' | relative_url }}"{% if here contains '/work' or here contains '/research' or here contains '/publications' or here contains '/teaching' or here contains '/talks' or here contains '/projects' or here contains '/blog' %} class="active" aria-current="page"{% endif %}>Work</a>
           <a href="{{ '/contact/' | relative_url }}"{% if here contains '/contact' %} class="active" aria-current="page"{% endif %}>Contact</a>
           <button id="theme-toggle" type="button" aria-pressed="false" aria-label="Switch to dark mode">
