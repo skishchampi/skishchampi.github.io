@@ -12,8 +12,3 @@ plugins:
 
 feed:
   path: feed.xml
-
-collections:
-  tags:
-    output: true
-    permalink: tags/:path/

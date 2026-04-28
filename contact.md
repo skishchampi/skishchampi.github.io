@@ -19,7 +19,7 @@ description: "Get in touch with Aakash Solanki — email, ORCID, Google Scholar.
 </header>
 
 <div class="contact-links">
-  <div class="row"><span class="k">Email</span> mail at aakashsolanki dot net</div>
+  <div class="row"><span class="k">Email</span> <a href="mailto:mail@aakashsolanki.net">mail@aakashsolanki.net</a></div>
   <div class="row"><span class="k">ORCID</span> <a href="https://orcid.org/0000-0002-4879-6998" rel="noopener">0000-0002-4879-6998</a></div>
   <div class="row"><span class="k">Scholar</span> <a href="https://scholar.google.com/citations?user=Y0LLLUMAAAAJ" rel="noopener">Google Scholar</a></div>
 </div>
