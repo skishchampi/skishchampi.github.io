@@ -853,6 +853,7 @@ footer.site a:hover { color: var(--accent); }
 footer.site .ornament {
   width: 28px;
   height: 28px;
+  color: var(--accent-blue);
   opacity: 0.85;
   flex-shrink: 0;
   display: inline-flex;
