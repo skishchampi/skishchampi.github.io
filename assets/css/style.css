@@ -106,14 +106,14 @@ a { color: var(--ink); }
 }
 .mast-nav a {
   color: var(--ink-2); text-decoration: none;
-  padding: 12px 4px; position: relative;
+  padding: 16px 8px; position: relative;
   transition: color 0.15s var(--ease);
 }
 .mast-nav a:hover { color: var(--ink); }
 .mast-nav a.active { color: var(--ink); }
 .mast-nav a.active::after {
   content: ''; position: absolute;
-  left: 4px; right: 4px; bottom: -10px;
+  left: 8px; right: 8px; bottom: -14px;
   height: 2px; background: var(--accent-blue);
 }
 
@@ -121,7 +121,7 @@ a { color: var(--ink); }
   background: none;
   border: 1px solid var(--rule);
   color: var(--accent);
-  padding: 4px; border-radius: 3px;
+  padding: 10px; border-radius: 3px;
   display: inline-flex; align-items: center; justify-content: center;
   align-self: center;
   line-height: 0; font-size: 0;
