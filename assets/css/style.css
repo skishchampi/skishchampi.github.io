@@ -770,8 +770,8 @@ main pre code { background: none; padding: 0; }
 /* ── Stupa coda (page closer) ─────────────────────────────── */
 .stupa-coda {
   display: block;
-  width: 44px;
-  height: 48px;
+  width: 60px;
+  height: 66px;
   margin: 80px auto 24px;
   background-color: var(--accent-blue);
   -webkit-mask: url('/assets/img/stupa.svg') no-repeat center / contain;
@@ -851,9 +851,8 @@ footer.site {
 footer.site a { color: var(--ink-3); text-decoration: none; }
 footer.site a:hover { color: var(--accent); }
 footer.site .ornament {
-  width: 18px;
-  height: 18px;
-  color: var(--accent-blue);
+  width: 28px;
+  height: 28px;
   opacity: 0.85;
   flex-shrink: 0;
   display: inline-flex;
