@@ -91,7 +91,12 @@ a { color: var(--ink); }
     align-items: flex-start;
     gap: 12px;
   }
-  .mast-nav { margin-left: 0; width: 100%; }
+  .mast-nav {
+    margin-left: 0;
+    width: 100%;
+    justify-content: flex-end;
+  }
+  #theme-toggle { padding: 6px; }
 }
 .mast-title {
   font: 500 italic 1.375rem/1 var(--serif);
