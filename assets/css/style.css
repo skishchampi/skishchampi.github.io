@@ -13,7 +13,7 @@
 
   --serif: "Newsreader", Georgia, serif;
   --sans:  "Inter", system-ui, -apple-system, sans-serif;
-  --mono:  "JetBrains Mono", ui-monospace, Menlo, monospace;
+  --mono:  "Special Elite", "Courier Prime", ui-monospace, Menlo, monospace;
 
   --fs-display: clamp(2.75rem, 6.5vw, 5.25rem);
   --fs-title:   clamp(2rem, 4.5vw, 3.25rem);
