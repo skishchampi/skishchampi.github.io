@@ -22,14 +22,14 @@ description: "Undergraduate courses designed and taught as instructor of record 
 </header>
 
 <div class="block">
-  <div class="label">Approach</div>
+  <h2 class="label">Approach</h2>
   <div class="body">
     <p>I came up through a science and engineering education in India — a didactic culture in which knowledge moves one way, from text to student, through memorisation and the regurgitation of accepted facts. Graduate training in the humanities and social sciences in the United States and Canada introduced me to a more Socratic mode, in which texts are not containers of information but live documents that get activated differently depending on the context in which they are read. I teach at the seam between those two cultures of learning, and try to make the seam visible to students. The aim is to move them away from a model of &ldquo;downloading facts&rdquo; from a teacher-as-authority toward an understanding of knowledge in the humanities and social sciences as something produced through critical engagement, juxtaposition, and re-reading.</p>
   </div>
 </div>
 
 <div class="block">
-  <div class="label">Practice</div>
+  <h2 class="label">Practice</h2>
   <div class="body">
     <p>The week-to-week mechanics follow from this. Short writing prompts push students past summary into critically assessing, contrasting, and juxtaposing claims within and across texts. Collaborative annotation in <a target="_blank" rel="noopener noreferrer" href="https://web.hypothes.is/">hypothes.is</a> makes reading a shared, visible practice rather than a private one — and lets me see methodologically where students need more support. Activity-based exercises put the object of critique in students&rsquo; hands before the secondary literature does: reading an actual RCT paper alongside the development-studies critique of RCTs; working through &mdash; or building &mdash; a small dashboard in class before turning to the politics of dashboards as a media object. Large language models enter the syllabus as objects of critical reading: students compare a machinic &ldquo;reading&rdquo; of a text against an interpretive one and learn what each kind of reading can and cannot do. Across a term, the arc is descriptive to interpretive.</p>
   </div>

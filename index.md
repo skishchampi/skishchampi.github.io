@@ -15,7 +15,7 @@ layout: default
 </section>
 
 <div class="block">
-  <div class="label">I. Biography</div>
+  <h2 class="label">I. Biography</h2>
   <div class="body">
     <p>Aakash Solanki is a PhD candidate in <a target="_blank" rel="noopener noreferrer" href="https://www.anthropology.utoronto.ca/people/directories/graduate-students/aakash-solanki">Anthropology</a> and <a target="_blank" rel="noopener noreferrer" href="https://munkschool.utoronto.ca/ai/centre-south-asian-studies">South Asian Studies</a> at the University of Toronto. His research sits at the intersection of the anthropology of the state, science and technology studies, and the historical study of statistics and computing. He has worked on the collection, classification, and management of information in colonial and postcolonial India. In addition to prior training in computer science, he has worked in government agencies in the US and India on data science projects in education, health, and skill development at municipal, state, and federal levels.</p>
     <p>His dissertation, <em>Governing Indeterminately: An Ethnography of Technopopulism from India</em>, draws on long-term fieldwork in Indian state and central bureaucracies to examine how digital infrastructures mediate development, statecraft, and fiscal federal relations. The research is funded by the International Development Research Centre (IDRC) and the Wenner-Gren Foundation for Anthropological Research.</p>
@@ -24,7 +24,7 @@ layout: default
 </div>
 
 <div class="block">
-  <div class="label">II. Research interests</div>
+  <h2 class="label">II. Research interests</h2>
   <div class="body">
     <ul class="bullets">
       <li><span class="num">01</span><span>Colonial and postcolonial histories of statistics and statecraft</span></li>
@@ -37,7 +37,7 @@ layout: default
 </div>
 
 <div class="block">
-  <div class="label">III. Recent news</div>
+  <h2 class="label">III. Recent news</h2>
   <div class="body">
     <ul class="bullets news">
       <li><span class="num">Apr 2026</span><span>Presentation at the Graduate Workshop, University of Toronto: &ldquo;Constitutive Incompetence: Caste, Expertise, and the Indian State.&rdquo;</span></li>

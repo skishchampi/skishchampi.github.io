@@ -20,7 +20,7 @@ description: "Concept note for the 2018-2019 Development Seminar series at the U
 </header>
 
 <div class="block">
-  <div class="label">Concept note · 2018–2019</div>
+  <h2 class="label">Concept note · 2018–2019</h2>
   <div class="body">
     <p>Guest speakers bring innovative research investigating migration, infrastructure, livelihoods, gender, and politics. In the 2017–2018 academic year, we hosted development studies scholars working at the intersection of gender and foreign aid, with emphasis on aid-giving institutions in the Global North — CIDA in Canada, USAID in the US.</p>
     <p>The 2018–2019 series takes off from where we left in March: the politics of numbers behind development. Numbers — or to use a more current term, data (usually connoting numerical data) — are ubiquitous. Business organisations have talked for years about &ldquo;data as the new oil&rdquo;; governments, transnational aid agencies, Bretton Woods organisations, and others have turned to carefully exploring &ldquo;data&rdquo; as the new twenty-first century asset. The focus on numerical data — Big Data, machine learning, artificial intelligence — as the bedrock of informed policy and business decision-making is instrumental to understanding emerging changes in development practice.</p>

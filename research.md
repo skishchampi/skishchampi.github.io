@@ -22,7 +22,7 @@ description: "An ethnography of governance after planning — regional inequalit
 </header>
 
 <div class="block">
-  <div class="label">The question</div>
+  <h2 class="label">The question</h2>
   <div class="body">
     <p>For most of the twentieth century, the developmental authority of postcolonial states rested on a particular epistemic claim — that the state could know, through statistics, surveys, and resource assessments, the social and economic processes it sought to govern. By the early twenty-first century, that claim no longer holds steady. National statistical infrastructures have lost authority and coverage; new digital infrastructures have not yet consolidated reliability.</p>
     <p>The dissertation pursues what it means to govern through this interregnum. Drawing on three years of fieldwork and archival research reaching back to the postcolonial planning institutions of the 1950s, it argues that contemporary modes of governing do not retreat from technical infrastructure when its epistemic ground gives way. Instead, they redeploy it for other purposes — to generate political rhythm, competitive community, and the spectacular performance of governance improvement.</p>
@@ -95,7 +95,7 @@ description: "An ethnography of governance after planning — regional inequalit
 </figure>
 
 <div class="block">
-  <div class="label">Method</div>
+  <h2 class="label">Method</h2>
   <div class="body">
     <p>An ethnography of elites &mdash; bureaucratic offices, vendor meetings, consultant deliverables, internal review forums &mdash; rather than of those subjected to them. Participant-observation alongside policy consultants and the technical staff who build governance dashboards; long-form interviews with central- and state-cadre officials; document analysis across cabinet resolutions, programme guidelines, and digital portals; archival work in national and state collections. The project moves between offices and districts, between papers tabled in parliament and forms filled at the block level &mdash; but the analytic centre stays with the people writing, monitoring, and reviewing policy.</p>
   </div>
@@ -111,7 +111,7 @@ description: "An ethnography of governance after planning — regional inequalit
 </figure>
 
 <div class="block">
-  <div class="label">Earlier work</div>
+  <h2 class="label">Earlier work</h2>
   <div class="body">
     <p>Two strands precede the dissertation. A Master&rsquo;s thesis at the <a target="_blank" rel="noopener noreferrer" href="https://www.uchicago.edu">University of Chicago</a> (2014, advised by <a target="_blank" rel="noopener noreferrer" href="https://anthropology.uchicago.edu/people/john-d-kelly">John D. Kelly</a>) on the Criminal Tribes Act and police practice in British India, 1871&ndash;1927, argued against scholarship that read the Act as a uniform homogenising apparatus, drawing on police manuals to show classification at the level of practice as variable, multidimensional, and uneven. The thesis pre-empts contemporary debates on AI-driven facial recognition, carcerality, and predictive policing &mdash; tracing how nineteenth-century apparatuses already operated through racialised, hereditary classification of populations marked for surveillance.</p>
     <p>A stint on the City of Chicago&rsquo;s Smart Cities team (2014&ndash;15) contributed to a <a target="_blank" rel="noopener noreferrer" href="https://chicago.github.io/food-inspections-evaluation/">predictive model for food inspections</a> used by the city&rsquo;s Department of Public Health. The dissertation inherits both threads &mdash; the suspicion of homogenising classifications and a working knowledge of what predictive systems actually do inside a state apparatus.</p>
