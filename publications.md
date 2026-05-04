@@ -131,3 +131,108 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
 <div class="stupa-coda" role="presentation"></div>
 
 <p class="back"><a href="/work/">← Back to Work</a></p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "OpinionNewsArticle",
+      "@id": "https://aakashsolanki.net/publications/#solanki-2025-express",
+      "headline": "India's start-ups are not lacking innovation but imagination",
+      "author": [
+        {"@type": "Person", "name": "Aakash Solanki", "sameAs": "https://orcid.org/0000-0002-4879-6998"},
+        {"@type": "Person", "name": "Sandeep Mertia"}
+      ],
+      "datePublished": "2025",
+      "publisher": {"@type": "NewsMediaOrganization", "name": "The Indian Express"},
+      "url": "https://indianexpress.com/article/opinion/columns/india-start-ups-not-lacking-innovation-imagination-9974148/"
+    },
+    {
+      "@type": "Article",
+      "@id": "https://aakashsolanki.net/publications/#solanki-2018-culanth",
+      "headline": "Suddenly, Statistics?",
+      "author": {"@type": "Person", "name": "Aakash Solanki", "sameAs": "https://orcid.org/0000-0002-4879-6998"},
+      "datePublished": "2018",
+      "isPartOf": {"@type": "Periodical", "name": "Cultural Anthropology Forum on Academic Precarity"},
+      "url": "https://culanth.org/fieldsights/suddenly-statistics"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://aakashsolanki.net/publications/#solanki-2026-chi",
+      "headline": "\"Studying Up\" through Digital Ethnography: The Case of Conservative Caste Enclaves",
+      "author": [
+        {"@type": "Person", "name": "Aakash Solanki", "sameAs": "https://orcid.org/0000-0002-4879-6998"},
+        {"@type": "Person", "name": "Ashique Ali Thuppilikkat"},
+        {"@type": "Person", "name": "Priyank Chandra"}
+      ],
+      "datePublished": "2026",
+      "isPartOf": {"@type": "Periodical", "name": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems"},
+      "publisher": {"@type": "Organization", "name": "ACM"},
+      "identifier": "doi:10.1145/3772318.3791530",
+      "sameAs": "https://doi.org/10.1145/3772318.3791530",
+      "url": "https://doi.org/10.1145/3772318.3791530"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://aakashsolanki.net/publications/#solanki-cscw-everyday",
+      "headline": "Everyday Data Science: Notes from the Public Sector in India",
+      "author": {"@type": "Person", "name": "Aakash Solanki", "sameAs": "https://orcid.org/0000-0002-4879-6998"},
+      "isPartOf": {"@type": "Periodical", "name": "ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)"},
+      "publisher": {"@type": "Organization", "name": "ACM"},
+      "creativeWorkStatus": "Under review"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://aakashsolanki.net/publications/#solanki-2016-epic",
+      "headline": "Going Ethno in the Indian Bureaucracy",
+      "author": [
+        {"@type": "Person", "name": "Aakash Solanki", "sameAs": "https://orcid.org/0000-0002-4879-6998"},
+        {"@type": "Person", "name": "Sarvesh Tewari"}
+      ],
+      "datePublished": "2016",
+      "isPartOf": {"@type": "Periodical", "name": "Ethnographic Praxis in Industry Conference Proceedings", "volumeNumber": "2016", "issueNumber": "1"},
+      "pageStart": "501",
+      "pageEnd": "521",
+      "identifier": "doi:10.1111/1559-8918.2016.01107",
+      "sameAs": "https://doi.org/10.1111/1559-8918.2016.01107",
+      "url": "https://doi.org/10.1111/1559-8918.2016.01107"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://aakashsolanki.net/publications/#solanki-2019-south-asia",
+      "headline": "Management of Performance and Performance of Management: Getting to Work on Time in the Indian Bureaucracy",
+      "author": {"@type": "Person", "name": "Aakash Solanki", "sameAs": "https://orcid.org/0000-0002-4879-6998"},
+      "datePublished": "2019",
+      "isPartOf": {"@type": "Periodical", "name": "South Asia: Journal of South Asian Studies", "volumeNumber": "42", "issueNumber": "3"},
+      "pageStart": "588",
+      "pageEnd": "605",
+      "identifier": "doi:10.1080/00856401.2019.1603262",
+      "sameAs": "https://doi.org/10.1080/00856401.2019.1603262",
+      "url": "https://doi.org/10.1080/00856401.2019.1603262"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://aakashsolanki.net/publications/#solanki-forthcoming-women-policy",
+      "headline": "\"Is it really possible?\" Women public policy professionals and the promises and perils of a \"guerrilla\" data science",
+      "author": {"@type": "Person", "name": "Aakash Solanki", "sameAs": "https://orcid.org/0000-0002-4879-6998"},
+      "creativeWorkStatus": "Forthcoming"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://aakashsolanki.net/publications/#solanki-2020-untidy-data",
+      "headline": "Untidy Data: Spreadsheet Practices in the Indian Bureaucracy",
+      "author": {"@type": "Person", "name": "Aakash Solanki", "sameAs": "https://orcid.org/0000-0002-4879-6998"},
+      "datePublished": "2020",
+      "isPartOf": {
+        "@type": "Book",
+        "name": "Lives of Data: Essays on Computational Cultures from India",
+        "editor": {"@type": "Person", "name": "Sandeep Mertia"},
+        "bookSeries": "Theory on Demand",
+        "publisher": {"@type": "Organization", "name": "Institute of Network Cultures", "location": "Amsterdam"}
+      },
+      "url": "https://networkcultures.org/blog/publication/lives-of-data-essays-on-computational-cultures-from-india/"
+    }
+  ]
+}
+</script>
