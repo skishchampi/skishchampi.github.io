@@ -21,11 +21,13 @@ of Google Fonts).
 - `_posts/` — blog posts (filename: `YYYY-MM-DD-slug.md`)
 - `_drafts/` — unpublished drafts
 - `_layouts/` — page templates
-- `_plugins/tags.rb` — generates tag pages
+- `_plugins/tags.rb` — generates tag pages (⚠️ inactive on production: GitHub Pages legacy build mode does not run user plugins. To activate, migrate the build to GitHub Actions. Layout, generator, and `tag.html` are kept in place as scaffolding for that migration.)
 
 ## Deploy
 
-GitHub Pages builds from `main`. Every push to `main` deploys.
+GitHub Pages builds from `main` in legacy Jekyll mode. Every push to `main` deploys.
+
+Plugins active on production are limited to the GitHub Pages whitelist: `jekyll-feed`, `jekyll-seo-tag`, `jekyll-sitemap`. To use any plugin outside that list (e.g. `jekyll-last-modified-at`, the in-repo `_plugins/tags.rb`), the site needs to migrate from "Deploy from a branch" to a custom GitHub Actions workflow.
 
 ```sh
 git push
