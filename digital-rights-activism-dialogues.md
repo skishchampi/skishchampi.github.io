@@ -9,13 +9,13 @@ description: "A King's College London online dialogue series on digital rights a
   <div>
     <div class="kicker">Project</div>
     <h1>Digital Rights Activism Dialogues.</h1>
-    <p class="standfirst">An online dialogue series at King&rsquo;s College London, co-curated with Dr. <a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/people/tarangini-sriraman">Tarangini Sriraman</a>, pairing activists and activism-adjacent academics across regional geographies of the Global South.</p>
+    <p class="standfirst">An online dialogue series at King&rsquo;s College London, co-curated with Dr. <a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/people/tarangini-sriraman">Tarangini Sriraman</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.kcl.ac.uk/people/tarangini-sriraman" aria-label="Wayback Machine archived copy">↗</a></sup>, pairing activists and activism-adjacent academics across regional geographies of the Global South.</p>
   </div>
   <div class="meta">
     <dl>
       <dt>Venue</dt><dd>King&rsquo;s College London</dd>
-      <dt>Co-curator</dt><dd><a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/people/tarangini-sriraman">Tarangini Sriraman</a></dd>
-      <dt>Series page</dt><dd><a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/events/series/digital-rights-activism-dialogues">KCL events &rarr;</a></dd>
+      <dt>Co-curator</dt><dd><a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/people/tarangini-sriraman">Tarangini Sriraman</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.kcl.ac.uk/people/tarangini-sriraman" aria-label="Wayback Machine archived copy">↗</a></sup></dd>
+      <dt>Series page</dt><dd><a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/events/series/digital-rights-activism-dialogues">KCL events &rarr;</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.kcl.ac.uk/events/series/digital-rights-activism-dialogues" aria-label="Wayback Machine archived copy">↗</a></sup></dd>
     </dl>
   </div>
 </header>
@@ -48,8 +48,8 @@ description: "A King's College London online dialogue series on digital rights a
 <div class="block">
   <h2 class="label">Hosts and partners</h2>
   <div class="body">
-    <p>Hosted by the <a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/history">History Department at King&rsquo;s College London</a> in collaboration with the Labor Tech Network, the King&rsquo;s India Institute, the Africa Leadership Centre, the Brazil Institute, and the Menzies Australia Institute.</p>
-    <p>Full series and upcoming dialogues: <a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/events/series/digital-rights-activism-dialogues">kcl.ac.uk/events/series/digital-rights-activism-dialogues</a>.</p>
+    <p>Hosted by the <a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/history">History Department at King&rsquo;s College London</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.kcl.ac.uk/history" aria-label="Wayback Machine archived copy">↗</a></sup> in collaboration with the Labor Tech Network, the King&rsquo;s India Institute, the Africa Leadership Centre, the Brazil Institute, and the Menzies Australia Institute.</p>
+    <p>Full series and upcoming dialogues: <a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/events/series/digital-rights-activism-dialogues">kcl.ac.uk/events/series/digital-rights-activism-dialogues</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.kcl.ac.uk/events/series/digital-rights-activism-dialogues" aria-label="Wayback Machine archived copy">↗</a></sup>.</p>
   </div>
 </div>
 

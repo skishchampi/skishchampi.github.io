@@ -32,7 +32,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
 <div class="talk">
   <span class="dt">Oct 2025</span>
   <span class="ttl">&ldquo;Caste, Libraries, and Public Finance&rdquo;</span>
-  <span class="at"><a target="_blank" rel="noopener noreferrer" href="https://www.ifla.org/events/caste-discrimination-an-introduction-for-librarians/">IFLA webinar</a></span>
+  <span class="at"><a target="_blank" rel="noopener noreferrer" href="https://www.ifla.org/events/caste-discrimination-an-introduction-for-librarians/">IFLA webinar</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.ifla.org/events/caste-discrimination-an-introduction-for-librarians/" aria-label="Wayback Machine archived copy">↗</a></sup></span>
 </div>
 
 <div class="talk">
@@ -44,7 +44,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
 <div class="talk">
   <span class="dt">Apr 2025</span>
   <span class="ttl">&ldquo;Rethinking the Emergence of the Poverty Line: The 1961 Census and Technopolitics of Governmentality in India&rdquo;</span>
-  <span class="at"><a target="_blank" rel="noopener noreferrer" href="https://munkschool.utoronto.ca/ai/centre-south-asian-studies">Centre for South Asian Studies, University of Toronto</a></span>
+  <span class="at"><a target="_blank" rel="noopener noreferrer" href="https://munkschool.utoronto.ca/ai/centre-south-asian-studies">Centre for South Asian Studies, University of Toronto</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://munkschool.utoronto.ca/ai/centre-south-asian-studies" aria-label="Wayback Machine archived copy">↗</a></sup></span>
 </div>
 
 <h2 class="sect"><span class="n">2024</span>Earlier</h2>
@@ -58,7 +58,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
 <div class="talk">
   <span class="dt">Apr 2024</span>
   <span class="ttl">&ldquo;&lsquo;Can We Really Do It?&rsquo; The Promise of a Guerrilla Data Practice&rdquo;</span>
-  <span class="at"><a target="_blank" rel="noopener noreferrer" href="https://wolfhumanities.upenn.edu/events/cultures-datafication-and-across-south-asia">Cultures of Data Workshop, Penn</a></span>
+  <span class="at"><a target="_blank" rel="noopener noreferrer" href="https://wolfhumanities.upenn.edu/events/cultures-datafication-and-across-south-asia">Cultures of Data Workshop, Penn</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://wolfhumanities.upenn.edu/events/cultures-datafication-and-across-south-asia" aria-label="Wayback Machine archived copy">↗</a></sup></span>
 </div>
 
 <div class="talk">
