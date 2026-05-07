@@ -489,6 +489,34 @@ main pre code { background: none; padding: 0; }
   scroll-margin-top: 80px;
 }
 .pub:last-of-type { border-bottom: 1px solid var(--rule); }
+.archived-copies {
+  margin-top: 56px;
+  padding-top: 24px;
+  border-top: 1px solid var(--rule);
+  max-width: 65ch;
+}
+.archived-copies h2 { margin-top: 0; }
+.archive-note {
+  font: 400 italic 0.95rem/1.5 var(--serif);
+  color: var(--ink-2);
+  margin-bottom: 16px;
+}
+.archive-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font: 400 0.95rem/1.5 var(--serif);
+}
+.archive-list li {
+  margin-bottom: 6px;
+  padding-left: 0;
+}
+.archive-list a {
+  color: var(--ink-2);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--ink-3);
+}
+.archive-list a:hover { color: var(--accent-blue); border-bottom-color: var(--accent-blue); }
 .pub-anchor {
   position: absolute;
   left: -1.4em;

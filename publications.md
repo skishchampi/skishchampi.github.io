@@ -128,6 +128,24 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
   <a class="pub-anchor" href="#solanki-2020-untidy-data" aria-label="Permalink to this publication">#</a>
 </div>
 
+<section class="archived-copies" aria-label="Archived copies">
+  <h2 class="sect"><span class="n">§</span>Archived copies</h2>
+  <p class="archive-note">Wayback Machine snapshots for the external links above, in case the originals 404 in the future. Click ↗ to load the latest snapshot.</p>
+  <ul class="archive-list">
+    <li><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://indianexpress.com/article/opinion/columns/india-start-ups-not-lacking-innovation-imagination-9974148/">India&rsquo;s start-ups are not lacking innovation but imagination ↗</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.stevens.edu/profile/smertia">Sandeep Mertia (Stevens) ↗</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://culanth.org/fieldsights/suddenly-statistics">Suddenly, Statistics? ↗</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://doi.org/10.1145/3772318.3791530">&ldquo;Studying Up&rdquo; through Digital Ethnography (CHI 2026) ↗</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://ischool.utoronto.ca/student-profile/ashique-ali-thuppilikkat/">Ashique Ali Thuppilikkat (UofT) ↗</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://ischool.utoronto.ca/faculty-profile/priyank-chandra/">Priyank Chandra (UofT) ↗</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.streetlab.tech/">Street Lab ↗</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://doi.org/10.1111/1559-8918.2016.01107">Going Ethno in the Indian Bureaucracy ↗</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://doi.org/10.1080/00856401.2019.1603262">Management of Performance and Performance of Management ↗</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://networkcultures.org/blog/publication/lives-of-data-essays-on-computational-cultures-from-india/">Untidy Data: Spreadsheet Practices in the Indian Bureaucracy ↗</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://player.fm/series/new-books-in-technology-2421470/sandeep-mertia-lives-of-data-essays-on-computational-cultures-from-india-institute-of-networked-cultures-2020">Podcast discussion (player.fm) ↗</a></li>
+  </ul>
+</section>
+
 <div class="stupa-coda" role="presentation"></div>
 
 <p class="back"><a href="/work/">← Back to Work</a></p>
