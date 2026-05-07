@@ -489,6 +489,17 @@ main pre code { background: none; padding: 0; }
   scroll-margin-top: 80px;
 }
 .pub:last-of-type { border-bottom: 1px solid var(--rule); }
+.archive-link {
+  font-size: 0.7em;
+  margin-left: 0.15em;
+  vertical-align: super;
+  line-height: 0;
+  opacity: 0.45;
+  transition: opacity 0.15s var(--ease);
+}
+.archive-link a { color: var(--ink-3); text-decoration: none; border-bottom: none; }
+.archive-link:hover { opacity: 1; }
+.archive-link a:hover { color: var(--accent-blue); }
 .pub-anchor {
   position: absolute;
   left: -1.4em;
