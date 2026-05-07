@@ -1,16 +1,15 @@
-name: HTML proofing
+name: External link check
 
 on:
-  push:
-    branches: [main]
-  pull_request:
+  schedule:
+    - cron: '0 12 * * 1'
   workflow_dispatch:
 
 permissions:
   contents: read
 
 jobs:
-  proof:
+  external:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -29,8 +28,10 @@ jobs:
       - name: Install htmlproofer
         run: gem install html-proofer
 
-      - name: Run htmlproofer
-        run: htmlproofer ./_site --disable-external --ignore-empty-alt --ignore-urls "/^\/freelibraries4all/"
-        # /freelibraries4all/ is served from a separate repo at the same domain — not built here
-        # --disable-external avoids flaky third-party 404s on every push/PR; the weekly external-links
-        # workflow handles link rot detection separately.
+      - name: Run htmlproofer with external link checks
+        run: |
+          htmlproofer ./_site \
+            --ignore-empty-alt \
+            --ignore-urls "/^\/freelibraries4all/" \
+            --hydra '{"max_concurrency": 5}' \
+            --typhoeus '{"timeout": 30, "connecttimeout": 15, "followlocation": true}'
