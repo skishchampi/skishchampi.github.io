@@ -29,9 +29,18 @@ jobs:
         run: gem install html-proofer
 
       - name: Run htmlproofer with external link checks
+        # Noise suppression rationale:
+        # - aakashsolanki.net: self-references via canonical/og:url tags;
+        #   GitHub runner gets Cloudflare-blocked. Internal links are already
+        #   covered by the per-PR htmlproofer job.
+        # - linkedin.com / doi.org / player.fm / ifla.org: known to return 403
+        #   or 999 to anything that smells like a bot. Links work in browsers.
+        # - status code 999: LinkedIn's deliberate anti-bot response.
+        # - status code 429: rate-limit; not link rot.
         run: |
           htmlproofer ./_site \
             --ignore-empty-alt \
-            --ignore-urls "/^\/freelibraries4all/" \
+            --ignore-urls "/^\/freelibraries4all/,/aakashsolanki\.net/,/linkedin\.com/,/doi\.org/,/player\.fm/,/ifla\.org/" \
+            --ignore-status-codes "999,429" \
             --hydra '{"max_concurrency": 5}' \
             --typhoeus '{"timeout": 30, "connecttimeout": 15, "followlocation": true}'
