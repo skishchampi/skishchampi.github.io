@@ -33,6 +33,12 @@ Plugins active on production are limited to the GitHub Pages whitelist: `jekyll-
 git push
 ```
 
+The Bunny Fonts stylesheet is loaded with a Subresource Integrity hash (`integrity=`) in `_layouts/default.html`. If Bunny ever changes the CSS payload (e.g. adds a font format), the browser will block it and fonts will fall back to system defaults. Recompute with:
+
+```sh
+curl -s "https://fonts.bunny.net/css?family=newsreader:400,400i,500,500i,600|inter:400,500,600|jetbrains-mono:400,500&display=swap" | openssl dgst -sha384 -binary | openssl base64 -A
+```
+
 ## Authoring a blog post
 
 1. Copy `_drafts/post-template.md` to `_posts/YYYY-MM-DD-slug.md`.
