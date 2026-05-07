@@ -30,11 +30,15 @@ jobs:
 
       - name: Run htmlproofer with external link checks
         # Noise suppression rationale:
-        # - aakashsolanki.net: self-references via canonical/og:url tags;
-        #   GitHub runner gets Cloudflare-blocked. Internal links are already
-        #   covered by the per-PR htmlproofer job.
-        # - linkedin.com / doi.org / player.fm / ifla.org: known to return 403
-        #   or 999 to anything that smells like a bot. Links work in browsers.
+        # - Browser-like User-Agent + Accept headers: many sites (Google
+        #   Scholar, .in domains via Cloudflare, etc.) reject the default
+        #   Typhoeus UA at the connection or 403 layer. A real-looking UA
+        #   clears most bot-block false positives without per-domain rules.
+        # - aakashsolanki.net: self-references via canonical/og:url tags
+        #   that the GH runner can't reach reliably. Internal links are
+        #   already covered by the per-PR htmlproofer job.
+        # - linkedin.com / doi.org / player.fm / ifla.org: persistent
+        #   bot-blockers even with a browser UA.
         # - status code 999: LinkedIn's deliberate anti-bot response.
         # - status code 429: rate-limit; not link rot.
         run: |
@@ -43,4 +47,4 @@ jobs:
             --ignore-urls "/^\/freelibraries4all/,/aakashsolanki\.net/,/linkedin\.com/,/doi\.org/,/player\.fm/,/ifla\.org/" \
             --ignore-status-codes "999,429" \
             --hydra '{"max_concurrency": 5}' \
-            --typhoeus '{"timeout": 30, "connecttimeout": 15, "followlocation": true}'
+            --typhoeus '{"timeout": 30, "connecttimeout": 15, "followlocation": true, "headers": {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", "Accept-Language": "en-US,en;q=0.9"}}'
