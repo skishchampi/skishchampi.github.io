@@ -55,4 +55,4 @@ description: "A King's College London online dialogue series on digital rights a
 
 <div class="stupa-coda" role="presentation"></div>
 
-<p class="back"><a href="/projects/">← Back to Projects</a></p>
+<p class="back"><a href="/projects/" aria-label="Back to Projects Index">← Back to Projects</a></p>

@@ -8,7 +8,7 @@ description: "Undergraduate courses designed and taught as instructor of record 
 <header class="pagehead">
   <div>
     <div class="kicker">Folio · Teaching</div>
-    <h1>In the seminar room.</h1>
+    <h1>Pedagogy and Practice</h1>
     <p class="standfirst">Courses designed and taught as instructor of record at the University of Toronto. Each course engages ethnographic and historical methods alongside contemporary debates in development, South Asia, and technology.</p>
   </div>
   <div class="meta">
@@ -22,14 +22,14 @@ description: "Undergraduate courses designed and taught as instructor of record 
 </header>
 
 <div class="block">
-  <h2 class="label">Approach</h2>
+  <h2 class="label">Pedagogical Philosophy</h2>
   <div class="body">
     <p>I came up through a science and engineering education in India — a didactic culture in which knowledge moves one way, from text to student, through memorisation and the regurgitation of accepted facts. Graduate training in the humanities and social sciences in the United States and Canada introduced me to a more Socratic mode, in which texts are not containers of information but live documents that get activated differently depending on the context in which they are read. I teach at the seam between those two cultures of learning, and try to make the seam visible to students. The aim is to move them away from a model of &ldquo;downloading facts&rdquo; from a teacher-as-authority toward an understanding of knowledge in the humanities and social sciences as something produced through critical engagement, juxtaposition, and re-reading.</p>
   </div>
 </div>
 
 <div class="block">
-  <h2 class="label">Practice</h2>
+  <h2 class="label">Instructional Practice</h2>
   <div class="body">
     <p>The week-to-week mechanics follow from this. Short writing prompts push students past summary into critically assessing, contrasting, and juxtaposing claims within and across texts. Collaborative annotation in <a target="_blank" rel="noopener noreferrer" href="https://web.hypothes.is/">hypothes.is</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://web.hypothes.is/" aria-label="Wayback Machine archived copy">↗</a></sup> makes reading a shared, visible practice rather than a private one — and lets me see methodologically where students need more support. Activity-based exercises put the object of critique in students&rsquo; hands before the secondary literature does: reading an actual RCT paper alongside the development-studies critique of RCTs; working through &mdash; or building &mdash; a small dashboard in class before turning to the politics of dashboards as a media object. Large language models enter the syllabus as objects of critical reading: students compare a machinic &ldquo;reading&rdquo; of a text against an interpretive one and learn what each kind of reading can and cannot do. Across a term, the arc is descriptive to interpretive.</p>
   </div>
@@ -71,6 +71,87 @@ description: "Undergraduate courses designed and taught as instructor of record 
   </div>
 </div>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Course",
+        "name": "Technology and Development in Asia",
+        "courseCode": "CAS390H1F",
+        "description": "An interdisciplinary undergraduate course on the politics, technology, and culture of Asian development in the twentieth and twenty-first centuries. Situates contemporary debates about the 'Asian Century' within longer histories of colonialism, postcolonial solidarity, and shifting global power.",
+        "provider": {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Toronto",
+          "sameAs": "https://www.utoronto.ca"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "In-person",
+          "location": "U of T, St. George",
+          "instructor": {
+            "@type": "Person",
+            "name": "Aakash Solanki"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Course",
+        "name": "Being Human in South Asia",
+        "courseCode": "SAH200H5S",
+        "description": "An interdisciplinary introduction to the study of South Asia, drawing on anthropology, history, political science, sociology, demography, economics, media studies, and science and technology studies.",
+        "provider": {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Toronto",
+          "sameAs": "https://www.utoronto.ca"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "In-person",
+          "location": "U of T, Mississauga",
+          "instructor": {
+            "@type": "Person",
+            "name": "Aakash Solanki"
+          }
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Course",
+        "name": "Rethinking Development",
+        "courseCode": "ANT374H1F",
+        "description": "An undergraduate course tracing development — deliberate intervention to improve the lives of those deemed 'left behind' — as concept and practice over the past century.",
+        "provider": {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Toronto",
+          "sameAs": "https://www.utoronto.ca"
+        },
+        "hasCourseInstance": {
+          "@type": "CourseInstance",
+          "courseMode": "In-person",
+          "location": "U of T, St. George",
+          "instructor": {
+            "@type": "Person",
+            "name": "Aakash Solanki"
+          }
+        }
+      }
+    }
+  ]
+}
+</script>
+
 <div class="stupa-coda" role="presentation"></div>
 
-<p class="back"><a href="/work/">← Back to Work</a></p>
+<p class="back"><a href="/work/" aria-label="Back to Work index">← Back to Work</a></p>

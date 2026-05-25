@@ -52,7 +52,6 @@
     <meta name="twitter:image" content="{{ '/assets/img/og-card.png' | absolute_url }}">
     <meta name="twitter:image:alt" content="Aakash Solanki — An anthropology of states, statistics, and computing.">
 
-    {% if page.url == '/' %}
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -65,8 +64,20 @@
         "name": "University of Toronto",
         "department": "Department of Anthropology; Centre for South Asian Studies"
       },
-      "alumniOf": ["University of Toronto", "University of Chicago"],
-      "sameAs": ["{{ site.orcid }}", "https://scholar.google.com/citations?user=Y0LLLUMAAAAJ"],
+      "alumniOf": [
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Toronto"
+        },
+        {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Chicago"
+        }
+      ],
+      "sameAs": [
+        "{{ site.orcid }}",
+        "https://scholar.google.com/citations?user=Y0LLLUMAAAAJ"
+      ],
       "identifier": "{{ site.orcid }}",
       "knowsAbout": [
         "Anthropology of the state",
@@ -74,11 +85,12 @@
         "History of statistics and computing",
         "Ethnography of bureaucracy",
         "South Asia",
-        "Caste and technoscience"
+        "Caste and technoscience",
+        "Digital infrastructures",
+        "Technopopulism"
       ]
     }
     </script>
-    {% endif %}
 
     <link rel="icon" href="{{ '/assets/img/favicon.svg' | relative_url }}" type="image/svg+xml">
     <link rel="preconnect" href="https://fonts.bunny.net" crossorigin>
@@ -93,7 +105,7 @@
         <p class="mast-title">
           <a href="{{ '/' | relative_url }}" rel="home">{{ site.author }}</a>
         </p>
-        <nav class="mast-nav" aria-label="Primary">
+        <nav class="mast-nav" role="navigation" aria-label="Primary Navigation">
           {%- assign here = page.url -%}
           <a href="{{ '/work/' | relative_url }}"{% if here contains '/work' or here contains '/research' or here contains '/publications' or here contains '/teaching' or here contains '/talks' or here contains '/projects' or here contains '/blog' %} class="active" aria-current="page"{% endif %}>Work</a>
           <a href="{{ '/contact/' | relative_url }}"{% if here contains '/contact' %} class="active" aria-current="page"{% endif %}>Contact</a>
@@ -110,11 +122,11 @@
         </nav>
       </header>
 
-      <main id="main">
+      <main id="main" role="main">
         {{ content }}
       </main>
 
-      <footer class="site">
+      <footer class="site" role="contentinfo">
         <span>Last updated {{ site.time | date: '%-d %B %Y' }}</span>
         <span class="ornament" aria-hidden="true">
           <svg viewBox="0 0 130 130" fill="none" stroke="currentColor" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">

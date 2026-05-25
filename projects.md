@@ -48,4 +48,79 @@ description: "Ongoing intellectual and public-facing projects by Aakash Solanki,
 
 <div class="stupa-coda" role="presentation"></div>
 
-<p class="back"><a href="/work/">← Back to Work</a></p>
+<p class="back"><a href="/work/" aria-label="Back to Work index">← Back to Work</a></p>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "CreativeWork",
+        "name": "Caste as/of Technoscience",
+        "author": [
+          {"@type": "Person", "name": "Aakash Solanki", "sameAs": "https://orcid.org/0000-0002-4879-6998"},
+          {"@type": "Person", "name": "Palashi Vaghela"}
+        ],
+        "description": "A collaborative project reframing caste not as an identity category layered onto technoscience but as a sociotechnical formation in its own right.",
+        "url": "https://aakashsolanki.net/caste-technoscience/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "CreativeWork",
+        "name": "States, Startups, and Capital",
+        "author": [
+          {"@type": "Person", "name": "Aakash Solanki", "sameAs": "https://orcid.org/0000-0002-4879-6998"},
+          {"@type": "Person", "name": "Sandeep Mertia"},
+          {"@type": "Person", "name": "Nafis Hasan"}
+        ],
+        "description": "A joint inquiry into mobile applications, state power, and the digital economy — how apps emerge and circulate as the form of the technological state.",
+        "url": "https://aakashsolanki.net/states-startups-capital/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "CreativeWork",
+        "name": "Digital Rights Activism Dialogues",
+        "author": [
+          {"@type": "Person", "name": "Aakash Solanki", "sameAs": "https://orcid.org/0000-0002-4879-6998"},
+          {"@type": "Person", "name": "Tarangini Sriraman"}
+        ],
+        "description": "An online dialogue series pairing activists and academics across the Global South to steer the digital-rights conversation toward transnational activist energies.",
+        "url": "https://aakashsolanki.net/digital-rights-activism-dialogues/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "CreativeWork",
+        "name": "Democracies and Libraries",
+        "author": {"@type": "Person", "name": "Aakash Solanki", "sameAs": "https://orcid.org/0000-0002-4879-6998"},
+        "description": "An ongoing inquiry into libraries as sites of democratic encounter, anchored conceptually in a Dewey–Ambedkar frame of democracy as associated living.",
+        "url": "https://aakashsolanki.net/libraries/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "CreativeWork",
+        "name": "Critical Caste and Technology Studies Syllabus",
+        "author": {"@type": "Person", "name": "Murali Shanmugavelan"},
+        "contributor": {"@type": "Person", "name": "Aakash Solanki", "sameAs": "https://orcid.org/0000-0002-4879-6998"},
+        "description": "A first-of-its-kind open resource organizing anti-caste scholarship around communicative practices, media, and internet technology studies.",
+        "url": "https://aakashsolanki.net/projects/"
+      }
+    }
+  ]
+}
+</script>

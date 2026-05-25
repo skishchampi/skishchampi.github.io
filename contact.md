@@ -18,14 +18,14 @@ description: "Get in touch with Aakash Solanki — email, ORCID, Google Scholar.
   </div>
 </header>
 
-<div class="contact-links">
+<address class="contact-links">
   <div class="row"><span class="k">Email</span> <a href="mailto:mail@aakashsolanki.net">mail@aakashsolanki.net</a></div>
   <div class="row"><span class="k">ORCID</span> <a href="https://orcid.org/0000-0002-4879-6998" rel="noopener">0000-0002-4879-6998</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://orcid.org/0000-0002-4879-6998" aria-label="Wayback Machine archived copy">↗</a></sup></div>
   <div class="row"><span class="k">Scholar</span> <a href="https://scholar.google.com/citations?user=Y0LLLUMAAAAJ" rel="noopener">Google Scholar</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://scholar.google.com/citations?user=Y0LLLUMAAAAJ" aria-label="Wayback Machine archived copy">↗</a></sup></div>
-</div>
+</address>
 
 <figure class="page-figure">
   <img src="/assets/img/research/table.jpeg" alt="Two people seated at a small table strewn with notebooks, papers, and craft materials, working together." loading="lazy">
 </figure>
 
-<p class="back"><a href="/">← Back to About</a></p>
+<p class="back"><a href="/" aria-label="Back to About page">← Back to About</a></p>
