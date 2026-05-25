@@ -33,4 +33,4 @@ description: "Concept note for the 2018-2019 Development Seminar series at the U
 
 <div class="stupa-coda" role="presentation"></div>
 
-<p class="back"><a href="/">← Back to About</a></p>
+<p class="back"><a href="/" aria-label="Back to About Page">← Back to About</a></p>

@@ -44,4 +44,4 @@ description: "An ongoing collaborative project convening interdisciplinary conve
 
 <div class="stupa-coda" role="presentation"></div>
 
-<p class="back"><a href="/projects/">← Back to Projects</a></p>
+<p class="back"><a href="/projects/" aria-label="Back to Projects Index">← Back to Projects</a></p>

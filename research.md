@@ -8,7 +8,7 @@ description: "An ethnography of governance after planning — regional inequalit
 <header class="pagehead">
   <div>
     <div class="kicker">Folio · Research</div>
-    <h1>Governance after planning.</h1>
+    <h1>Governance after Planning: An Ethnography of Indian Policy Elites</h1>
     <p class="standfirst">An ethnography of Indian policy elites — central-government bureaucrats, state-cadre officers, consultants, and the technocratic apparatus they inhabit — and of the technopopulist governing form that has come to characterise the contemporary conjuncture. A study of how a postcolonial state continues to govern when the epistemological foundations of planning come undone.</p>
   </div>
   <div class="meta">
@@ -22,7 +22,7 @@ description: "An ethnography of governance after planning — regional inequalit
 </header>
 
 <div class="block">
-  <h2 class="label">The question</h2>
+  <h2 class="label">The Analytic Inquiry</h2>
   <div class="body">
     <p>For most of the twentieth century, the developmental authority of postcolonial states rested on a particular epistemic claim — that the state could know, through statistics, surveys, and resource assessments, the social and economic processes it sought to govern. By the early twenty-first century, that claim no longer holds steady. National statistical infrastructures have lost authority and coverage; new digital infrastructures have not yet consolidated reliability.</p>
     <p>The dissertation pursues what it means to govern through this interregnum. Drawing on three years of fieldwork and archival research reaching back to the postcolonial planning institutions of the 1950s, it argues that contemporary modes of governing do not retreat from technical infrastructure when its epistemic ground gives way. Instead, they redeploy it for other purposes — to generate political rhythm, competitive community, and the spectacular performance of governance improvement.</p>
@@ -30,10 +30,10 @@ description: "An ethnography of governance after planning — regional inequalit
     <p>The state is not the only actor in this story. The work also tracks the cast that has come to populate the conditions of national governance: transnational funding agencies, philanthrocapitalist foundations, multinational technology corporations, and financial experiments such as development impact bonds — whose tools, money, instruments, and expertise reshape what the state is able to do, and what it is asked to do, by those it governs.</p>
     <figure class="diptych diptych--svg">
       <div>
-        <img src="/assets/img/diagrams/dashboard.svg" alt="A schematic dashboard showing a score, a list of ranked indicators, and a twelve-month upward-trending line. Labelled illustrative.">
+        <img src="/assets/img/diagrams/dashboard.svg" alt="A schematic diagram representing the technopopulist logic of governance by indicators, where complex social processes are flattened into comparative scores and competitive rankings for the spectacular performance of improvement.">
       </div>
       <div>
-        <img src="/assets/img/diagrams/coverage.svg" alt="A grid of small square cells, each a unit-by-month observation, with varying tone. Some cells nearly paper-pale, others ochre, others dark — a pattern of uneven reporting density across time.">
+        <img src="/assets/img/diagrams/coverage.svg" alt="A heatmap illustrating the fragmentation of national statistical infrastructures, visualizing the epistemic gaps and uneven reporting density that characterize the interregnum of contemporary governance.">
       </div>
     </figure>
   </div>
@@ -59,7 +59,7 @@ description: "An ethnography of governance after planning — regional inequalit
     <h3>II. Digital infrastructures</h3>
     <p>Dashboards, real-time data portals, ranking systems, machine learning algorithms, and automated decision systems have become central to how the contemporary state addresses developmental questions. These are not merely tools of measurement but a medium through which the state constitutes itself as an object of public attention. The work reads the technical apparatus ethnographically — attending to how it is built, maintained, and inhabited by frontline workers, bureaucrats, consultants, and the multinational technology corporations whose platforms increasingly underwrite governance — and to the gap between what such systems are supposed to know and what they actually do.</p>
     <figure class="inline-figure">
-      <img src="/assets/img/diagrams/platform.svg" alt="A schematic three-layer stack diagram. Top layer: 'Vendor platform — compute, storage, network.' Middle layer: 'State integration — pipelines, APIs, middleware.' Bottom layer: 'Frontline use — apps, dashboards, registers.' Each layer carries a short caption indicating what it is and who inhabits it." loading="lazy">
+      <img src="/assets/img/diagrams/platform.svg" alt="A structural diagram of the modular state apparatus, mapping the stack of private vendor platforms, state-mediated integrations, and frontline administrative labor that underwrites digital governance." loading="lazy">
     </figure>
   </div>
 </section>
@@ -124,4 +124,4 @@ description: "An ethnography of governance after planning — regional inequalit
 
 <div class="stupa-coda" role="presentation"></div>
 
-<p class="back"><a href="/work/">← Back to Work</a></p>
+<p class="back"><a href="/work/" aria-label="Back to Work index">← Back to Work</a></p>

@@ -74,4 +74,4 @@ description: "An inquiry into libraries as sites of democratic encounter, anchor
 
 <div class="stupa-coda" role="presentation"></div>
 
-<p class="back"><a href="/projects/">← Back to Projects</a></p>
+<p class="back"><a href="/projects/" aria-label="Back to Projects Index">← Back to Projects</a></p>

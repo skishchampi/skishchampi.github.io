@@ -27,4 +27,4 @@ description: "Index of Aakash Solanki's publications, teaching, talks, projects,
   </figure>
 </div>
 
-<p class="back"><a href="/">← Back to About</a></p>
+<p class="back"><a href="/" aria-label="Back to About page">← Back to About</a></p>
