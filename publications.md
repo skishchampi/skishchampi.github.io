@@ -130,7 +130,7 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
 
 <div class="stupa-coda" role="presentation"></div>
 
-<p class="back"><a href="/work/">← Back to Work</a></p>
+<p class="back"><a href="/work/" aria-label="Back to Work index">← Back to Work</a></p>
 
 <script type="application/ld+json">
 {
@@ -149,7 +149,7 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
       "url": "https://indianexpress.com/article/opinion/columns/india-start-ups-not-lacking-innovation-imagination-9974148/"
     },
     {
-      "@type": "Article",
+      "@type": "ScholarlyArticle",
       "@id": "https://aakashsolanki.net/publications/#solanki-2018-culanth",
       "headline": "Suddenly, Statistics?",
       "author": {"@type": "Person", "name": "Aakash Solanki", "sameAs": "https://orcid.org/0000-0002-4879-6998"},
