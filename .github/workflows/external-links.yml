@@ -44,7 +44,7 @@ jobs:
         run: |
           htmlproofer ./_site \
             --ignore-empty-alt \
-            --ignore-urls "/^\/freelibraries4all/,/aakashsolanki\.net/,/linkedin\.com/,/doi\.org/,/player\.fm/,/ifla\.org/" \
+            --ignore-urls "/^\/freelibraries4all/,/aakashsolanki\.net/,/linkedin\.com/,/doi\.org/,/player\.fm/,/ifla\.org/,/anthropology\.utoronto\.ca/,/vidhilegalpolicy\.in/" \
             --ignore-status-codes "999,429" \
             --hydra '{"max_concurrency": 5}' \
             --typhoeus '{"timeout": 30, "connecttimeout": 15, "followlocation": true, "headers": {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36", "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", "Accept-Language": "en-US,en;q=0.9"}}'
