@@ -26,7 +26,7 @@ description: "Collaborative projects and public-facing work by Aakash Solanki: s
 
 <article class="project">
   <h2><a href="/utdevsem/">Development Seminar</a></h2>
-  <p>An interdisciplinary seminar series at the University of Toronto, 2017&ndash;2019, run with <a target="_blank" rel="noopener noreferrer" href="https://www.taniali.org/">Dr. Tania Li</a>. It put humanities, social sciences, public health, and engineering into one conversation about global inequality, postcolonial politics, and the politics of aid; the 2018&ndash;19 theme was <em>Development Infrastructures</em>. Li is now the Yusof Ishak Professor in Social Sciences at the <a target="_blank" rel="noopener noreferrer" href="https://fass.nus.edu.sg/mls/faculty/">National University of Singapore</a>.</p>
+  <p>An interdisciplinary seminar series at the University of Toronto, 2017&ndash;2019, run with <a target="_blank" rel="noopener noreferrer" href="https://www.taniali.org/">Dr. Tania Li</a>. It put humanities, social sciences, public health, and engineering into one conversation about global inequality, postcolonial politics, and the politics of aid; the 2018&ndash;19 theme was <em>Development Infrastructures</em>. Li, then at <a target="_blank" rel="noopener noreferrer" href="https://www.anthropology.utoronto.ca/people/directories/all-faculty/tania-li">Toronto</a>, is now the Yusof Ishak Professor in Social Sciences at the <a target="_blank" rel="noopener noreferrer" href="https://fass.nus.edu.sg/mls/faculty/">National University of Singapore</a>.</p>
 </article>
 
 <h2 class="label">Public and policy work</h2>
