@@ -1,0 +1,7 @@
+{%- assign t = include.talk -%}
+{%- if t.url -%}
+<a target="_blank" rel="noopener noreferrer" href="{{ t.url }}">{{ t.venue | escape }}</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/{{ t.url }}" aria-label="Wayback Machine archived copy">↗</a></sup>
+{%- else -%}
+{{ t.venue | escape }}
+{%- endif -%}
+{%- if t.note %} ({{ t.note }}){% endif -%}

@@ -7,16 +7,11 @@ description: "Concept note for the 2018-2019 Development Seminar series at the U
 
 <header class="pagehead">
   <div>
-    <div class="kicker">Archive · 2017–2019</div>
-    <h1>Development Seminar.</h1>
+    <h1>Development Seminar</h1>
     <p class="standfirst">An interdisciplinary initiative at the University of Toronto, convening to critically examine global inequality, postcolonial politics, and power in the Global South. Coordinated with Tania Li (Anthropology) and Katherine Rankin (Geography).</p>
   </div>
-  <div class="meta">
-    <dl>
-      <dt>Years</dt><dd>2017–2019</dd>
-      <dt>Host</dt><dd>U of Toronto</dd>
-    </dl>
-  </div>
+  <p class="facts">Years: 2017–2019<br>
+    Host: U of Toronto</p>
 </header>
 
 <div class="block">
@@ -27,10 +22,6 @@ description: "Concept note for the 2018-2019 Development Seminar series at the U
     <p>There is a long history of computational techniques in development aid work. But with new media technologies, machine-readable data sets, and large-scale digital infrastructures, much of what USAID, CIDA, UKAID, Gates, MSDF, Omidyar, and others do is changing with particular data analytics and computing practices. This new &ldquo;data&rdquo; moment joins relatively older debates in ICTD, in mass media for development, and in internet for development. Microfinance now depends on cell phone data to predict financial behaviour; development projects are increasingly monitored on impact investment metrics; development impact bonds proliferate; public health work involves technology partners with the &ldquo;best&rdquo; data collection applications for malaria and TB interventions; insurance companies scramble for the &ldquo;best&rdquo; data on prospective clients.</p>
     <p>What do we make of this &ldquo;Smartness Mandate&rdquo; (Orit Halpern, forthcoming) within development? Does attention to audit practices — say, of the Bill Gates Foundation — help us understand how calculative, computer-aided practices shape what development does, is, and becomes? The &ldquo;Will to Improve&rdquo; that Tania Li (2007) theorised a decade ago is now increasingly a human–computer assemblage of datasets being mined with (un)sophisticated machine learning. STS, information science, geography, anthropology, and environmental history have taken &ldquo;infrastructure&rdquo; as a matter of concern; STS and anthropology&rsquo;s focus on multiple ontologies opens new avenues for older concerns in development studies.</p>
     <p>With these reflections in mind, the theme for 2018–2019 is <em>Development Infrastructures</em>. We invite scholars from information science, history of science, anthropology, geography, and STS to reflect on smartness, data-driven development, design in development, data and global health, data and state welfare.</p>
-    <p>For more, please see the <a href="https://utdevsem.wordpress.com" rel="noopener">seminar website</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://utdevsem.wordpress.com" aria-label="Wayback Machine archived copy">↗</a></sup>.</p>
+    <p>For more, please see the <a href="https://utdevsem.wordpress.com" rel="noopener">seminar website</a>&nbsp;<sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://utdevsem.wordpress.com" aria-label="Wayback Machine archived copy">↗</a></sup>.</p>
   </div>
 </div>
-
-<div class="stupa-coda" role="presentation"></div>
-
-<p class="back"><a href="/" aria-label="Back to About Page">← Back to About</a></p>

@@ -7,3 +7,6 @@ _site/
 vendor/
 tmp/
 Gemfile.lock
+.superpowers/
+.venv/
+.bundle/

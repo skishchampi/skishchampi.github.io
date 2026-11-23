@@ -6,21 +6,15 @@ description: "Short essays and notes, mostly on fieldwork, methods, and the smal
 
 <header class="pagehead">
   <div>
-    <div class="kicker">Folio · Notebook</div>
-    <h1>Notebook.</h1>
+    <h1>Blog</h1>
     <p class="standfirst">Short essays and notes, mostly on fieldwork, methods, and the small grammars of bureaucratic life. Cadence: occasional.</p>
-  </div>
-  <div class="meta">
-    <dl>
-      <dt>RSS</dt><dd><a href="{{ '/feed.xml' | relative_url }}">/feed.xml</a></dd>
-    </dl>
   </div>
 </header>
 
 {% if site.posts.size > 0 %}
   {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for year in postsByYear %}
-  <h2 class="sect"><span class="n">{{ year.name }}</span>Year {{ year.name }}</h2>
+  <h2 class="sect">{{ year.name }}</h2>
   <ul class="posts">
     {% for post in year.items %}
     <li>
@@ -33,5 +27,3 @@ description: "Short essays and notes, mostly on fieldwork, methods, and the smal
 {% else %}
   <p class="posts-empty">No posts yet — check back soon.</p>
 {% endif %}
-
-<p class="back"><a href="/work/" aria-label="Back to Work index">← Back to Work</a></p>

@@ -1,0 +1,91 @@
+# One entry per talk, newest first. Feeds /talks/, its JSON-LD, and homepage news.
+# Fields: year, month, start (ISO, for JSON-LD), end (optional), title, venue,
+#         url (optional), note (optional: invited, guest), address (optional).
+
+- year: 2026
+  month: "Nov"
+  start: "2026-11-20T17:00:00-05:00"
+  end: "2026-11-20T18:00:00-05:00"
+  title: "‘Not a Data Project’: Failures and Follies of Following the Tech a Little Too Closely"
+  venue: "Ethnography Lab, University of Toronto"
+  url: "https://ethnographylab.ca/2026/11/12/please-join-us-for-the-second-speaker-in-our-series-methodological-approaches-to-studying-artificial-intelligence-2/"
+  address: "19 Ursula Franklin St., Toronto, ON"
+
+- year: 2026
+  month: "Apr"
+  start: "2026-04"
+  title: "Constitutive Incompetence: Caste, Expertise, and the Indian State"
+  venue: "Graduate Workshop, University of Toronto"
+
+- year: 2025
+  month: "Oct"
+  start: "2025-10"
+  title: "Caste, Libraries, and Public Finance"
+  venue: "IFLA webinar"
+  url: "https://www.ifla.org/events/caste-discrimination-an-introduction-for-librarians/"
+
+- year: 2025
+  month: "Aug"
+  start: "2025-08"
+  title: "Infrastructures of IntraStatecraft: Digital Public Finance and the Mediation of Fiscal Federal Relations in India"
+  venue: "IIIT-Delhi"
+  note: "invited"
+
+- year: 2025
+  month: "Apr"
+  start: "2025-04"
+  title: "Rethinking the Emergence of the Poverty Line: The 1961 Census and Technopolitics of Governmentality in India"
+  venue: "Centre for South Asian Studies, University of Toronto"
+  url: "https://munkschool.utoronto.ca/ai/centre-south-asian-studies"
+
+- year: 2024
+  month: "Oct"
+  start: "2024-10"
+  title: "Digital Infrastructures and the Mediation of Development"
+  venue: "Center for Ethnography, UTSC"
+
+- year: 2024
+  month: "Apr"
+  start: "2024-04"
+  title: "‘Can We Really Do It?’ The Promise of a Guerrilla Data Practice"
+  venue: "Cultures of Data Workshop, Penn"
+  url: "https://wolfhumanities.upenn.edu/events/cultures-datafication-and-across-south-asia"
+
+- year: 2024
+  month: "Feb"
+  start: "2024-02"
+  title: "Politics and Poetics of a Formula"
+  venue: "Cornell University"
+  note: "invited"
+
+- year: 2023
+  month: "Jun"
+  start: "2023-06"
+  title: "Maximum Data, Minimum Insights: Indian Bureaucracy’s Tryst with Digital India"
+  venue: "University of Lucerne"
+  note: "invited"
+
+- year: 2023
+  month: "Apr"
+  start: "2023-04"
+  title: "Participant-Observation Tactics for Studying Up Among Elites"
+  venue: "Flame University, Pune"
+  note: "guest"
+
+- year: 2022
+  month: "Dec"
+  start: "2022-12"
+  title: "‘Can You WhatsApp It to Me?’ Mobile Data Dashboards and Evidence-Based Policy"
+  venue: "4S Conference, Cholula"
+
+- year: 2021
+  month: "Jul"
+  start: "2021-07"
+  title: "Surveying the MISes: Building Infrastructures to Monitor ‘Outcomes’ in India"
+  venue: "New Sciences New States Collective"
+
+- year: 2021
+  month: "Mar"
+  start: "2021-03"
+  title: "Shoveling Data? Monitoring Outcomes in the Indian Public Sector"
+  venue: "Data & Society Institute, NY"

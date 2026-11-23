@@ -2,50 +2,41 @@
 layout: default
 ---
 
-<section class="lede" aria-labelledby="home-hd">
-  <div>
-    <h1 class="hd" id="home-hd">An anthropology of <em>states, statistics,</em> and <em>computing</em>.</h1>
-    <p class="standfirst">Anthropologist. Research on bureaucracy, data infrastructures, and the technopolitics of the Indian state.</p>
-  </div>
-  <div>
-    <div class="portrait">
+<h1 class="sr-only">Aakash Solanki</h1>
+
+<div class="block">
+  <div class="body">
+    <figure class="portrait">
       {% if site.logo %}<img src="{{ site.logo | relative_url }}" alt="Portrait of Aakash Solanki" loading="lazy">{% endif %}
-    </div>
-  </div>
-</section>
-
-<div class="block">
-  <h2 class="label">I. Biography</h2>
-  <div class="body">
-    <p>Aakash Solanki is an anthropologist. His research sits at the intersection of the anthropology of the state, science and technology studies, and the historical study of statistics and computing. He has worked on the collection, classification, and management of information in colonial and postcolonial India. In addition to prior training in computer science, he has worked in government agencies in the US and India on data science projects in education, health, and skill development at municipal, state, and federal levels.</p>
+    </figure>
+    <p>Aakash Solanki is an anthropologist. His research examines how digital infrastructures are reshaping governance and democratic life in contemporary India. In addition to prior training in computer science, he has worked in government agencies in the US and India on data science projects in education, health, and skill development at municipal, state, and federal levels.</p>
     <p>His first book project, <em>Governing Indeterminately: An Ethnography of Technopopulism from India</em>, draws on long-term fieldwork in Indian state and central bureaucracies to examine how digital infrastructures mediate development, statecraft, and fiscal federal relations. The research is funded by the International Development Research Centre (IDRC) and the Wenner-Gren Foundation for Anthropological Research.</p>
-    <p>His research has appeared in <em>South Asia: Journal of South Asian Studies</em> and interdisciplinary venues such as the <em>Proceedings of CHI 2026</em>. He is a former Student Editor at <em>Cultural Anthropology</em>. He convened the interdisciplinary <a href="/utdevsem/">Development Seminar</a> at the University of Toronto.</p>
-    <p>Aakash was educated at universities in <a target="_blank" rel="noopener noreferrer" href="https://www.utoronto.ca">Toronto</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.utoronto.ca" aria-label="Wayback Machine archived copy">↗</a></sup>, <a target="_blank" rel="noopener noreferrer" href="https://www.uchicago.edu">Chicago</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.uchicago.edu" aria-label="Wayback Machine archived copy">↗</a></sup>, and <a target="_blank" rel="noopener noreferrer" href="https://www.dau.ac.in/">Gandhinagar</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.dau.ac.in/" aria-label="Wayback Machine archived copy">↗</a></sup>.</p>
+    <p>His research has appeared in <em>South Asia: Journal of South Asian Studies</em> and interdisciplinary venues such as the <em>Proceedings of CHI 2026</em>.</p>
+    <p>Aakash was educated at universities in <a target="_blank" rel="noopener noreferrer" href="https://www.utoronto.ca">Toronto</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.uchicago.edu">Chicago</a>, and <a target="_blank" rel="noopener noreferrer" href="https://www.daiict.ac.in">Gandhinagar</a>.</p>
   </div>
 </div>
 
 <div class="block">
-  <h2 class="label">II. Research interests</h2>
+  <h2 class="label">Research interests</h2>
   <div class="body">
-    <ul class="bullets">
-      <li><span class="num">01</span><span>Colonial and postcolonial histories of statistics and statecraft</span></li>
-      <li><span class="num">02</span><span>Ethnography of the state and bureaucracy in South Asia</span></li>
-      <li><span class="num">03</span><span>Design, deployment, and maintenance of data infrastructures</span></li>
-      <li><span class="num">04</span><span>Caste, technoscience, and digital publics</span></li>
-      <li><span class="num">05</span><span>Mixed-method and collaborative approaches to studying governance technologies</span></li>
+    <ul>
+      <li>Colonial and postcolonial histories of statistics and statecraft</li>
+      <li>Ethnography of the state and bureaucracy in South Asia</li>
+      <li>Design, deployment, and maintenance of data infrastructures</li>
+      <li>Caste, technoscience, and digital publics</li>
+      <li>Mixed-method and collaborative approaches to studying governance technologies</li>
     </ul>
   </div>
 </div>
 
 <div class="block">
-  <h2 class="label">III. Recent news</h2>
+  <h2 class="label">Recent news</h2>
   <div class="body">
-    <ul class="bullets news">
-      <li><span class="num">Nov 2026</span><span>Talk at the <a target="_blank" rel="noopener noreferrer" href="https://ethnographylab.ca/2026/11/12/please-join-us-for-the-second-speaker-in-our-series-methodological-approaches-to-studying-artificial-intelligence-2/">Ethnography Lab, University of Toronto</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://ethnographylab.ca/2026/11/12/please-join-us-for-the-second-speaker-in-our-series-methodological-approaches-to-studying-artificial-intelligence-2/" aria-label="Wayback Machine archived copy">↗</a></sup>: &ldquo;&lsquo;Not a Data Project&rsquo;: Failures and Follies of Following the Tech a Little Too Closely.&rdquo;</span></li>
-      <li><span class="num">Apr 2026</span><span>Presentation at the Graduate Workshop, University of Toronto: &ldquo;Constitutive Incompetence: Caste, Expertise, and the Indian State.&rdquo;</span></li>
-      <li><span class="num">Oct 2025</span><span>Talk at the <a target="_blank" rel="noopener noreferrer" href="https://www.ifla.org/events/caste-discrimination-an-introduction-for-librarians/">International Federation for Library Associations and Institutions webinar</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.ifla.org/events/caste-discrimination-an-introduction-for-librarians/" aria-label="Wayback Machine archived copy">↗</a></sup>: &ldquo;Caste, Libraries, and Public Finance.&rdquo;</span></li>
-      <li><span class="num">Aug 2025</span><span>Invited talk at the Symposium on Digital Inequalities and the Global South, IIIT-Delhi.</span></li>
+    <ul class="news">
+      {%- for t in site.data.talks limit: 3 %}
+      <li><span class="dt">{{ t.month }} {{ t.year }}</span><span>&ldquo;{{ t.title | escape }}.&rdquo; {% include talk-venue.html talk=t %}.</span></li>
+      {%- endfor %}
     </ul>
-    <p style="margin-top: 24px; font-size: 13px; font-family: var(--sans); color: var(--ink-3);">See all <a href="/talks/">talks</a> and <a href="/publications/">publications</a>.</p>
+    <p class="more">See all <a href="/talks/">talks</a> and <a href="/publications/">publications</a>.</p>
   </div>
 </div>

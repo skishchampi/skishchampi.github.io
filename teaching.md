@@ -7,33 +7,10 @@ description: "Undergraduate courses designed and taught as instructor of record 
 
 <header class="pagehead">
   <div>
-    <div class="kicker">Folio · Teaching</div>
-    <h1>Pedagogy and Practice</h1>
+    <h1>Teaching</h1>
     <p class="standfirst">Courses designed and taught as instructor of record at the University of Toronto. Each course engages ethnographic and historical methods alongside contemporary debates in development, South Asia, and technology.</p>
   </div>
-  <div class="meta">
-    <dl>
-      <dt>Dept.</dt><dd>Anthropology</dd>
-      <dt>Institution</dt><dd>U of Toronto</dd>
-      <dt>Level</dt><dd>Undergraduate</dd>
-      <dt>Campus</dt><dd>St. George · Mississauga</dd>
-    </dl>
-  </div>
 </header>
-
-<div class="block">
-  <h2 class="label">Pedagogical Philosophy</h2>
-  <div class="body">
-    <p>I came up through a science and engineering education in India — a didactic culture in which knowledge moves one way, from text to student, through memorisation and the regurgitation of accepted facts. Graduate training in the humanities and social sciences in the United States and Canada introduced me to a more Socratic mode, in which texts are not containers of information but live documents that get activated differently depending on the context in which they are read. I teach at the seam between those two cultures of learning, and try to make the seam visible to students. The aim is to move them away from a model of &ldquo;downloading facts&rdquo; from a teacher-as-authority toward an understanding of knowledge in the humanities and social sciences as something produced through critical engagement, juxtaposition, and re-reading.</p>
-  </div>
-</div>
-
-<div class="block">
-  <h2 class="label">Instructional Practice</h2>
-  <div class="body">
-    <p>The week-to-week mechanics follow from this. Short writing prompts push students past summary into critically assessing, contrasting, and juxtaposing claims within and across texts. Collaborative annotation in <a target="_blank" rel="noopener noreferrer" href="https://web.hypothes.is/">hypothes.is</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://web.hypothes.is/" aria-label="Wayback Machine archived copy">↗</a></sup> makes reading a shared, visible practice rather than a private one — and lets me see methodologically where students need more support. Activity-based exercises put the object of critique in students&rsquo; hands before the secondary literature does: reading an actual RCT paper alongside the development-studies critique of RCTs; working through &mdash; or building &mdash; a small dashboard in class before turning to the politics of dashboards as a media object. Large language models enter the syllabus as objects of critical reading: students compare a machinic &ldquo;reading&rdquo; of a text against an interpretive one and learn what each kind of reading can and cannot do. Across a term, the arc is descriptive to interpretive.</p>
-  </div>
-</div>
 
 <div class="course">
   <div class="role">Instructor of record</div>
@@ -151,7 +128,3 @@ description: "Undergraduate courses designed and taught as instructor of record 
   ]
 }
 </script>
-
-<div class="stupa-coda" role="presentation"></div>
-
-<p class="back"><a href="/work/" aria-label="Back to Work index">← Back to Work</a></p>
