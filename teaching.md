@@ -2,20 +2,22 @@
 layout: default
 title: Teaching
 permalink: /teaching/
-description: "Undergraduate courses designed and taught as instructor of record at the University of Toronto."
+description: "Courses taught as instructor of record at the University of Toronto, and support for curriculum work in critical caste and technology studies."
 ---
 
 <header class="pagehead">
   <div>
     <h1>Teaching</h1>
-    <p class="standfirst">Courses designed and taught as instructor of record at the University of Toronto. Each course engages ethnographic and historical methods alongside contemporary debates in development, South Asia, and technology.</p>
+    <p class="standfirst">Courses designed and taught as instructor of record at the University of Toronto, each engaging ethnographic and historical methods alongside contemporary debates in development, South Asia, and technology.</p>
   </div>
 </header>
+
+<h2 class="label">University teaching</h2>
 
 <div class="course">
   <div class="role">Instructor of record</div>
   <div>
-    <p class="title">CAS390H1F · Technology and Development in Asia</p>
+    <p class="title">CAS390H1F · Development and Technology in Asia</p>
     <p class="desc">An interdisciplinary undergraduate course on the politics, technology, and culture of Asian development in the twentieth and twenty-first centuries. Situates contemporary debates about the &ldquo;Asian Century&rdquo; within longer histories of colonialism, postcolonial solidarity, and shifting global power. Topics include industrial strategy and technological competition across China, India, and Southeast Asia; the Washington and Beijing consensuses; populist nationalism; and the environmental stakes of Asian-led development in an age of artificial intelligence.</p>
   </div>
   <div class="when">
@@ -48,6 +50,10 @@ description: "Undergraduate courses designed and taught as instructor of record 
   </div>
 </div>
 
+<h2 class="label">Curriculum support</h2>
+
+<p>Supported Dr. <a target="_blank" rel="noopener noreferrer" href="https://www.oii.ox.ac.uk/people/profiles/murali-shanmugavelan/">Murali Shanmugavelan</a>&nbsp;<sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.oii.ox.ac.uk/people/profiles/murali-shanmugavelan/" aria-label="Wayback Machine archived copy">↗</a></sup>&rsquo;s Critical Caste and Technology Studies (CCTS) syllabus — a first-of-its-kind open resource organising anti-caste scholarship around communicative practices, media, and internet technology studies. The syllabus offers a cross-disciplinary starting point for students and scholars examining caste as it is remanifested in everyday digital cultures. It is also listed under <a href="/projects/">projects</a>.</p>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -58,7 +64,7 @@ description: "Undergraduate courses designed and taught as instructor of record 
       "position": 1,
       "item": {
         "@type": "Course",
-        "name": "Technology and Development in Asia",
+        "name": "Development and Technology in Asia",
         "courseCode": "CAS390H1F",
         "description": "An interdisciplinary undergraduate course on the politics, technology, and culture of Asian development in the twentieth and twenty-first centuries. Situates contemporary debates about the 'Asian Century' within longer histories of colonialism, postcolonial solidarity, and shifting global power.",
         "provider": {

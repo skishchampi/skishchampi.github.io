@@ -11,7 +11,7 @@ layout: default
     </figure>
     <p>Aakash Solanki is an anthropologist. His research examines how digital infrastructures are reshaping governance and democratic life in contemporary India. In addition to prior training in computer science, he has worked in government agencies in the US and India on data science projects in education, health, and skill development at municipal, state, and federal levels.</p>
     <p>His first book project, <em>Governing Indeterminately: An Ethnography of Technopopulism from India</em>, draws on long-term fieldwork in Indian state and central bureaucracies to examine how digital infrastructures mediate development, statecraft, and fiscal federal relations. The research is funded by the International Development Research Centre (IDRC) and the Wenner-Gren Foundation for Anthropological Research.</p>
-    <p>His research has appeared in <em>South Asia: Journal of South Asian Studies</em> and interdisciplinary venues such as the <em>Proceedings of CHI 2026</em>.</p>
+    <p>His research has appeared in <em>South Asia: Journal of South Asian Studies</em> and interdisciplinary venues such as the <em>Proceedings of CHI 2026</em>. New work is forthcoming in <em>Media, Culture, and Society</em>, and in a UCL Press book.</p>
     <p>Aakash was educated at universities in <a target="_blank" rel="noopener noreferrer" href="https://www.utoronto.ca">Toronto</a>, <a target="_blank" rel="noopener noreferrer" href="https://www.uchicago.edu">Chicago</a>, and <a target="_blank" rel="noopener noreferrer" href="https://www.daiict.ac.in">Gandhinagar</a>.</p>
   </div>
 </div>
