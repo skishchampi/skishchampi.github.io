@@ -58,7 +58,7 @@
       "@type": "Person",
       "name": "{{ site.author }}",
       "url": "{{ site.url }}",
-      "jobTitle": "PhD Candidate",
+      "jobTitle": "Anthropologist",
       "affiliation": {
         "@type": "CollegeOrUniversity",
         "name": "University of Toronto",
@@ -94,7 +94,7 @@
 
     <link rel="icon" href="{{ '/assets/img/favicon.svg' | relative_url }}" type="image/svg+xml">
     <link rel="preconnect" href="https://fonts.bunny.net" crossorigin>
-    <link rel="stylesheet" href="https://fonts.bunny.net/css?family=newsreader:400,400i,500,500i,600|inter:400,500,600|jetbrains-mono:400,500&display=swap" integrity="sha384-Oxm1O/u5TN9abIyWBCd8DZhlFVgGlO5f0rJg99z+wQ+vhdLNHlAhhbW9rVBtoXzQ" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="stylesheet" href="https://fonts.bunny.net/css?family=newsreader:400,400i,600&display=swap" integrity="sha384-DKdGPoS13MEIFXbuDVUUcSmH+6yK8c/keMx+Xt1rq7N0vt98P6/tcyy0Q86uLkdo" crossorigin="anonymous" referrerpolicy="no-referrer">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
   <body>
@@ -107,7 +107,15 @@
         </p>
         <nav class="mast-nav" role="navigation" aria-label="Primary Navigation">
           {%- assign here = page.url -%}
-          <a href="{{ '/work/' | relative_url }}"{% if here contains '/work' or here contains '/research' or here contains '/publications' or here contains '/teaching' or here contains '/talks' or here contains '/projects' or here contains '/blog' %} class="active" aria-current="page"{% endif %}>Work</a>
+          {%- assign writing = false -%}
+          {%- assign writing_paths = "/publications,/research,/projects,/caste-technoscience,/states-startups-capital,/digital-rights-activism-dialogues,/libraries,/utdevsem,/blog" | split: "," -%}
+          {%- for w in writing_paths -%}
+            {%- if here contains w %}{% assign writing = true %}{% endif -%}
+          {%- endfor -%}
+          {%- if page.layout == "post" or page.layout == "tag" %}{% assign writing = true %}{% endif %}
+          <a href="{{ '/publications/' | relative_url }}"{% if writing %} class="active" aria-current="page"{% endif %}>Writing</a>
+          <a href="{{ '/teaching/' | relative_url }}"{% if here contains '/teaching' %} class="active" aria-current="page"{% endif %}>Teaching</a>
+          <a href="{{ '/talks/' | relative_url }}"{% if here contains '/talks' %} class="active" aria-current="page"{% endif %}>Talking</a>
           <a href="{{ '/contact/' | relative_url }}"{% if here contains '/contact' %} class="active" aria-current="page"{% endif %}>Contact</a>
           <button id="theme-toggle" type="button" aria-pressed="false" aria-label="Switch to dark mode">
             <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false">
@@ -128,16 +136,7 @@
 
       <footer class="site" role="contentinfo">
         <span>Last updated {{ site.time | date: '%-d %B %Y' }}</span>
-        <span class="ornament" aria-hidden="true">
-          <svg viewBox="0 0 130 130" fill="none" stroke="currentColor" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M 65 110 C 45 112 27 98 25 75 C 23 48 41 25 65 15 C 89 25 107 48 105 75 C 103 98 85 112 65 110 Z"/>
-            <path d="M 65 15 L 65 110"/>
-            <path d="M 65 110 L 65 122"/>
-            <path d="M 65 38 Q 53 46 40 53"/><path d="M 65 38 Q 77 46 90 53"/>
-            <path d="M 65 60 Q 51 68 36 75"/><path d="M 65 60 Q 79 68 94 75"/>
-            <path d="M 65 82 Q 54 90 47 96"/><path d="M 65 82 Q 76 90 83 96"/>
-          </svg>
-        </span>
+        <span>↗ marks an archived copy</span>
         <span><a href="{{ site.orcid }}" rel="noopener">ORCID</a> · <a href="{{ '/feed.xml' | relative_url }}">RSS feed</a></span>
       </footer>
     </div>
