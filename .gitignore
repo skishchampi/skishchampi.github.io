@@ -10,3 +10,18 @@ Gemfile.lock
 .superpowers/
 .venv/
 .bundle/
+
+# Agent scaffolding and session coordination (local only, never published)
+.claude/
+.agents/
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+WORKING.md
+
+# Local scratch
+Aakash_Solanki_CV.zip
+render_sandbox.py
+research_fragment.html
+sandbox_research.html
+
