@@ -9,7 +9,7 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
   <div>
     <h1>Publications</h1>
     <p class="standfirst">Public scholarship, interdisciplinary work, and peer-reviewed pieces. Full texts linked where open-access; otherwise please write for a copy.</p>
-    <p class="more">See also the <a href="/research/">book project</a>, <a href="/projects/">projects</a>, and the <a href="/blog/">blog</a>.</p>
+    <p class="more">See also the <a href="/research/">book project</a>, <a href="/collaborations/">collaborations</a>, and the <a href="/blog/">blog</a>.</p>
   </div>
 </header>
 

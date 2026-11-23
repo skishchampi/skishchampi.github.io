@@ -23,14 +23,14 @@ const OUT = process.env.SHOT_DIR || '/tmp/site-shots/out';
 fs.mkdirSync(OUT, { recursive: true });
 
 const PAGES = [
-  '/', '/publications/', '/research/', '/talks/', '/teaching/',
-  '/projects/', '/contact/', '/blog/', '/work/',
+  '/', '/research/', '/publications/', '/talks/', '/teaching/',
+  '/collaborations/', '/libraries/', '/contact/', '/blog/', '/work/',
 ];
 const VIEWPORTS = [
   { name: 'desk', width: 1280, height: 800 },
   { name: 'phone', width: 390, height: 844 },
 ];
-const EXPECTED_NAV = ['/publications/', '/teaching/', '/talks/', '/contact/'];
+const EXPECTED_NAV = ['/research/', '/teaching/', '/collaborations/', '/contact/'];
 
 // Full-page capture does not scroll, so lazy images below the fold stay blank.
 // Walk the document first, then come back to the top.
