@@ -109,10 +109,10 @@ for b in blocks:
     d = json.loads(b)
     if d.get("@type") == "ItemList":
         items = d["itemListElement"]
-if n != 5: sys.exit(f"FAIL: collaborations page has {n} entries")
+if n != 6: sys.exit(f"FAIL: collaborations page has {n} entries")
 if groups != ["Scholarly collaborations", "Public and policy work"]:
     sys.exit(f"FAIL: collaborations groups are {groups}")
-if items is None or len(items) != 5: sys.exit("FAIL: collaborations JSON-LD missing or wrong length")
+if items is None or len(items) != 6: sys.exit("FAIL: collaborations JSON-LD missing or wrong length")
 PY
 
 # The old projects URL still resolves, by redirect.
