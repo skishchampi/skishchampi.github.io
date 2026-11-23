@@ -9,13 +9,27 @@ fail() { echo "FAIL: $*"; exit 1; }
 has() { grep -q -- "$2" "$1" || fail "$1 lacks $2"; }
 
 # Build only what git tracks or has staged (as CI does), ignoring local scratch files.
-SRC=$(mktemp -d)
+SRC=$(cd "$(mktemp -d)" && pwd -P)
 trap 'rm -rf "$SRC"' EXIT
 git ls-files -z | tar --null -T - -cf - | tar -xf - -C "$SRC"
 bundle exec jekyll build -q -s "$SRC" -d _site
 GEM_HOME=.venv/proofer GEM_PATH=.venv/proofer .venv/proofer/bin/htmlproofer ./_site \
   --disable-external --ignore-empty-alt --ignore-urls "/^\/freelibraries4all/" >/dev/null \
   || fail "htmlproofer"
+
+# Talks come from _data/talks.yml: every title there renders on /talks/, newest three on the homepage.
+python3 -I - <<'PY' || exit 1
+import html, os, re, sys
+if not os.path.exists("_data/talks.yml"): sys.exit("FAIL: _data/talks.yml missing")
+titles = re.findall(r'^\s*title:\s*"(.*)"\s*$', open("_data/talks.yml").read(), re.M)
+if len(titles) != 13: sys.exit(f"FAIL: talks.yml has {len(titles)} titles")
+page = html.unescape(open("_site/talks/index.html").read())
+home = html.unescape(open("_site/index.html").read())
+for t in titles:
+    if t not in page: sys.exit(f"FAIL: talks page lacks {t!r}")
+for t in titles[:3]:
+    if t not in home: sys.exit(f"FAIL: homepage news lacks {t!r}")
+PY
 
 # Ornaments and magazine labels are gone.
 for pat in 'class="kicker"' 'stupa-coda' 'class="ornament"' 'class="num"' 'class="n"' 'class="back"' 'class="meta"'; do
