@@ -7,17 +7,8 @@ description: "Undergraduate courses designed and taught as instructor of record 
 
 <header class="pagehead">
   <div>
-    <div class="kicker">Folio · Teaching</div>
-    <h1>Pedagogy and Practice</h1>
+    <h1>Teaching</h1>
     <p class="standfirst">Courses designed and taught as instructor of record at the University of Toronto. Each course engages ethnographic and historical methods alongside contemporary debates in development, South Asia, and technology.</p>
-  </div>
-  <div class="meta">
-    <dl>
-      <dt>Dept.</dt><dd>Anthropology</dd>
-      <dt>Institution</dt><dd>U of Toronto</dd>
-      <dt>Level</dt><dd>Undergraduate</dd>
-      <dt>Campus</dt><dd>St. George · Mississauga</dd>
-    </dl>
   </div>
 </header>
 
@@ -151,7 +142,3 @@ description: "Undergraduate courses designed and taught as instructor of record 
   ]
 }
 </script>
-
-<div class="stupa-coda" role="presentation"></div>
-
-<p class="back"><a href="/work/" aria-label="Back to Work index">← Back to Work</a></p>

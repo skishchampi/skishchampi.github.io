@@ -7,18 +7,12 @@ description: "An ongoing collaborative project convening interdisciplinary conve
 
 <header class="pagehead">
   <div>
-    <div class="kicker">Project</div>
-    <h1>Caste as/of Technoscience.</h1>
+    <h1>Caste as/of Technoscience</h1>
     <p class="standfirst">A collaborative, ongoing intellectual project convening interdisciplinary conversations at the Society for Social Studies of Science (4S) since 2021. Co-convened with Dr. <a target="_blank" rel="noopener noreferrer" href="https://www.sfu.ca/siat/people/research-faculty/palashi-vaghela.html">Palashi Vaghela</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.sfu.ca/siat/people/research-faculty/palashi-vaghela.html" aria-label="Wayback Machine archived copy">↗</a></sup>, Canada Research Chair at Simon Fraser University.</p>
   </div>
-  <div class="meta">
-    <dl>
-      <dt>Since</dt><dd>2021</dd>
-      <dt>Venue</dt><dd>4S Conference</dd>
-      <dt>Co-convener</dt><dd><a target="_blank" rel="noopener noreferrer" href="https://www.sfu.ca/siat/people/research-faculty/palashi-vaghela.html">Palashi Vaghela</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.sfu.ca/siat/people/research-faculty/palashi-vaghela.html" aria-label="Wayback Machine archived copy">↗</a></sup></dd>
-      <dt>Output</dt><dd>Special issue (in progress)</dd>
-    </dl>
-  </div>
+  <p class="facts">Since: 2021<br>
+    Venue: 4S Conference · Co-convener: <a target="_blank" rel="noopener noreferrer" href="https://www.sfu.ca/siat/people/research-faculty/palashi-vaghela.html">Palashi Vaghela</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.sfu.ca/siat/people/research-faculty/palashi-vaghela.html" aria-label="Wayback Machine archived copy">↗</a></sup><br>
+    Output: Special issue (in progress)</p>
 </header>
 
 <div class="block">
@@ -41,7 +35,3 @@ description: "An ongoing collaborative project convening interdisciplinary conve
 <figure class="page-figure">
   <img src="/assets/img/research/screen.jpeg" alt="Two people leaning over a desktop screen in a cramped office, working through a form together — seen from behind." loading="lazy">
 </figure>
-
-<div class="stupa-coda" role="presentation"></div>
-
-<p class="back"><a href="/projects/" aria-label="Back to Projects Index">← Back to Projects</a></p>

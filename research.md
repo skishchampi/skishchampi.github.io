@@ -2,22 +2,14 @@
 layout: default
 title: Research
 permalink: /research/
-description: "An ethnography of governance after planning — regional inequality, digital infrastructures, and federalism in the contemporary Indian state."
+description: "Governing Indeterminately: an ethnography of technopopulism from India — regional inequality, digital infrastructures, and federalism in the contemporary Indian state."
 ---
 
 <header class="pagehead">
   <div>
-    <div class="kicker">Folio · Research</div>
-    <h1>Governance after Planning: An Ethnography of Indian Policy Elites</h1>
+    <h1><em>Governing Indeterminately: An Ethnography of Technopopulism from India</em></h1>
     <p class="standfirst">An ethnography of Indian policy elites — central-government bureaucrats, state-cadre officers, consultants, and the technocratic apparatus they inhabit — and of the technopopulist governing form that has come to characterise the contemporary conjuncture. A study of how a postcolonial state continues to govern when the epistemological foundations of planning come undone.</p>
-  </div>
-  <div class="meta">
-    <dl>
-      <dt>Fieldwork</dt><dd>2019–2023</dd>
-      <dt>Sites</dt><dd>National capital · state capitals · districts</dd>
-      <dt>Archive</dt><dd>1950–present</dd>
-      <dt>Funded by</dt><dd>IDRC · <a target="_blank" rel="noopener noreferrer" href="https://wennergren.org/grantee/aakash-solanki/">Wenner-Gren</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://wennergren.org/grantee/aakash-solanki/" aria-label="Wayback Machine archived copy">↗</a></sup></dd>
-    </dl>
+    <p class="facts">Fieldwork 2019–2023 in the national capital, state capitals and districts, with archival work from 1950 to the present. Funded by IDRC and the <a target="_blank" rel="noopener noreferrer" href="https://wennergren.org/grantee/aakash-solanki/">Wenner-Gren Foundation</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://wennergren.org/grantee/aakash-solanki/" aria-label="Wayback Machine archived copy">↗</a></sup>.</p>
   </div>
 </header>
 
@@ -28,22 +20,14 @@ description: "An ethnography of governance after planning — regional inequalit
     <p>The dissertation pursues what it means to govern through this interregnum. Drawing on three years of fieldwork and archival research reaching back to the postcolonial planning institutions of the 1950s, it argues that contemporary modes of governing do not retreat from technical infrastructure when its epistemic ground gives way. Instead, they redeploy it for other purposes — to generate political rhythm, competitive community, and the spectacular performance of governance improvement.</p>
     <p>The work belongs to a tradition of ethnographic <em>studying up</em>. Where most ethnography of governance has worked from the receiving end of policy, this project pursues its subjects at the desks where policy is written, the screens where it is monitored, and the meetings where it is reviewed. The protagonists are policy elites — central-government bureaucrats, state-cadre officers in capitals, the consultants and technical staff who populate the spaces between them, and the IT vendors and philanthropic actors who circulate among them. The aim is to understand the technopopulist governing form not from below but from inside the apparatus that produces it.</p>
     <p>The state is not the only actor in this story. The work also tracks the cast that has come to populate the conditions of national governance: transnational funding agencies, philanthrocapitalist foundations, multinational technology corporations, and financial experiments such as development impact bonds — whose tools, money, instruments, and expertise reshape what the state is able to do, and what it is asked to do, by those it governs.</p>
-    <figure class="diptych diptych--svg">
-      <div>
-        <img src="/assets/img/diagrams/dashboard.svg" alt="A schematic diagram representing the technopopulist logic of governance by indicators, where complex social processes are flattened into comparative scores and competitive rankings for the spectacular performance of improvement.">
-      </div>
-      <div>
-        <img src="/assets/img/diagrams/coverage.svg" alt="A heatmap illustrating the fragmentation of national statistical infrastructures, visualizing the epistemic gaps and uneven reporting density that characterize the interregnum of contemporary governance.">
-      </div>
-    </figure>
   </div>
 </div>
 
-<h2 class="sect"><span class="n">Three threads</span>The contours of the project</h2>
+<h2 class="sect">The contours of the project</h2>
 
 <section class="thread">
   <div class="thread-text">
-    <h3>I. Regional inequality</h3>
+    <h3>Regional inequality</h3>
     <p>The postcolonial state has long been concerned with the geography of disadvantage — the historical distinction between regions deemed &ldquo;backward&rdquo; and those deemed advanced. That concern is being reorganised through new vocabularies of aspiration, competition, and ranked performance. The work traces how the political and administrative labour once done by redistributive planning is now being done by other means.</p>
   </div>
   <figure class="thread-img">
@@ -56,7 +40,7 @@ description: "An ethnography of governance after planning — regional inequalit
     <img src="/assets/img/research/office.jpeg" alt="Two officials in a yellow-walled government office working at desktop computers, an A4 form pinned between the windows." loading="lazy">
   </figure>
   <div class="thread-text">
-    <h3>II. Digital infrastructures</h3>
+    <h3>Digital infrastructures</h3>
     <p>Dashboards, real-time data portals, ranking systems, machine learning algorithms, and automated decision systems have become central to how the contemporary state addresses developmental questions. These are not merely tools of measurement but a medium through which the state constitutes itself as an object of public attention. The work reads the technical apparatus ethnographically — attending to how it is built, maintained, and inhabited by frontline workers, bureaucrats, consultants, and the multinational technology corporations whose platforms increasingly underwrite governance — and to the gap between what such systems are supposed to know and what they actually do.</p>
     <figure class="inline-figure">
       <img src="/assets/img/diagrams/platform.svg" alt="A structural diagram of the modular state apparatus, mapping the stack of private vendor platforms, state-mediated integrations, and frontline administrative labor that underwrites digital governance." loading="lazy">
@@ -66,7 +50,7 @@ description: "An ethnography of governance after planning — regional inequalit
 
 <section class="thread">
   <div class="thread-text">
-    <h3>III. Federalism</h3>
+    <h3>Federalism</h3>
     <p>The relations between centre, states, and districts are reshaped each time a new mode of governing development is introduced. The work tracks how programmatic reform recomposes what it means for sub-national units to &ldquo;implement&rdquo; or to &ldquo;perform&rdquo; — and how the centre, in turn, performs its own reach across an uneven terrain.</p>
   </div>
   <figure class="thread-img">
@@ -74,7 +58,7 @@ description: "An ethnography of governance after planning — regional inequalit
   </figure>
 </section>
 
-<h2 class="sect"><span class="n">Field sites</span>Where the research happened</h2>
+<h2 class="sect">Where the research happened</h2>
 
 <figure class="research-map">
   <svg viewBox="0 0 400 480" role="img" aria-labelledby="map-title map-desc" class="india-map">
@@ -121,7 +105,3 @@ description: "An ethnography of governance after planning — regional inequalit
     </figure>
   </div>
 </div>
-
-<div class="stupa-coda" role="presentation"></div>
-
-<p class="back"><a href="/work/" aria-label="Back to Work index">← Back to Work</a></p>

@@ -7,16 +7,11 @@ description: "Concept note for the 2018-2019 Development Seminar series at the U
 
 <header class="pagehead">
   <div>
-    <div class="kicker">Archive · 2017–2019</div>
-    <h1>Development Seminar.</h1>
+    <h1>Development Seminar</h1>
     <p class="standfirst">An interdisciplinary initiative at the University of Toronto, convening to critically examine global inequality, postcolonial politics, and power in the Global South. Coordinated with Tania Li (Anthropology) and Katherine Rankin (Geography).</p>
   </div>
-  <div class="meta">
-    <dl>
-      <dt>Years</dt><dd>2017–2019</dd>
-      <dt>Host</dt><dd>U of Toronto</dd>
-    </dl>
-  </div>
+  <p class="facts">Years: 2017–2019<br>
+    Host: U of Toronto</p>
 </header>
 
 <div class="block">
@@ -30,7 +25,3 @@ description: "Concept note for the 2018-2019 Development Seminar series at the U
     <p>For more, please see the <a href="https://utdevsem.wordpress.com" rel="noopener">seminar website</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://utdevsem.wordpress.com" aria-label="Wayback Machine archived copy">↗</a></sup>.</p>
   </div>
 </div>
-
-<div class="stupa-coda" role="presentation"></div>
-
-<p class="back"><a href="/" aria-label="Back to About Page">← Back to About</a></p>

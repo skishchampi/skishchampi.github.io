@@ -7,14 +7,8 @@ description: "Get in touch with Aakash Solanki — email, ORCID, Google Scholar.
 
 <header class="pagehead">
   <div>
-    <div class="kicker">Correspondence</div>
-    <h1>Say hello.</h1>
+    <h1>Contact</h1>
     <p class="standfirst">Other earlier-career researchers and students working on questions of the state, technology, caste, or development are especially welcome to write. I&rsquo;m keen to support folks finding their way into research or academia without the social capital that usually opens those doors — even as I&rsquo;m still finding my own way.</p>
-  </div>
-  <div class="meta">
-    <dl>
-      <dt>Based in</dt><dd>Toronto</dd>
-    </dl>
   </div>
 </header>
 
@@ -27,5 +21,3 @@ description: "Get in touch with Aakash Solanki — email, ORCID, Google Scholar.
 <figure class="page-figure">
   <img src="/assets/img/research/table.jpeg" alt="Two people seated at a small table strewn with notebooks, papers, and craft materials, working together." loading="lazy">
 </figure>
-
-<p class="back"><a href="/" aria-label="Back to About page">← Back to About</a></p>

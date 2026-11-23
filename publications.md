@@ -7,21 +7,13 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
 
 <header class="pagehead">
   <div>
-    <div class="kicker">Folio · Publications</div>
-    <h1>Writings.</h1>
+    <h1>Publications</h1>
     <p class="standfirst">Public scholarship, interdisciplinary work, and peer-reviewed pieces. Full texts linked where open-access; otherwise please write for a copy.</p>
-  </div>
-  <div class="meta">
-    <dl>
-      <dt>Public</dt><dd>2 essays</dd>
-      <dt>Proceedings</dt><dd>2 published · 1 R&amp;R</dd>
-      <dt>Articles</dt><dd>1 published · 3 under review</dd>
-      <dt>Chapters</dt><dd>1 published · 1 forthcoming</dd>
-    </dl>
+    <p class="more">See also the <a href="/research/">book project</a>, <a href="/projects/">projects</a>, and the <a href="/blog/">blog</a>.</p>
   </div>
 </header>
 
-<h2 class="sect"><span class="n">§ 01</span>Public scholarship</h2>
+<h2 class="sect">Public scholarship</h2>
 
 <div class="pub" id="solanki-2025-express">
   <span class="yr">2025</span>
@@ -46,7 +38,7 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
   <a class="pub-anchor" href="#solanki-2018-culanth" aria-label="Permalink to this publication">#</a>
 </div>
 
-<h2 class="sect"><span class="n">§ 02</span>Interdisciplinary scholarly output</h2>
+<h2 class="sect">Interdisciplinary scholarly output</h2>
 
 <div class="pub" id="solanki-2026-chi">
   <span class="yr">2026</span>
@@ -82,7 +74,7 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
   <a class="pub-anchor" href="#solanki-2016-epic" aria-label="Permalink to this publication">#</a>
 </div>
 
-<h2 class="sect"><span class="n">§ 03</span>Peer-reviewed journal articles</h2>
+<h2 class="sect">Peer-reviewed journal articles</h2>
 
 <div class="pub" id="solanki-2019-south-asia">
   <span class="yr">2019</span>
@@ -105,7 +97,7 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
   <a class="pub-anchor" href="#solanki-under-review" aria-label="Permalink to this publication">#</a>
 </div>
 
-<h2 class="sect"><span class="n">§ 04</span>Book chapters</h2>
+<h2 class="sect">Book chapters</h2>
 
 <div class="pub" id="solanki-forthcoming-women-policy">
   <span class="yr">Forth.</span>
@@ -127,11 +119,6 @@ description: "Publications by Aakash Solanki: public scholarship, interdisciplin
   <span class="tags">Chapter</span>
   <a class="pub-anchor" href="#solanki-2020-untidy-data" aria-label="Permalink to this publication">#</a>
 </div>
-
-<div class="stupa-coda" role="presentation"></div>
-
-<p class="back"><a href="/work/" aria-label="Back to Work index">← Back to Work</a></p>
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

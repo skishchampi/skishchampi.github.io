@@ -7,17 +7,11 @@ description: "A King's College London online dialogue series on digital rights a
 
 <header class="pagehead">
   <div>
-    <div class="kicker">Project</div>
-    <h1>Digital Rights Activism Dialogues.</h1>
+    <h1>Digital Rights Activism Dialogues</h1>
     <p class="standfirst">An online dialogue series at King&rsquo;s College London, co-curated with Dr. <a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/people/tarangini-sriraman">Tarangini Sriraman</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.kcl.ac.uk/people/tarangini-sriraman" aria-label="Wayback Machine archived copy">↗</a></sup>, pairing activists and activism-adjacent academics across regional geographies of the Global South.</p>
   </div>
-  <div class="meta">
-    <dl>
-      <dt>Venue</dt><dd>King&rsquo;s College London</dd>
-      <dt>Co-curator</dt><dd><a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/people/tarangini-sriraman">Tarangini Sriraman</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.kcl.ac.uk/people/tarangini-sriraman" aria-label="Wayback Machine archived copy">↗</a></sup></dd>
-      <dt>Series page</dt><dd><a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/events/series/digital-rights-activism-dialogues">KCL events &rarr;</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.kcl.ac.uk/events/series/digital-rights-activism-dialogues" aria-label="Wayback Machine archived copy">↗</a></sup></dd>
-    </dl>
-  </div>
+  <p class="facts">Venue: King&rsquo;s College London · Co-curator: <a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/people/tarangini-sriraman">Tarangini Sriraman</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.kcl.ac.uk/people/tarangini-sriraman" aria-label="Wayback Machine archived copy">↗</a></sup><br>
+    Series page: <a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/events/series/digital-rights-activism-dialogues">KCL events &rarr;</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.kcl.ac.uk/events/series/digital-rights-activism-dialogues" aria-label="Wayback Machine archived copy">↗</a></sup></p>
 </header>
 
 <div class="block">
@@ -52,7 +46,3 @@ description: "A King's College London online dialogue series on digital rights a
     <p>Full series and upcoming dialogues: <a target="_blank" rel="noopener noreferrer" href="https://www.kcl.ac.uk/events/series/digital-rights-activism-dialogues">kcl.ac.uk/events/series/digital-rights-activism-dialogues</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.kcl.ac.uk/events/series/digital-rights-activism-dialogues" aria-label="Wayback Machine archived copy">↗</a></sup>.</p>
   </div>
 </div>
-
-<div class="stupa-coda" role="presentation"></div>
-
-<p class="back"><a href="/projects/" aria-label="Back to Projects Index">← Back to Projects</a></p>

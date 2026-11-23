@@ -113,6 +113,7 @@ main hr { border: 0; border-top: 1px solid var(--rule); margin: 32px 0; }
 .archive-link a:hover { color: var(--accent); }
 
 .more { font: 400 0.875rem/1.5 var(--sans); color: var(--ink-3); margin-top: 16px; }
+.facts { font: 400 0.875rem/1.6 var(--sans); color: var(--ink-3); }
 
 /* Page heading */
 .pagehead { margin-bottom: 32px; }

@@ -7,19 +7,14 @@ description: "An inquiry into libraries as sites of democratic encounter, anchor
 
 <header class="pagehead">
   <div>
-    <div class="kicker">Project</div>
-    <h1>Democracies and libraries.</h1>
+    <h1>Democracies and libraries</h1>
     <p class="standfirst">An ongoing inquiry into libraries as sites of democratic encounter &mdash; anchored in a brief on public-library spending across Indian states, and in research and advocacy with the Free Libraries Network, India and South Asia.</p>
   </div>
-  <div class="meta">
-    <dl>
-      <dt>Period</dt><dd>2023&ndash;continuing</dd>
-      <dt>Spend data</dt><dd>2014&ndash;21</dd>
-      <dt>Geography</dt><dd>India</dd>
-      <dt>Partner</dt><dd>Free Libraries Network</dd>
-      <dt>Tracker</dt><dd><a href="/freelibraries4all/">View dashboard &rarr;</a></dd>
-    </dl>
-  </div>
+  <p class="facts">Period: 2023&ndash;continuing<br>
+    Spend data: 2014&ndash;21<br>
+    Geography: India<br>
+    Partner: Free Libraries Network<br>
+    Tracker: <a href="/freelibraries4all/">View dashboard &rarr;</a></p>
 </header>
 
 <figure class="research-hero">
@@ -71,7 +66,3 @@ description: "An inquiry into libraries as sites of democratic encounter, anchor
     <p style="margin-top: 18px;"><a href="/freelibraries4all/" class="cta">Open the India Library Spend Tracker &rarr;</a></p>
   </div>
 </div>
-
-<div class="stupa-coda" role="presentation"></div>
-
-<p class="back"><a href="/projects/" aria-label="Back to Projects Index">← Back to Projects</a></p>

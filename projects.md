@@ -7,17 +7,8 @@ description: "Ongoing intellectual and public-facing projects by Aakash Solanki,
 
 <header class="pagehead">
   <div>
-    <div class="kicker">Folio · Projects</div>
-    <h1>Alongside the dissertation.</h1>
+    <h1>Projects</h1>
     <p class="standfirst">Ongoing intellectual and public-facing projects: sustained conversations, data work, and collaborations that run in parallel with the dissertation.</p>
-  </div>
-  <div class="meta">
-    <dl>
-      <dt>Active</dt><dd>5 projects</dd>
-      <dt>Since</dt><dd>2021</dd>
-      <dt>Geographies</dt><dd>India · Global</dd>
-      <dt>Mode</dt><dd>Collaborative</dd>
-    </dl>
   </div>
 </header>
 
@@ -45,11 +36,6 @@ description: "Ongoing intellectual and public-facing projects by Aakash Solanki,
   <h2>Critical Caste and Technology Studies Syllabus</h2>
   <p>Supported Dr. <a target="_blank" rel="noopener noreferrer" href="https://www.oii.ox.ac.uk/people/profiles/murali-shanmugavelan/">Murali Shanmugavelan</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.oii.ox.ac.uk/people/profiles/murali-shanmugavelan/" aria-label="Wayback Machine archived copy">↗</a></sup>&rsquo;s Critical Caste and Technology Studies (CCTS) syllabus — a first-of-its-kind open resource organizing anti-caste scholarship around communicative practices, media, and internet technology studies. The syllabus offers a cross-disciplinary starting point for students and scholars examining caste as it is remanifested in everyday digital cultures.</p>
 </article>
-
-<div class="stupa-coda" role="presentation"></div>
-
-<p class="back"><a href="/work/" aria-label="Back to Work index">← Back to Work</a></p>
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
