@@ -13,3 +13,13 @@ plugins:
 
 feed:
   path: feed.xml
+
+exclude:
+  - .sass-cache
+  - .jekyll-cache
+  - gemfiles
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - tests
