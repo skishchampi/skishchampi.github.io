@@ -38,7 +38,7 @@ for pat in 'class="kicker"' 'stupa-coda' 'class="ornament"' 'class="num"' 'class
 done
 
 # Retired content.
-for pat in 'Governance after Planning' 'diagrams/dashboard.svg' 'diagrams/coverage.svg' 'PhD Candidate'; do
+for pat in 'Governance after Planning' 'diagrams/dashboard.svg' 'diagrams/coverage.svg' 'PhD Candidate' 'Pedagogical Philosophy' 'Instructional Practice' 'available on request'; do
   hit=$(grep -rl --include="*.html" -- "$pat" _site | head -1 || true)
   [ -z "$hit" ] || fail "'$pat' still in $hit"
 done
@@ -85,6 +85,19 @@ lis = re.findall(r"<li", m.group(1))
 if len(lis) != 3: sys.exit(f"FAIL: news has {len(lis)} items")
 if "Not a Data Project" not in m.group(1).split("</li>")[0]: sys.exit("FAIL: newest talk not first")
 PY
+
+# Homepage: name heading for screen readers only; photo sits inside the biography, not in a separate band.
+has _site/index.html '<h1 class="sr-only"'
+python3 -I - <<'PY' || exit 1
+import re, sys
+s = open("_site/index.html").read()
+if 'class="lede"' in s: sys.exit("FAIL: homepage still has the separate lede band")
+bio = re.search(r'<h2 class="label">Biography</h2>(.*?)</div>\s*</div>', s, re.S)
+if not bio or 'class="portrait"' not in bio.group(1): sys.exit("FAIL: portrait not inside biography")
+PY
+
+# Teaching keeps its three courses.
+[ "$(grep -c 'class="course"' _site/teaching/index.html)" = 3 ] || fail "teaching does not have 3 courses"
 
 # Publications anchors kept.
 python3 -I - <<'PY' || exit 1

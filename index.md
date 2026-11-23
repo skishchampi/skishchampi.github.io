@@ -2,19 +2,14 @@
 layout: default
 ---
 
-<section class="lede" aria-labelledby="home-hd">
-  <div>
-    <h1 id="home-hd">Aakash Solanki</h1>
-    <p class="standfirst">Anthropologist. Research on bureaucracy, data infrastructures, and the technopolitics of the Indian state.</p>
-  </div>
-  <div class="portrait">
-    {% if site.logo %}<img src="{{ site.logo | relative_url }}" alt="Portrait of Aakash Solanki" loading="lazy">{% endif %}
-  </div>
-</section>
+<h1 class="sr-only">Aakash Solanki</h1>
 
 <div class="block">
   <h2 class="label">Biography</h2>
   <div class="body">
+    <figure class="portrait">
+      {% if site.logo %}<img src="{{ site.logo | relative_url }}" alt="Portrait of Aakash Solanki" loading="lazy">{% endif %}
+    </figure>
     <p>Aakash Solanki is an anthropologist. His research sits at the intersection of the anthropology of the state, science and technology studies, and the historical study of statistics and computing. He has worked on the collection, classification, and management of information in colonial and postcolonial India. In addition to prior training in computer science, he has worked in government agencies in the US and India on data science projects in education, health, and skill development at municipal, state, and federal levels.</p>
     <p>His first book project, <em>Governing Indeterminately: An Ethnography of Technopopulism from India</em>, draws on long-term fieldwork in Indian state and central bureaucracies to examine how digital infrastructures mediate development, statecraft, and fiscal federal relations. The research is funded by the International Development Research Centre (IDRC) and the Wenner-Gren Foundation for Anthropological Research.</p>
     <p>His research has appeared in <em>South Asia: Journal of South Asian Studies</em> and interdisciplinary venues such as the <em>Proceedings of CHI 2026</em>. He is a former Student Editor at <em>Cultural Anthropology</em>. He convened the interdisciplinary <a href="/utdevsem/">Development Seminar</a> at the University of Toronto.</p>

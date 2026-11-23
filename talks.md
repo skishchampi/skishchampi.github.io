@@ -7,7 +7,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
 
 <header class="pagehead">
   <h1>Talks</h1>
-  <p class="standfirst">Invited lectures, conference presentations, and workshop talks. Slides and recordings are available on request for most.</p>
+  <p class="standfirst">Invited lectures, conference presentations, and workshop talks.</p>
 </header>
 
 {% assign years = site.data.talks | group_by: "year" %}

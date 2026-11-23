@@ -127,12 +127,11 @@ h2.sect, h2.label {
 }
 
 /* ── Homepage ───────────────────────────────────────────── */
-.lede { display: grid; grid-template-columns: minmax(0, 1fr) 180px; gap: 32px; align-items: start; margin-bottom: 8px; }
-.lede h1 { margin-bottom: 6px; }
-.lede .standfirst { margin: 0; }
+.portrait { float: right; width: 180px; margin: 4px 0 16px 28px; }
 .portrait img { width: 100%; border-radius: 2px; }
 
 .block { margin-top: 8px; }
+.block .body::after { content: ""; display: block; clear: both; }
 .block .body > :last-child { margin-bottom: 0; }
 
 /* Dated rows: news, talks, posts */
@@ -224,8 +223,7 @@ figcaption { font: 400 0.8125rem/1.45 var(--sans); color: var(--ink-3); margin-t
 @media (max-width: 640px) {
   .wrapper { padding: 0 16px; }
   main { padding-top: 28px; }
-  .lede { grid-template-columns: 1fr; gap: 16px; }
-  .portrait { max-width: 160px; }
+  .portrait { width: 120px; margin-left: 16px; }
   .thread, .research-map, .diptych { grid-template-columns: 1fr; gap: 16px; }
   .news li, .posts li { grid-template-columns: 1fr; gap: 0; }
   .pub-anchor { display: none; }
