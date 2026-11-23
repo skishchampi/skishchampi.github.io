@@ -80,14 +80,15 @@
       ],
       "identifier": "{{ site.orcid }}",
       "knowsAbout": [
-        "Anthropology of the state",
-        "Science and technology studies",
         "History of statistics and computing",
         "Ethnography of bureaucracy",
-        "South Asia",
+        "Public administration",
+        "Data infrastructures",
+        "Algorithmic governance",
         "Caste and technoscience",
-        "Digital infrastructures",
-        "Technopopulism"
+        "Digital publics",
+        "Technopopulism",
+        "Mixed methods"
       ]
     }
     </script>
@@ -107,15 +108,20 @@
         </p>
         <nav class="mast-nav" role="navigation" aria-label="Primary Navigation">
           {%- assign here = page.url -%}
-          {%- assign writing = false -%}
-          {%- assign writing_paths = "/publications,/research,/projects,/caste-technoscience,/states-startups-capital,/digital-rights-activism-dialogues,/libraries,/utdevsem,/blog" | split: "," -%}
-          {%- for w in writing_paths -%}
-            {%- if here contains w %}{% assign writing = true %}{% endif -%}
+          {%- assign research = false -%}
+          {%- assign research_paths = "/research,/publications,/talks,/blog" | split: "," -%}
+          {%- for w in research_paths -%}
+            {%- if here contains w %}{% assign research = true %}{% endif -%}
           {%- endfor -%}
-          {%- if page.layout == "post" or page.layout == "tag" %}{% assign writing = true %}{% endif %}
-          <a href="{{ '/publications/' | relative_url }}"{% if writing %} class="active" aria-current="page"{% endif %}>Writing</a>
+          {%- if page.layout == "post" or page.layout == "tag" %}{% assign research = true %}{% endif -%}
+          {%- assign collaborations = false -%}
+          {%- assign collaboration_paths = "/collaborations,/projects,/libraries,/caste-technoscience,/states-startups-capital,/digital-rights-activism-dialogues" | split: "," -%}
+          {%- for c in collaboration_paths -%}
+            {%- if here contains c %}{% assign collaborations = true %}{% endif -%}
+          {%- endfor -%}
+          <a href="{{ '/research/' | relative_url }}"{% if research %} class="active" aria-current="page"{% endif %}>Research</a>
           <a href="{{ '/teaching/' | relative_url }}"{% if here contains '/teaching' %} class="active" aria-current="page"{% endif %}>Teaching</a>
-          <a href="{{ '/talks/' | relative_url }}"{% if here contains '/talks' %} class="active" aria-current="page"{% endif %}>Talking</a>
+          <a href="{{ '/collaborations/' | relative_url }}"{% if collaborations %} class="active" aria-current="page"{% endif %}>Collaborations</a>
           <a href="{{ '/contact/' | relative_url }}"{% if here contains '/contact' %} class="active" aria-current="page"{% endif %}>Contact</a>
           <button id="theme-toggle" type="button" aria-pressed="false" aria-label="Switch to dark mode">
             <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false">

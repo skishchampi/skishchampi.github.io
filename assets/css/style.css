@@ -227,6 +227,11 @@ figcaption { font: 400 0.8125rem/1.45 var(--sans); color: var(--ink-3); margin-t
   .thread, .research-map, .diptych { grid-template-columns: 1fr; gap: 16px; }
   .news li, .posts li { grid-template-columns: 1fr; gap: 0; }
   .pub-anchor { display: none; }
+  /* Keep the toggle beside the name instead of letting it wrap under the nav. */
+  .mast { position: relative; }
+  .mast-title { padding-right: 52px; }
+  .mast-nav { gap: 4px 16px; }
+  #theme-toggle { position: absolute; top: 8px; right: 0; }
 }
 
 /* ── Print ──────────────────────────────────────────────── */

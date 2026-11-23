@@ -56,7 +56,7 @@ m = re.search(r'<nav class="mast-nav".*?</nav>', s, re.S)
 print(" ".join(re.findall(r'<a href="([^"]+)"', m.group(0))) if m else "")
 PY
 )
-[ "$nav" = "/publications/ /teaching/ /talks/ /contact/" ] || fail "nav is '$nav'"
+[ "$nav" = "/research/ /teaching/ /collaborations/ /contact/" ] || fail "nav is '$nav'"
 
 # Talks: 13 entries, JSON-LD valid with 13 items.
 python3 -I - <<'PY' || exit 1
@@ -96,6 +96,31 @@ if '>Biography</h2>' in s: sys.exit("FAIL: homepage still has a Biography headin
 bio = re.search(r'<div class="block">(.*?)</div>\s*</div>', s, re.S)
 if not bio or 'class="portrait"' not in bio.group(1) or 'is an anthropologist' not in bio.group(1): sys.exit("FAIL: portrait and bio not together in first block")
 PY
+
+# Collaborations: two groups, five entries, JSON-LD valid with five items.
+python3 -I - <<'PY' || exit 1
+import json, re, sys
+s = open("_site/collaborations/index.html").read()
+n = len(re.findall(r'class="project"', s))
+groups = re.findall(r'<h2 class="label">([^<]+)</h2>', s)
+blocks = re.findall(r'<script type="application/ld\+json">(.*?)</script>', s, re.S)
+items = None
+for b in blocks:
+    d = json.loads(b)
+    if d.get("@type") == "ItemList":
+        items = d["itemListElement"]
+if n != 5: sys.exit(f"FAIL: collaborations page has {n} entries")
+if groups != ["Scholarly collaborations", "Public and policy work"]:
+    sys.exit(f"FAIL: collaborations groups are {groups}")
+if items is None or len(items) != 5: sys.exit("FAIL: collaborations JSON-LD missing or wrong length")
+PY
+
+# The old projects URL still resolves, by redirect.
+grep -q 'url=/collaborations/' _site/projects/index.html || fail "projects no longer redirects"
+
+# Research is the hub: it links down to publications and talks.
+has _site/research/index.html 'href="/publications/"'
+has _site/research/index.html 'href="/talks/"'
 
 # Teaching keeps its three courses.
 [ "$(grep -c 'class="course"' _site/teaching/index.html)" = 3 ] || fail "teaching does not have 3 courses"

@@ -9,9 +9,11 @@ description: "Governing Indeterminately: an ethnography of technopopulism from I
   <div>
     <h1><em>Governing Indeterminately: An Ethnography of Technopopulism from India</em></h1>
     <p class="standfirst">An ethnography of Indian policy elites — central-government bureaucrats, state-cadre officers, consultants, and the technocratic apparatus they inhabit — and of the technopopulist governing form that has come to characterise the contemporary conjuncture. A study of how a postcolonial state continues to govern when the epistemological foundations of planning come undone.</p>
-    <p class="facts">Fieldwork 2019–2023 in the national capital, state capitals and districts, with archival work from 1950 to the present. Funded by IDRC and the <a target="_blank" rel="noopener noreferrer" href="https://wennergren.org/grantee/aakash-solanki/">Wenner-Gren Foundation</a>&nbsp;<sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://wennergren.org/grantee/aakash-solanki/" aria-label="Wayback Machine archived copy">↗</a></sup>.</p>
+    <p class="facts">Fieldwork 2019–2023 in the national capital, state capitals and districts, with archival work from 1950 to the present. Funded by <a target="_blank" rel="noopener noreferrer" href="https://idrc-crdi.ca/en">IDRC</a> and the <a target="_blank" rel="noopener noreferrer" href="https://wennergren.org/grantee/aakash-solanki/">Wenner-Gren Foundation</a>&nbsp;<sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://wennergren.org/grantee/aakash-solanki/" aria-label="Wayback Machine archived copy">↗</a></sup>.</p>
   </div>
 </header>
+
+<p class="more">More on this research: <a href="/publications/">publications</a> and <a href="/talks/">talks</a>.</p>
 
 <div class="block">
   <h2 class="label">The Analytic Inquiry</h2>
