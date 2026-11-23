@@ -92,8 +92,9 @@ python3 -I - <<'PY' || exit 1
 import re, sys
 s = open("_site/index.html").read()
 if 'class="lede"' in s: sys.exit("FAIL: homepage still has the separate lede band")
-bio = re.search(r'<h2 class="label">Biography</h2>(.*?)</div>\s*</div>', s, re.S)
-if not bio or 'class="portrait"' not in bio.group(1): sys.exit("FAIL: portrait not inside biography")
+if '>Biography</h2>' in s: sys.exit("FAIL: homepage still has a Biography heading")
+bio = re.search(r'<div class="block">(.*?)</div>\s*</div>', s, re.S)
+if not bio or 'class="portrait"' not in bio.group(1) or 'is an anthropologist' not in bio.group(1): sys.exit("FAIL: portrait and bio not together in first block")
 PY
 
 # Teaching keeps its three courses.

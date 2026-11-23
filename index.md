@@ -5,7 +5,6 @@ layout: default
 <h1 class="sr-only">Aakash Solanki</h1>
 
 <div class="block">
-  <h2 class="label">Biography</h2>
   <div class="body">
     <figure class="portrait">
       {% if site.logo %}<img src="{{ site.logo | relative_url }}" alt="Portrait of Aakash Solanki" loading="lazy">{% endif %}
