@@ -24,6 +24,11 @@ description: "Collaborative projects and public-facing work by Aakash Solanki: s
   <p>A joint inquiry with <a target="_blank" rel="noopener noreferrer" href="https://www.stevens.edu/profile/smertia">Sandeep Mertia</a>&nbsp;<sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.stevens.edu/profile/smertia" aria-label="Wayback Machine archived copy">↗</a></sup> and <a target="_blank" rel="noopener noreferrer" href="https://www.uva.nl/en/profile/h/a/n.a.hasan/n.a.hasan.html">Nafis Hasan</a>&nbsp;<sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.uva.nl/en/profile/h/a/n.a.hasan/n.a.hasan.html" aria-label="Wayback Machine archived copy">↗</a></sup> into mobile applications, state power, and the digital economy &mdash; how apps emerge and circulate not just as products of the digital economy but as the form of the technological state.</p>
 </article>
 
+<article class="project">
+  <h2><a href="/utdevsem/">Development Seminar</a></h2>
+  <p>An interdisciplinary seminar series at the University of Toronto, 2017&ndash;2019, run with <a target="_blank" rel="noopener noreferrer" href="https://www.anthropology.utoronto.ca/people/directories/all-faculty/tania-li">Dr. Tania Li</a>&nbsp;<sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://www.anthropology.utoronto.ca/people/directories/all-faculty/tania-li" aria-label="Wayback Machine archived copy">↗</a></sup> and Katherine Rankin (Geography). It put humanities, social sciences, public health, and engineering into one conversation about global inequality, postcolonial politics, and the politics of aid; the 2018&ndash;19 theme was <em>Development Infrastructures</em>. Li is now the Yusof Ishak Professor of Social Sciences at the <a target="_blank" rel="noopener noreferrer" href="https://fass.nus.edu.sg/mls/">National University of Singapore</a>.</p>
+</article>
+
 <h2 class="label">Public and policy work</h2>
 
 <article class="project">
@@ -80,6 +85,21 @@ description: "Collaborative projects and public-facing work by Aakash Solanki: s
       "position": 3,
       "item": {
         "@type": "CreativeWork",
+        "name": "Development Seminar",
+        "author": [
+          {"@type": "Person", "name": "Aakash Solanki", "sameAs": "https://orcid.org/0000-0002-4879-6998"},
+          {"@type": "Person", "name": "Tania Li"},
+          {"@type": "Person", "name": "Katherine Rankin"}
+        ],
+        "description": "An interdisciplinary seminar series at the University of Toronto, 2017–2019, on global inequality, postcolonial politics, and the politics of development.",
+        "url": "https://aakashsolanki.net/utdevsem/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "CreativeWork",
         "name": "Democracies and Libraries",
         "author": {"@type": "Person", "name": "Aakash Solanki", "sameAs": "https://orcid.org/0000-0002-4879-6998"},
         "description": "An ongoing inquiry into libraries as sites of democratic encounter, anchored conceptually in a Dewey–Ambedkar frame of democracy as associated living.",
@@ -88,7 +108,7 @@ description: "Collaborative projects and public-facing work by Aakash Solanki: s
     },
     {
       "@type": "ListItem",
-      "position": 4,
+      "position": 5,
       "item": {
         "@type": "CreativeWork",
         "name": "Digital Rights Activism Dialogues",
@@ -102,7 +122,7 @@ description: "Collaborative projects and public-facing work by Aakash Solanki: s
     },
     {
       "@type": "ListItem",
-      "position": 5,
+      "position": 6,
       "item": {
         "@type": "CreativeWork",
         "name": "Critical Caste and Technology Studies Syllabus",
