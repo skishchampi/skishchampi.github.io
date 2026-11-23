@@ -14,12 +14,18 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
   <div class="meta">
     <dl>
       <dt>Since</dt><dd>2021</dd>
-      <dt>Recent</dt><dd>U of Toronto · IFLA · IIIT-Delhi</dd>
+      <dt>Recent</dt><dd>Ethnography Lab · U of Toronto · IFLA</dd>
     </dl>
   </div>
 </header>
 
 <h2 class="sect"><span class="n">2026</span>This year</h2>
+
+<div class="talk">
+  <span class="dt">Nov 2026</span>
+  <span class="ttl">&ldquo;&lsquo;Not a Data Project&rsquo;: Failures and Follies of Following the Tech a Little Too Closely&rdquo;</span>
+  <span class="at"><a target="_blank" rel="noopener noreferrer" href="https://ethnographylab.ca/2026/11/12/please-join-us-for-the-second-speaker-in-our-series-methodological-approaches-to-studying-artificial-intelligence-2/">Ethnography Lab, University of Toronto</a> <sup class="archive-link"><a target="_blank" rel="noopener noreferrer" href="https://web.archive.org/web/2/https://ethnographylab.ca/2026/11/12/please-join-us-for-the-second-speaker-in-our-series-methodological-approaches-to-studying-artificial-intelligence-2/" aria-label="Wayback Machine archived copy">↗</a></sup></span>
+</div>
 
 <div class="talk">
   <span class="dt">Apr 2026</span>
@@ -113,6 +119,26 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
       "position": 1,
       "item": {
         "@type": "Event",
+        "name": "‘Not a Data Project’: Failures and Follies of Following the Tech a Little Too Closely",
+        "startDate": "2026-11-20T17:00:00-05:00",
+        "endDate": "2026-11-20T18:00:00-05:00",
+        "url": "https://ethnographylab.ca/2026/11/12/please-join-us-for-the-second-speaker-in-our-series-methodological-approaches-to-studying-artificial-intelligence-2/",
+        "location": {
+          "@type": "Place",
+          "name": "Ethnography Lab, Department of Anthropology, University of Toronto",
+          "address": "19 Ursula Franklin St., Toronto, ON"
+        },
+        "performer": {
+          "@type": "Person",
+          "name": "Aakash Solanki"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Event",
         "name": "Constitutive Incompetence: Caste, Expertise, and the Indian State",
         "startDate": "2026-04",
         "location": {
@@ -127,7 +153,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
     },
     {
       "@type": "ListItem",
-      "position": 2,
+      "position": 3,
       "item": {
         "@type": "Event",
         "name": "Caste, Libraries, and Public Finance",
@@ -145,7 +171,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
     },
     {
       "@type": "ListItem",
-      "position": 3,
+      "position": 4,
       "item": {
         "@type": "Event",
         "name": "Infrastructures of IntraStatecraft: Digital Public Finance and the Mediation of Fiscal Federal Relations in India",
@@ -162,7 +188,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
     },
     {
       "@type": "ListItem",
-      "position": 4,
+      "position": 5,
       "item": {
         "@type": "Event",
         "name": "Rethinking the Emergence of the Poverty Line: The 1961 Census and Technopolitics of Governmentality in India",
@@ -180,7 +206,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
     },
     {
       "@type": "ListItem",
-      "position": 5,
+      "position": 6,
       "item": {
         "@type": "Event",
         "name": "Digital Infrastructures and the Mediation of Development",
@@ -197,7 +223,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
     },
     {
       "@type": "ListItem",
-      "position": 6,
+      "position": 7,
       "item": {
         "@type": "Event",
         "name": "‘Can We Really Do It?’ The Promise of a Guerrilla Data Practice",
@@ -215,7 +241,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
     },
     {
       "@type": "ListItem",
-      "position": 7,
+      "position": 8,
       "item": {
         "@type": "Event",
         "name": "Politics and Poetics of a Formula",
@@ -232,7 +258,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
     },
     {
       "@type": "ListItem",
-      "position": 8,
+      "position": 9,
       "item": {
         "@type": "Event",
         "name": "Maximum Data, Minimum Insights: Indian Bureaucracy’s Tryst with Digital India",
@@ -249,7 +275,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
     },
     {
       "@type": "ListItem",
-      "position": 9,
+      "position": 10,
       "item": {
         "@type": "Event",
         "name": "Participant-Observation Tactics for Studying Up Among Elites",
@@ -266,7 +292,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
     },
     {
       "@type": "ListItem",
-      "position": 10,
+      "position": 11,
       "item": {
         "@type": "Event",
         "name": "‘Can You WhatsApp It to Me?’ Mobile Data Dashboards and Evidence-Based Policy",
@@ -283,7 +309,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
     },
     {
       "@type": "ListItem",
-      "position": 11,
+      "position": 12,
       "item": {
         "@type": "Event",
         "name": "Surveying the MISes: Building Infrastructures to Monitor ‘Outcomes’ in India",
@@ -300,7 +326,7 @@ description: "Recent talks, workshops, and invited presentations by Aakash Solan
     },
     {
       "@type": "ListItem",
-      "position": 12,
+      "position": 13,
       "item": {
         "@type": "Event",
         "name": "Shoveling Data? Monitoring Outcomes in the Indian Public Sector",
